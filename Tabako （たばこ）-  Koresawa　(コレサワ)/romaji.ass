@@ -13,56 +13,57 @@ YCbCr Matrix: None
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: tabaco,Set Fire to the Rain,81,&H00CACAF8,&H00CBCBF8,&H0036342E,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,20,20,20,0
+Style: tabaco#,Set Fire to the Rain,81,&H00CACAF8,&H00CBCBF8,&H0036342E,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,20,20,20,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:33.44,0:00:36.48,tabaco,,0000,0000,0000,,kinou no yoru kara
-Dialogue: 0,0:00:36.49,0:00:40.20,tabaco,,0000,0000,0000,,kimi ga inakunatte
-Dialogue: 0,0:00:40.20,0:00:44.50,tabaco,,0000,0000,0000,,ni juu yo jikan ga tatta
-Dialogue: 0,0:00:46.50,0:00:58.80,tabaco,,0000,0000,0000,,boku wa mada ippo mo soto ni wa deteinai
-Dialogue: 0,0:01:12.56,0:01:18.70,tabaco,,0000,0000,0000,,mai peesu de yoku nebou suru
-Dialogue: 0,0:01:18.70,0:01:23.98,tabaco,,0000,0000,0000,,kimi no koto wo omotte
-Dialogue: 0,0:01:25.55,0:01:30.99,tabaco,,0000,0000,0000,,go fun hayameta ie no tokei
-Dialogue: 0,0:01:32.60,0:01:37.13,tabaco,,0000,0000,0000,,mou imi nai na
-Dialogue: 0,0:01:38.57,0:01:44.78,tabaco,,0000,0000,0000,,tabako no kirai na boku wo kidzukatte
-Dialogue: 0,0:01:44.78,0:01:49.00,tabaco,,0000,0000,0000,,beranda de sutteta kke na
-Dialogue: 0,0:01:51.25,0:01:54.45,tabaco,,0000,0000,0000,,kaaten ga yurete
-Dialogue: 0,0:01:54.45,0:01:57.91,tabaco,,0000,0000,0000,,me ga atsu ku natta
-Dialogue: 0,0:01:57.91,0:02:05.16,tabaco,,0000,0000,0000,,mou soko ni kimi wa inai
-Dialogue: 0,0:02:07.38,0:02:10.80,tabaco,,0000,0000,0000,,“motto chanto boku wo mitete yo
-Dialogue: 0,0:02:10.80,0:02:13.30,tabaco,,0000,0000,0000,,motto chanto” tte
-Dialogue: 0,0:02:13.30,0:02:20.66,tabaco,,0000,0000,0000,,sono kotaba ga kimi ni wa omokatta no?
-Dialogue: 0,0:02:20.66,0:02:23.81,tabaco,,0000,0000,0000,,“motto chanto boku wo mitete yo
-Dialogue: 0,0:02:23.82,0:02:26.27,tabaco,,0000,0000,0000,,motto chanto” tte
-Dialogue: 0,0:02:26.27,0:02:30.37,tabaco,,0000,0000,0000,,iwanakereba
-Dialogue: 0,0:02:30.37,0:02:37.29,tabaco,,0000,0000,0000,,kimi wa koko ni ita kana
-Dialogue: 0,0:02:46.43,0:02:56.21,tabaco,,0000,0000,0000,,boku no koto wa tabun kimi ga yoku shitteru
-Dialogue: 0,0:02:59.44,0:03:02.76,tabaco,,0000,0000,0000,,nemutai toki ni tai on ga agaru
-Dialogue: 0,0:03:02.76,0:03:09.94,tabaco,,0000,0000,0000,,kisu wa mijikame ga suki tte koto mo
-Dialogue: 0,0:03:12.29,0:03:18.77,tabaco,,0000,0000,0000,,sono toki omotta boku wa kimi no koto
-Dialogue: 0,0:03:18.77,0:03:23.14,tabaco,,0000,0000,0000,,dore gurai wakattetan darou
-Dialogue: 0,0:03:25.35,0:03:31.87,tabaco,,0000,0000,0000,,ichiban saisho ni ukande kita no wa
-Dialogue: 0,0:03:31.87,0:03:38.46,tabaco,,0000,0000,0000,,kimi no suki na tabako no namae
-Dialogue: 0,0:03:38.46,0:03:41.68,tabaco,,0000,0000,0000,,“motto chanto kimi wo mitereba
-Dialogue: 0,0:03:41.68,0:03:44.78,tabaco,,0000,0000,0000,,motto chanto” tte
-Dialogue: 0,0:03:44.78,0:03:48.18,tabaco,,0000,0000,0000,,ima sara
-Dialogue: 0,0:03:48.18,0:03:51.48,tabaco,,0000,0000,0000,,kidzuitemo osoi yo na
-Dialogue: 0,0:03:51.48,0:03:54.66,tabaco,,0000,0000,0000,,“motto chanto kimi wo mitereba
-Dialogue: 0,0:03:54.66,0:03:57.11,tabaco,,0000,0000,0000,,motto chanto” tte
-Dialogue: 0,0:03:57.11,0:04:00.85,tabaco,,0000,0000,0000,,ima kidzuita tte
-Dialogue: 0,0:04:00.91,0:04:04.72,tabaco,,0000,0000,0000,,nan no imi ga anda
-Dialogue: 0,0:04:04.72,0:04:11.37,tabaco,,0000,0000,0000,,kimi ga oite ita tabako
-Dialogue: 0,0:04:11.37,0:04:18.63,tabaco,,0000,0000,0000,,boku no dai kirai na mono na noni
-Dialogue: 0,0:04:18.63,0:04:20.30,tabaco,,0000,0000,0000,,doushite
-Dialogue: 0,0:04:20.62,0:04:25.88,tabaco,,0000,0000,0000,,hi wo tsukete shimatta
-Dialogue: 0,0:04:30.38,0:04:33.78,tabaco,,0000,0000,0000,,kimi no nioi ga shita no sa
-Dialogue: 0,0:04:33.78,0:04:38.51,tabaco,,0000,0000,0000,,kimi no nioi
-Dialogue: 0,0:04:43.26,0:04:47.52,tabaco,,0000,0000,0000,,hitokuchi sutte shimatta
-Dialogue: 0,0:04:47.86,0:04:56.57,tabaco,,0000,0000,0000,,demo yappari muze da
-Dialogue: 0,0:04:56.58,0:04:59.89,tabaco,,0000,0000,0000,,“motto chanto boku wo mitete yo
-Dialogue: 0,0:04:59.89,0:05:02.29,tabaco,,0000,0000,0000,,motto chanto” tte
-Dialogue: 0,0:05:02.29,0:05:06.11,tabaco,,0000,0000,0000,,iwanakereba
-Dialogue: 0,0:05:06.11,0:05:09.66,tabaco,,0000,0000,0000,,kimi wa mada koko ni ita ka na
-Dialogue: 0,0:05:09.66,0:05:12.73,tabaco,,0000,0000,0000,,“motto chanto kimi wo mitereba
-Dialogue: 0,0:05:12.73,0:05:15.14,tabaco,,0000,0000,0000,,motto chanto” tte
-Dialogue: 0,0:05:15.14,0:05:25.72,tabaco,,0000,0000,0000,,sukoshi nigai kimi no nioi ni naketa
+Dialogue: 0,0:00:33.44,0:00:36.48,tabaco#,,0000,0000,0000,,kinou no yoru kara
+Dialogue: 0,0:00:36.49,0:00:40.20,tabaco#,,0000,0000,0000,,kimi ga inakunatte
+Dialogue: 0,0:00:40.20,0:00:44.50,tabaco#,,0000,0000,0000,,ni juu yo jikan ga tatta
+Dialogue: 0,0:00:46.50,0:00:58.80,tabaco#,,0000,0000,0000,,boku wa mada ippo mo soto ni wa deteinai
+Dialogue: 0,0:01:12.56,0:01:18.70,tabaco#,,0000,0000,0000,,mai peesu de yoku nebou suru
+Dialogue: 0,0:01:18.70,0:01:23.98,tabaco#,,0000,0000,0000,,kimi no koto wo omotte
+Dialogue: 0,0:01:25.55,0:01:30.99,tabaco#,,0000,0000,0000,,go fun hayameta ie no tokei
+Dialogue: 0,0:01:32.60,0:01:37.13,tabaco#,,0000,0000,0000,,mou imi nai na
+Dialogue: 0,0:01:38.57,0:01:44.78,tabaco#,,0000,0000,0000,,tabako no kirai na boku wo kidzukatte
+Dialogue: 0,0:01:44.78,0:01:49.00,tabaco#,,0000,0000,0000,,beranda de sutteta kke na
+Dialogue: 0,0:01:51.25,0:01:54.45,tabaco#,,0000,0000,0000,,kaaten ga yurete
+Dialogue: 0,0:01:54.45,0:01:57.91,tabaco#,,0000,0000,0000,,me ga atsu ku natta
+Dialogue: 0,0:01:57.91,0:02:05.16,tabaco#,,0000,0000,0000,,mou soko ni kimi wa inai
+Dialogue: 0,0:02:07.38,0:02:10.80,tabaco#,,0000,0000,0000,,“motto chanto boku wo mitete yo
+Dialogue: 0,0:02:10.80,0:02:13.30,tabaco#,,0000,0000,0000,,motto chanto” tte
+Dialogue: 0,0:02:13.30,0:02:20.66,tabaco#,,0000,0000,0000,,sono kotaba ga kimi ni wa omokatta no?
+Dialogue: 0,0:02:20.66,0:02:23.81,tabaco#,,0000,0000,0000,,“motto chanto boku wo mitete yo
+Dialogue: 0,0:02:23.82,0:02:26.27,tabaco#,,0000,0000,0000,,motto chanto” tte
+Dialogue: 0,0:02:26.27,0:02:30.37,tabaco#,,0000,0000,0000,,iwanakereba
+Dialogue: 0,0:02:30.37,0:02:37.29,tabaco#,,0000,0000,0000,,kimi wa koko ni ita kana
+Dialogue: 0,0:02:46.43,0:02:56.21,tabaco#,,0000,0000,0000,,boku no koto wa tabun kimi ga yoku shitteru
+Dialogue: 0,0:02:59.44,0:03:02.76,tabaco#,,0000,0000,0000,,nemutai toki ni tai on ga agaru
+Dialogue: 0,0:03:02.76,0:03:09.94,tabaco#,,0000,0000,0000,,kisu wa mijikame ga suki tte koto mo
+Dialogue: 0,0:03:12.29,0:03:18.77,tabaco#,,0000,0000,0000,,sono toki omotta boku wa kimi no koto
+Dialogue: 0,0:03:18.77,0:03:23.14,tabaco#,,0000,0000,0000,,dore gurai wakattetan darou
+Dialogue: 0,0:03:25.35,0:03:31.87,tabaco#,,0000,0000,0000,,ichiban saisho ni ukande kita no wa
+Dialogue: 0,0:03:31.87,0:03:38.46,tabaco#,,0000,0000,0000,,kimi no suki na tabako no namae
+Dialogue: 0,0:03:38.46,0:03:41.68,tabaco#,,0000,0000,0000,,“motto chanto kimi wo mitereba
+Dialogue: 0,0:03:41.68,0:03:44.78,tabaco#,,0000,0000,0000,,motto chanto” tte
+Dialogue: 0,0:03:44.78,0:03:48.18,tabaco#,,0000,0000,0000,,ima sara
+Dialogue: 0,0:03:48.18,0:03:51.48,tabaco#,,0000,0000,0000,,kidzuitemo osoi yo na
+Dialogue: 0,0:03:51.48,0:03:54.66,tabaco#,,0000,0000,0000,,“motto chanto kimi wo mitereba
+Dialogue: 0,0:03:54.66,0:03:57.11,tabaco#,,0000,0000,0000,,motto chanto” tte
+Dialogue: 0,0:03:57.11,0:04:00.85,tabaco#,,0000,0000,0000,,ima kidzuita tte
+Dialogue: 0,0:04:00.91,0:04:04.72,tabaco#,,0000,0000,0000,,nan no imi ga anda
+Dialogue: 0,0:04:04.72,0:04:11.37,tabaco#,,0000,0000,0000,,kimi ga oite ita tabako
+Dialogue: 0,0:04:11.37,0:04:18.63,tabaco#,,0000,0000,0000,,boku no dai kirai na mono na noni
+Dialogue: 0,0:04:18.63,0:04:20.30,tabaco#,,0000,0000,0000,,doushite
+Dialogue: 0,0:04:20.62,0:04:25.88,tabaco#,,0000,0000,0000,,hi wo tsukete shimatta
+Dialogue: 0,0:04:30.38,0:04:33.78,tabaco#,,0000,0000,0000,,kimi no nioi ga shita no sa
+Dialogue: 0,0:04:33.78,0:04:38.51,tabaco#,,0000,0000,0000,,kimi no nioi
+Dialogue: 0,0:04:43.26,0:04:47.52,tabaco#,,0000,0000,0000,,hitokuchi sutte shimatta
+Dialogue: 0,0:04:47.86,0:04:56.57,tabaco#,,0000,0000,0000,,demo yappari muze da
+Dialogue: 0,0:04:56.58,0:04:59.89,tabaco#,,0000,0000,0000,,“motto chanto boku wo mitete yo
+Dialogue: 0,0:04:59.89,0:05:02.29,tabaco#,,0000,0000,0000,,motto chanto” tte
+Dialogue: 0,0:05:02.29,0:05:06.11,tabaco#,,0000,0000,0000,,iwanakereba
+Dialogue: 0,0:05:06.11,0:05:09.66,tabaco#,,0000,0000,0000,,kimi wa mada koko ni ita ka na
+Dialogue: 0,0:05:09.66,0:05:12.73,tabaco#,,0000,0000,0000,,“motto chanto kimi wo mitereba
+Dialogue: 0,0:05:12.73,0:05:15.14,tabaco#,,0000,0000,0000,,motto chanto” tte
+Dialogue: 0,0:05:15.14,0:05:25.72,tabaco#,,0000,0000,0000,,sukoshi nigai kimi no nioi ni naketa
