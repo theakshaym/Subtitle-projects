@@ -16,7 +16,6 @@ Video File: ../../../../TheAkshayM/Seasonal/3.Spring 2020/Kakushigoto/Kakushigot
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 2
 Video Position: 242
 
 [V4+ Styles]
@@ -34,7 +33,7 @@ Style: OP - Copy,FC-Flower,95,&H00EFEFF7,&H000000FF,&H00A08EE4,&H00000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.32,0:00:01.91,OP - Sakura Dark,,0,0,0,,{\fnFC-Flower\fs80\b1}maiagare saku hanabira tsukamaete yume no kakera
+Dialogue: 0,0:00:00.32,0:00:01.91,OP - Sakura Dark,,0,0,0,,{\fnFC-Flower\fs95\b1}maiagare saku hanabira tsukamaete yume no kakera
 Dialogue: 0,0:00:01.91,0:00:08.16,OP - Copy,,0,0,0,,maiagare saku hanabira tsukamaete yume no kakera
 Dialogue: 0,0:00:08.16,0:00:08.63,OP - Copy,,0,0,0,,{\fs100}kimi ga negau mirai ni sou haru wa yatte kuru
 Dialogue: 0,0:00:08.63,0:00:09.67,OP - Green,,0,0,0,,kimi ga negau mirai ni sou haru wa yatte kuru
