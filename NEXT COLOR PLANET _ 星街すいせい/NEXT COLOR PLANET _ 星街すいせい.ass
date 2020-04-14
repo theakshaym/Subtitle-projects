@@ -14,8 +14,10 @@ Audio File: ../../../Songs/NEXT COLOR PLANET _ 星街すいせい.mkv
 Video File: ../../../Songs/NEXT COLOR PLANET _ 星街すいせい.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Active Line: 28
-Video Position: 365
+Video Zoom Percent: 0.500000
+Scroll Position: 819
+Active Line: 652
+Video Position: 6829
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -136,12 +138,12 @@ Dialogue: 0,0:00:45.78,0:00:46.02,Default-kar,,0,0,0,,{\c&HF2D35F&}(cho{\c&D9D9D
 Dialogue: 0,0:00:46.02,0:00:46.25,Default-kar,,0,0,0,,{\c&HF2D35F&}(chot{\c&D9D9D9}to cool de pop na party song)​
 Dialogue: 0,0:00:46.25,0:00:46.38,Default-kar,,0,0,0,,{\c&HF2D35F&}(chotto {\c&D9D9D9}cool de pop na party song)​
 Dialogue: 0,0:00:46.38,0:00:46.62,Default-kar,,0,0,0,,{\c&HF2D35F&}(chotto coo{\c&D9D9D9}l de pop na party song)​
-Dialogue: 0,0:00:46.62,0:00:46.85,Default-kar,,0,0,0,,{\c&HF2D35F&}(chotto cool {\c&D9D9D9}de pop na party song)​
-Dialogue: 0,0:00:46.85,0:00:46.95,Default-kar,,0,0,0,,{\c&HF2D35F&}(chotto cool de {\c&D9D9D9}pop na party song)​
-Dialogue: 0,0:00:46.95,0:00:47.15,Default-kar,,0,0,0,,{\c&HF2D35F&}(chotto cool de po{\c&D9D9D9}p na party song)​
-Dialogue: 0,0:00:47.15,0:00:47.25,Default-kar,,0,0,0,,{\c&HF2D35F&}(chotto cool de pop {\c&D9D9D9}na party song)​
-Dialogue: 0,0:00:47.25,0:00:47.38,Default-kar,,0,0,0,,{\c&HF2D35F&}(chotto cool de pop na {\c&D9D9D9}party song)​
-Dialogue: 0,0:00:47.38,0:00:47.65,Default-kar,,0,0,0,,{\c&HF2D35F&}(chotto cool de pop na par{\c&D9D9D9}ty song)​
+Dialogue: 0,0:00:46.62,0:00:46.85,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(chotto cool {\c&D9D9D9}de pop na party song)​
+Dialogue: 0,0:00:46.85,0:00:46.95,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(chotto cool de {\c&D9D9D9}pop na party song)​
+Dialogue: 0,0:00:46.95,0:00:47.15,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(chotto cool de po{\c&D9D9D9}p na party song)​
+Dialogue: 0,0:00:47.15,0:00:47.25,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(chotto cool de pop {\c&D9D9D9}na party song)​
+Dialogue: 0,0:00:47.25,0:00:47.38,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(chotto cool de pop na {\c&D9D9D9}party song)​
+Dialogue: 0,0:00:47.38,0:00:47.65,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(chotto cool de pop na par{\c&D9D9D9}ty song)​
 Dialogue: 0,0:00:47.62,0:00:51.25,Default,,0,0,0,,{\c&HF2D35F&}I go groovin' in step with its killer beat​
 Dialogue: 0,0:00:47.62,0:00:47.82,Default-kar,,0,0,0,,{\c&HF2D35F&}ki{\c&D9D9D9}raachuun no suteppu ni nosete​
 Dialogue: 0,0:00:47.65,0:00:47.85,Default-kar,,0,0,0,,{\c&HF2D35F&}(chotto cool de pop na party {\c&D9D9D9}song)​
@@ -169,13 +171,13 @@ Dialogue: 0,0:00:53.06,0:00:53.29,Default-kar,,0,0,0,,{\c&HF2D35F&}(mo{\c&D9D9D9
 Dialogue: 0,0:00:53.29,0:00:53.52,Default-kar,,0,0,0,,{\c&HF2D35F&}(mot{\c&D9D9D9}to vivid, passion, shiny ray)​
 Dialogue: 0,0:00:53.52,0:00:53.62,Default-kar,,0,0,0,,{\c&HF2D35F&}(motto {\c&D9D9D9}vivid, passion, shiny ray)​
 Dialogue: 0,0:00:53.62,0:00:53.86,Default-kar,,0,0,0,,{\c&HF2D35F&}(motto vi{\c&D9D9D9}vid, passion, shiny ray)​
-Dialogue: 0,0:00:53.86,0:00:54.09,Default-kar,,0,0,0,,{\c&HF2D35F&}(motto vivi{\c&D9D9D9}d, passion, shiny ray)​
-Dialogue: 0,0:00:54.09,0:00:54.19,Default-kar,,0,0,0,,{\c&HF2D35F&}(motto vivid, {\c&D9D9D9}passion, shiny ray)​
-Dialogue: 0,0:00:54.19,0:00:54.42,Default-kar,,0,0,0,,{\c&HF2D35F&}(motto vivid, pas{\c&D9D9D9}sion, shiny ray)​
-Dialogue: 0,0:00:54.42,0:00:54.66,Default-kar,,0,0,0,,{\c&HF2D35F&}(motto vivid, passion, {\c&D9D9D9}shiny ray)​
-Dialogue: 0,0:00:54.66,0:00:54.89,Default-kar,,0,0,0,,{\c&HF2D35F&}(motto vivid, passion, shi{\c&D9D9D9}ny ray)​
-Dialogue: 0,0:00:54.89,0:00:55.12,Default-kar,,0,0,0,,{\c&HF2D35F&}(motto vivid, passion, shiny {\c&D9D9D9}ray)​
-Dialogue: 0,0:00:55.12,0:00:55.56,Default-kar,,0,0,0,,{\c&HF2D35F&}(motto vivid, passion, shiny ray)​
+Dialogue: 0,0:00:53.86,0:00:54.09,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(motto vivi{\c&D9D9D9}d, passion, shiny ray)​
+Dialogue: 0,0:00:54.09,0:00:54.19,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(motto vivid, {\c&D9D9D9}passion, shiny ray)​
+Dialogue: 0,0:00:54.19,0:00:54.42,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(motto vivid, pas{\c&D9D9D9}sion, shiny ray)​
+Dialogue: 0,0:00:54.42,0:00:54.66,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(motto vivid, passion, {\c&D9D9D9}shiny ray)​
+Dialogue: 0,0:00:54.66,0:00:54.89,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(motto vivid, passion, shi{\c&D9D9D9}ny ray)​
+Dialogue: 0,0:00:54.89,0:00:55.12,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(motto vivid, passion, shiny {\c&D9D9D9}ray)​
+Dialogue: 0,0:00:55.12,0:00:55.56,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(motto vivid, passion, shiny ray)​
 Dialogue: 0,0:00:55.56,0:01:01.26,Default,,0,0,0,,{\c&HF2D35F&}Shines on me, glowing in a most brilliant hue​
 Dialogue: 0,0:00:55.56,0:00:55.93,Default-kar,,0,0,0,,{\c&HF2D35F&}ra{\c&D9D9D9}ito ga watashi o terashiteru​
 Dialogue: 0,0:00:55.93,0:00:56.26,Default-kar,,0,0,0,,{\c&HF2D35F&}rai{\c&D9D9D9}to ga watashi o terashiteru​
@@ -280,7 +282,7 @@ Dialogue: 0,0:01:23.72,0:01:24.19,Default-kar,,0,0,0,,{\c&HF2D35F&}Special na St
 Dialogue: 0,0:01:23.75,0:01:24.62,Default,,0,0,0,,{\c&HF2D35F&}(Let it flow)​
 Dialogue: 0,0:01:23.75,0:01:23.99,Default-kar,,0,0,0,,{\c&HF2D35F&}(a{\c&D9D9D9}kasou)​
 Dialogue: 0,0:01:23.99,0:01:24.19,Default-kar,,0,0,0,,{\c&HF2D35F&}(aka{\c&D9D9D9}sou)​
-Dialogue: 0,0:01:24.19,0:01:24.62,Default-kar,,0,0,0,,{\c&HF2D35F&}(akasou)​
+Dialogue: 0,0:01:24.19,0:01:24.62,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(akasou)​
 Dialogue: 0,0:01:24.62,0:01:27.36,Default,,0,0,0,,{\c&HF2D35F&}I won't waste away like this, not today​
 Dialogue: 0,0:01:24.62,0:01:24.85,Default-kar,,0,0,0,,{\c&HF2D35F&}ko{\c&D9D9D9}no mama jitto shiterarenai​
 Dialogue: 0,0:01:24.85,0:01:25.12,Default-kar,,0,0,0,,{\c&HF2D35F&}kono {\c&D9D9D9}mama jitto shiterarenai​
@@ -297,10 +299,10 @@ Dialogue: 0,0:01:27.09,0:01:28.06,Default,,0,0,0,,{\c&HF2D35F&}(No, not this day
 Dialogue: 0,0:01:27.09,0:01:27.36,Default-kar,,0,0,0,,{\c&HF2D35F&}kono mama jitto shiterarenai​
 Dialogue: 0,0:01:27.09,0:01:27.26,Default-kar,,0,0,0,,{\c&HF2D35F&}(so{\c&D9D9D9}u sasenai)​
 Dialogue: 0,0:01:27.26,0:01:27.36,Default-kar,,0,0,0,,{\c&HF2D35F&}(sou {\c&D9D9D9}sasenai)​
-Dialogue: 0,0:01:27.36,0:01:27.59,Default-kar,,0,0,0,,{\c&HF2D35F&}(sou sa{\c&D9D9D9}senai)​
-Dialogue: 0,0:01:27.59,0:01:27.86,Default-kar,,0,0,0,,{\c&HF2D35F&}(sou sase{\c&D9D9D9}nai)​
-Dialogue: 0,0:01:27.86,0:01:27.96,Default-kar,,0,0,0,,{\c&HF2D35F&}(sou sasena{\c&D9D9D9}i)​
-Dialogue: 0,0:01:27.96,0:01:28.06,Default-kar,,0,0,0,,{\c&HF2D35F&}(sou sasenai)​
+Dialogue: 0,0:01:27.36,0:01:27.59,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(sou sa{\c&D9D9D9}senai)​
+Dialogue: 0,0:01:27.59,0:01:27.86,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(sou sase{\c&D9D9D9}nai)​
+Dialogue: 0,0:01:27.86,0:01:27.96,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(sou sasena{\c&D9D9D9}i)​
+Dialogue: 0,0:01:27.96,0:01:28.06,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(sou sasenai)​
 Dialogue: 0,0:01:28.06,0:01:32.46,Default,,0,0,0,,{\c&HF2D35F&}It is time to make a move, 'cause tomorrow the skies will clear​
 Dialogue: 0,0:01:28.06,0:01:28.19,Default-kar,,0,0,0,,{\c&HF2D35F&}ha{\c&D9D9D9}shiridasou yo ashita wa hareru kara​
 Dialogue: 0,0:01:28.19,0:01:28.29,Default-kar,,0,0,0,,{\c&HF2D35F&}hashi{\c&D9D9D9}ridasou yo ashita wa hareru kara​
@@ -374,12 +376,12 @@ Dialogue: 0,0:02:02.16,0:02:02.39,Default-kar,,0,0,0,,{\c&HF2D35F&}(cho{\c&D9D9D
 Dialogue: 0,0:02:02.39,0:02:02.59,Default-kar,,0,0,0,,{\c&HF2D35F&}(chot{\c&D9D9D9}to trend base na girly style)​
 Dialogue: 0,0:02:02.59,0:02:02.73,Default-kar,,0,0,0,,{\c&HF2D35F&}(chotto {\c&D9D9D9}trend base na girly style)​
 Dialogue: 0,0:02:02.73,0:02:02.99,Default-kar,,0,0,0,,{\c&HF2D35F&}(chotto t{\c&D9D9D9}rend base na girly style)​
-Dialogue: 0,0:02:02.99,0:02:03.19,Default-kar,,0,0,0,,{\c&HF2D35F&}(chotto tren{\c&D9D9D9}d base na girly style)​
-Dialogue: 0,0:02:03.19,0:02:03.29,Default-kar,,0,0,0,,{\c&HF2D35F&}(chotto trend {\c&D9D9D9}base na girly style)​
-Dialogue: 0,0:02:03.29,0:02:03.53,Default-kar,,0,0,0,,{\c&HF2D35F&}(chotto trend ba{\c&D9D9D9}se na girly style)​
-Dialogue: 0,0:02:03.53,0:02:03.59,Default-kar,,0,0,0,,{\c&HF2D35F&}(chotto trend base {\c&D9D9D9}na girly style)​
-Dialogue: 0,0:02:03.59,0:02:03.76,Default-kar,,0,0,0,,{\c&HF2D35F&}(chotto trend base na {\c&D9D9D9}girly style)​
-Dialogue: 0,0:02:03.76,0:02:03.99,Default-kar,,0,0,0,,{\c&HF2D35F&}(chotto trend base na gir{\c&D9D9D9}ly style)​
+Dialogue: 0,0:02:02.99,0:02:03.19,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(chotto tren{\c&D9D9D9}d base na girly style)​
+Dialogue: 0,0:02:03.19,0:02:03.29,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(chotto trend {\c&D9D9D9}base na girly style)​
+Dialogue: 0,0:02:03.29,0:02:03.53,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(chotto trend ba{\c&D9D9D9}se na girly style)​
+Dialogue: 0,0:02:03.53,0:02:03.59,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(chotto trend base {\c&D9D9D9}na girly style)​
+Dialogue: 0,0:02:03.59,0:02:03.76,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(chotto trend base na {\c&D9D9D9}girly style)​
+Dialogue: 0,0:02:03.76,0:02:03.99,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(chotto trend base na gir{\c&D9D9D9}ly style)​
 Dialogue: 0,0:02:03.96,0:02:07.63,Default,,0,0,0,,{\c&HF2D35F&}I change into that show-window display piece​
 Dialogue: 0,0:02:03.96,0:02:04.19,Default-kar,,0,0,0,,{\c&HF2D35F&}sho{\c&D9D9D9}uwindou no fuku kigaete​
 Dialogue: 0,0:02:03.99,0:02:04.19,Default-kar,,0,0,0,,{\c&HF2D35F&}(chotto trend base na girly {\c&D9D9D9}style)​
@@ -407,15 +409,15 @@ Dialogue: 0,0:02:09.40,0:02:11.93,Default,,0,0,0,,{\c&HF2D35F&}(The very cool'n'
 Dialogue: 0,0:02:09.40,0:02:09.60,Default-kar,,0,0,0,,{\c&HF2D35F&}(mo{\c&D9D9D9}tto cool de pop na party time)​
 Dialogue: 0,0:02:09.60,0:02:09.87,Default-kar,,0,0,0,,{\c&HF2D35F&}(mot{\c&D9D9D9}to cool de pop na party time)​
 Dialogue: 0,0:02:09.87,0:02:10.10,Default-kar,,0,0,0,,{\c&HF2D35F&}(motto {\c&D9D9D9}cool de pop na party time)​
-Dialogue: 0,0:02:10.10,0:02:10.33,Default-kar,,0,0,0,,{\c&HF2D35F&}(motto coo{\c&D9D9D9}l de pop na party time)​
-Dialogue: 0,0:02:10.33,0:02:10.47,Default-kar,,0,0,0,,{\c&HF2D35F&}(motto cool {\c&D9D9D9}de pop na party time)​
-Dialogue: 0,0:02:10.47,0:02:10.57,Default-kar,,0,0,0,,{\c&HF2D35F&}(motto cool de {\c&D9D9D9}pop na party time)​
-Dialogue: 0,0:02:10.57,0:02:10.77,Default-kar,,0,0,0,,{\c&HF2D35F&}(motto cool de po{\c&D9D9D9}p na party time)​
-Dialogue: 0,0:02:10.77,0:02:10.90,Default-kar,,0,0,0,,{\c&HF2D35F&}(motto cool de pop {\c&D9D9D9}na party time)​
-Dialogue: 0,0:02:10.90,0:02:11.03,Default-kar,,0,0,0,,{\c&HF2D35F&}(motto cool de pop na {\c&D9D9D9}party time)​
-Dialogue: 0,0:02:11.03,0:02:11.23,Default-kar,,0,0,0,,{\c&HF2D35F&}(motto cool de pop na par{\c&D9D9D9}ty time)​
-Dialogue: 0,0:02:11.23,0:02:11.47,Default-kar,,0,0,0,,{\c&HF2D35F&}(motto cool de pop na party {\c&D9D9D9}time)​
-Dialogue: 0,0:02:11.47,0:02:11.93,Default-kar,,0,0,0,,{\c&HF2D35F&}(motto cool de pop na party time)​
+Dialogue: 0,0:02:10.10,0:02:10.33,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(motto coo{\c&D9D9D9}l de pop na party time)​
+Dialogue: 0,0:02:10.33,0:02:10.47,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(motto cool {\c&D9D9D9}de pop na party time)​
+Dialogue: 0,0:02:10.47,0:02:10.57,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(motto cool de {\c&D9D9D9}pop na party time)​
+Dialogue: 0,0:02:10.57,0:02:10.77,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(motto cool de po{\c&D9D9D9}p na party time)​
+Dialogue: 0,0:02:10.77,0:02:10.90,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(motto cool de pop {\c&D9D9D9}na party time)​
+Dialogue: 0,0:02:10.90,0:02:11.03,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(motto cool de pop na {\c&D9D9D9}party time)​
+Dialogue: 0,0:02:11.03,0:02:11.23,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(motto cool de pop na par{\c&D9D9D9}ty time)​
+Dialogue: 0,0:02:11.23,0:02:11.47,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(motto cool de pop na party {\c&D9D9D9}time)​
+Dialogue: 0,0:02:11.47,0:02:11.93,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,74)}(motto cool de pop na party time)​
 Dialogue: 0,0:02:11.93,0:02:17.57,Default,,0,0,0,,{\c&HF2D35F&}My lovely dress flutters in the air all for you​
 Dialogue: 0,0:02:11.93,0:02:12.30,Default-kar,,0,0,0,,{\c&HF2D35F&}do{\c&D9D9D9}resu ga fuwari tte hirugaeru​
 Dialogue: 0,0:02:12.30,0:02:12.60,Default-kar,,0,0,0,,{\c&HF2D35F&}dore{\c&D9D9D9}su ga fuwari tte hirugaeru​
@@ -533,16 +535,16 @@ Dialogue: 0,0:02:47.20,0:02:47.40,Default-kar,,0,0,0,,{\c&HF2D35F&}datte kitto s
 Dialogue: 0,0:02:47.40,0:02:47.84,Default-kar,,0,0,0,,{\c&HF2D35F&}datte kitto sekai wa kawaru {\c&D9D9D9}kara!​
 Dialogue: 0,0:02:47.84,0:02:48.34,Default-kar,,0,0,0,,{\c&HF2D35F&}datte kitto sekai wa kawaru ka{\c&D9D9D9}ra!​
 Dialogue: 0,0:02:48.34,0:02:49.20,Default-kar,,0,0,0,,{\c&HF2D35F&}datte kitto sekai wa kawaru kara!​
-Dialogue: 0,0:03:00.78,0:03:03.28,Default,,0,0,0,,{\c&HF2D35F&}'cause tomorrow the skies will clear​
-Dialogue: 0,0:03:00.78,0:03:00.92,Default-kar,,0,0,0,,{\c&HF2D35F&}a{\c&D9D9D9}shita wa hareru kara​
-Dialogue: 0,0:03:00.92,0:03:01.02,Default-kar,,0,0,0,,{\c&HF2D35F&}ashi{\c&D9D9D9}ta wa hareru kara​
-Dialogue: 0,0:03:01.02,0:03:01.25,Default-kar,,0,0,0,,{\c&HF2D35F&}ashita {\c&D9D9D9}wa hareru kara​
-Dialogue: 0,0:03:01.25,0:03:01.45,Default-kar,,0,0,0,,{\c&HF2D35F&}ashita wa {\c&D9D9D9}hareru kara​
-Dialogue: 0,0:03:01.45,0:03:01.72,Default-kar,,0,0,0,,{\c&HF2D35F&}ashita wa ha{\c&D9D9D9}reru kara​
-Dialogue: 0,0:03:01.72,0:03:01.92,Default-kar,,0,0,0,,{\c&HF2D35F&}ashita wa hare{\c&D9D9D9}ru kara​
-Dialogue: 0,0:03:01.92,0:03:02.35,Default-kar,,0,0,0,,{\c&HF2D35F&}ashita wa hareru {\c&D9D9D9}kara​
-Dialogue: 0,0:03:02.35,0:03:02.85,Default-kar,,0,0,0,,{\c&HF2D35F&}ashita wa hareru ka{\c&D9D9D9}ra​
-Dialogue: 0,0:03:02.85,0:03:03.28,Default-kar,,0,0,0,,{\c&HF2D35F&}ashita wa hareru kara​
+Dialogue: 0,0:03:00.78,0:03:03.28,Default,,0,0,0,,{\c&HF2D35F&\pos(966,962)}'cause tomorrow the skies will clear​
+Dialogue: 0,0:03:00.78,0:03:00.92,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,108)}a{\c&D9D9D9}shita wa hareru kara​
+Dialogue: 0,0:03:00.92,0:03:01.02,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,108)}ashi{\c&D9D9D9}ta wa hareru kara​
+Dialogue: 0,0:03:01.02,0:03:01.25,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,108)}ashita {\c&D9D9D9}wa hareru kara​
+Dialogue: 0,0:03:01.25,0:03:01.45,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,108)}ashita wa {\c&D9D9D9}hareru kara​
+Dialogue: 0,0:03:01.45,0:03:01.72,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,108)}ashita wa ha{\c&D9D9D9}reru kara​
+Dialogue: 0,0:03:01.72,0:03:01.92,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,108)}ashita wa hare{\c&D9D9D9}ru kara​
+Dialogue: 0,0:03:01.92,0:03:02.35,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,108)}ashita wa hareru {\c&D9D9D9}kara​
+Dialogue: 0,0:03:02.35,0:03:02.85,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,108)}ashita wa hareru ka{\c&D9D9D9}ra​
+Dialogue: 0,0:03:02.85,0:03:03.28,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,108)}ashita wa hareru kara​
 Dialogue: 0,0:03:16.47,0:03:20.80,Default,,0,0,0,,{\c&HF2D35F&}The planet tells its story, painting a beautiful dream​
 Dialogue: 0,0:03:16.47,0:03:16.93,Default-kar,,0,0,0,,{\c&HF2D35F&}ho{\c&D9D9D9}shi o tsumuide yume o egaku yo​
 Dialogue: 0,0:03:16.93,0:03:17.40,Default-kar,,0,0,0,,{\c&HF2D35F&}hoshi {\c&D9D9D9}o tsumuide yume o egaku yo​
@@ -633,7 +635,7 @@ Dialogue: 0,0:03:38.29,0:03:39.19,Default,,0,0,0,,{\c&HF2D35F&}(Let it flow)​
 Dialogue: 0,0:03:38.29,0:03:38.75,Default-kar,,0,0,0,,{\c&HF2D35F&}Special na Sta​ge odoriakasu no​
 Dialogue: 0,0:03:38.29,0:03:38.55,Default-kar,,0,0,0,,{\c&HF2D35F&}(a{\c&D9D9D9}kasou)​
 Dialogue: 0,0:03:38.55,0:03:38.75,Default-kar,,0,0,0,,{\c&HF2D35F&}(aka{\c&D9D9D9}sou)​
-Dialogue: 0,0:03:38.75,0:03:39.19,Default-kar,,0,0,0,,{\c&HF2D35F&}(akasou)​
+Dialogue: 0,0:03:38.75,0:03:39.19,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,108)}(akasou)​
 Dialogue: 0,0:03:39.19,0:03:41.96,Default,,0,0,0,,{\c&HF2D35F&}I won't waste away like this, not today​
 Dialogue: 0,0:03:39.19,0:03:39.42,Default-kar,,0,0,0,,{\c&HF2D35F&}ko{\c&D9D9D9}no mama jitto shiterarenai​
 Dialogue: 0,0:03:39.42,0:03:39.66,Default-kar,,0,0,0,,{\c&HF2D35F&}kono {\c&D9D9D9}mama jitto shiterarenai​
@@ -650,10 +652,10 @@ Dialogue: 0,0:03:41.66,0:03:42.76,Default,,0,0,0,,{\c&HF2D35F&}(No, not this day
 Dialogue: 0,0:03:41.66,0:03:41.96,Default-kar,,0,0,0,,{\c&HF2D35F&}kono mama jitto shiterarenai​
 Dialogue: 0,0:03:41.66,0:03:41.82,Default-kar,,0,0,0,,{\c&HF2D35F&}(so{\c&D9D9D9}u sasenai)​
 Dialogue: 0,0:03:41.82,0:03:41.96,Default-kar,,0,0,0,,{\c&HF2D35F&}(sou {\c&D9D9D9}sasenai)​
-Dialogue: 0,0:03:41.96,0:03:42.16,Default-kar,,0,0,0,,{\c&HF2D35F&}(sou sa{\c&D9D9D9}senai)​
-Dialogue: 0,0:03:42.16,0:03:42.42,Default-kar,,0,0,0,,{\c&HF2D35F&}(sou sase{\c&D9D9D9}nai)​
-Dialogue: 0,0:03:42.42,0:03:42.53,Default-kar,,0,0,0,,{\c&HF2D35F&}(sou sasena{\c&D9D9D9}i)​
-Dialogue: 0,0:03:42.53,0:03:42.76,Default-kar,,0,0,0,,{\c&HF2D35F&}(sou sasenai)​
+Dialogue: 0,0:03:41.96,0:03:42.16,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,108)}(sou sa{\c&D9D9D9}senai)​
+Dialogue: 0,0:03:42.16,0:03:42.42,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,108)}(sou sase{\c&D9D9D9}nai)​
+Dialogue: 0,0:03:42.42,0:03:42.53,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,108)}(sou sasena{\c&D9D9D9}i)​
+Dialogue: 0,0:03:42.53,0:03:42.76,Default-kar,,0,0,0,,{\c&HF2D35F&\pos(960,108)}(sou sasenai)​
 Dialogue: 0,0:03:42.63,0:03:46.93,Default,,0,0,0,,{\c&HF2D35F&}It is time to make a move, 'cause tomorrow the world will change​
 Dialogue: 0,0:03:42.63,0:03:42.76,Default-kar,,0,0,0,,{\c&HF2D35F&}ha{\c&D9D9D9}shiridasou yo sekai wa kawaru kara​
 Dialogue: 0,0:03:42.76,0:03:42.86,Default-kar,,0,0,0,,{\c&HF2D35F&}hashi{\c&D9D9D9}ridasou yo sekai wa kawaru kara​
