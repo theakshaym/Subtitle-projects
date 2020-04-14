@@ -7,16 +7,27 @@ ScaledBorderAndShadow: yes
 ScriptType: V4.00+
 Title: Tabako - eng + romaji
 WrapStyle: 0
-YCbCr Matrix: None
+YCbCr Matrix: TV.601
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: ../../../Songs/コレサワ「たばこ」【Music Video】 .mkv
+Video File: ../../../Songs/コレサワ「たばこ」【Music Video】 .mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Video Position: 1344
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: tabaco,Set Fire to the Rain,81,&H00CACAF8,&H00CBCBF8,&H0036342E,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,20,20,20,0
 Style: tabacco- eng,Set Fire to the Rain,82,&H00F0E8A1,&H00F1E8A1,&H0036342E,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,20,20,20,0
+Style: Title,Amienne,180,&H00D8E1EF,&H000000FF,&HFF000000,&HFF000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:30.49,0:00:35.53,Title,,0,0,0,,{\pos(958,818)\fad(0,1635)}tabako
 Dialogue: 0,0:00:33.44,0:00:36.48,tabaco,,0,0,0,,kinou no yoru kara
 Dialogue: 0,0:00:36.49,0:00:40.20,tabaco,,0,0,0,,kimi ga inakunatte
 Dialogue: 0,0:00:40.20,0:00:44.50,tabaco,,0,0,0,,ni juu yo jikan ga tatta
