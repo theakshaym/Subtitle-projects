@@ -11,13 +11,13 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: /mnt/TheAkshayM/Seasonal/3.Spring 2020/Kakushigoto/Kakushigoto OP01.webm
-Video File: /mnt/TheAkshayM/Seasonal/3.Spring 2020/Kakushigoto/Kakushigoto OP01.webm
+Audio File: ../../../../TheAkshayM/Seasonal/3.Spring 2020/Kakushigoto/Kakushigoto OP01.mkv
+Video File: ../../../../TheAkshayM/Seasonal/3.Spring 2020/Kakushigoto/Kakushigoto OP01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 25
-Video Position: 2136
+Active Line: 2
+Video Position: 242
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,14 +28,15 @@ Style: OP - Autumn,FC-Flower,100,&H00EFEFF7,&H000000FF,&H00488DD3,&H00000000,-1,
 Style: OP - Yuki,FC-Flower,100,&H00EFEFF7,&H000000FF,&H00757779,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
 Style: OP - Sakura Dark,FC-Flower,100,&H00EFEFF7,&H000000FF,&H00433284,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
 Style: OP - Blue,FC-Flower,100,&H00EFEFF7,&H000000FF,&H009A7D13,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
-Style: OP - Dark Green ,FC-Flower,100,&H00EFEFF7,&H000000FF,&H0043772A,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: OP - Dark Green,FC-Flower,100,&H00EFEFF7,&H000000FF,&H0043772A,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
 Style: OP - Sakura Dark - Copy,FC-Flower,100,&H00EFEFF7,&H000000FF,&H00433284,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: OP - Copy,FC-Flower,95,&H00EFEFF7,&H000000FF,&H00A08EE4,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.32,0:00:01.91,OP - Sakura Dark,,0,0,0,,{\fnFC-Flower\fs80\b1}maiagare saku hanabira tsukamaete yume no kakera
-Dialogue: 0,0:00:01.91,0:00:08.16,OP,,0,0,0,,maiagare saku hanabira tsukamaete yume no kakera
-Dialogue: 0,0:00:08.16,0:00:08.63,OP,,0,0,0,,kimi ga negau mirai ni sou haru wa yatte kuru
+Dialogue: 0,0:00:01.91,0:00:08.16,OP - Copy,,0,0,0,,maiagare saku hanabira tsukamaete yume no kakera
+Dialogue: 0,0:00:08.16,0:00:08.63,OP - Copy,,0,0,0,,{\fs100}kimi ga negau mirai ni sou haru wa yatte kuru
 Dialogue: 0,0:00:08.63,0:00:09.67,OP - Green,,0,0,0,,kimi ga negau mirai ni sou haru wa yatte kuru
 Dialogue: 0,0:00:09.67,0:00:10.76,OP - Autumn,,0,0,0,,kimi ga negau mirai ni sou haru wa yatte kuru
 Dialogue: 0,0:00:10.76,0:00:11.80,OP - Yuki,,0,0,0,,kimi ga negau mirai ni sou haru wa yatte kuru
@@ -44,18 +45,18 @@ Dialogue: 0,0:00:21.15,0:00:24.69,OP - Blue,,0,0,0,,yuuyake no shita buran ko ni
 Dialogue: 0,0:00:24.69,0:00:25.00,OP - Autumn,,0,0,0,,yuuyake no shita buran ko ni notta
 Dialogue: 0,0:00:25.00,0:00:29.00,OP - Autumn,,0,0,0,,futatsu no kage sora to mazatte yuku
 Dialogue: 0,0:00:29.00,0:00:32.80,OP,,0,0,0,,ikioi tsuke takaku naru hodo ni
-Dialogue: 0,0:00:32.80,0:00:36.62,OP - Dark Green ,,0,0,0,,shiawase mo hora kakeagaru
+Dialogue: 0,0:00:32.80,0:00:36.62,OP - Dark Green,,0,0,0,,shiawase mo hora kakeagaru
 Dialogue: 0,0:00:39.38,0:00:40.37,OP - Sakura Dark,,0,0,0,,arifureta hibi
 Dialogue: 0,0:00:40.37,0:00:42.10,OP - Blue,,0,0,0,,arifureta hibi
 Dialogue: 0,0:00:44.05,0:00:47.17,OP - Sakura Dark,,0,0,0,,sunao ni narenai tokoro dake
 Dialogue: 0,0:00:47.17,0:00:51.60,OP - Sakura Dark,,0,0,0,,myou ni nite shimatta bokura
 Dialogue: 0,0:00:51.88,0:00:58.72,OP - Sakura Dark,,0,0,0,,tsutaetai kotoba himitsu no mama de miageta sora
-Dialogue: 0,0:00:58.85,0:01:02.52,OP - Blue,,0,0,0,,kaze yo fuke sekai wo somete 
+Dialogue: 0,0:00:58.85,0:01:02.52,OP - Blue,,0,0,0,,kaze yo fuke sekai wo somete
 Dialogue: 0,0:01:02.52,0:01:06.56,OP - Green,,0,0,0,,kagayaite kimi no egao
 Dialogue: 0,0:01:06.56,0:01:11.61,OP - Blue,,0,0,0,,osorenaide sono ryoute ippai ni kakaeta uchuu e
 Dialogue: 0,0:01:11.61,0:01:14.47,OP - Sakura Dark,,0,0,0,,osorenaide sono ryoute ippai ni kakaeta uchuu e
 Dialogue: 0,0:01:14.47,0:01:16.03,OP - Autumn,,0,0,0,,maiagare saku hanabira
-Dialogue: 0,0:01:16.03,0:01:18.17,OP - Dark Green ,,0,0,0,,maiagare saku hanabira
+Dialogue: 0,0:01:16.03,0:01:18.17,OP - Dark Green,,0,0,0,,maiagare saku hanabira
 Dialogue: 0,0:01:18.17,0:01:22.11,OP - Sakura Dark,,0,0,0,,tsukamaete yume no kakera
-Dialogue: 0,0:01:22.11,0:01:28.96,OP - Dark Green ,,0,0,0,,kimi ga negau mirai e to kogidashite
+Dialogue: 0,0:01:22.11,0:01:28.96,OP - Dark Green,,0,0,0,,kimi ga negau mirai e to kogidashite
 Dialogue: 0,0:01:28.96,0:01:30.96,OP - Sakura Dark - Copy,,0,0,0,,Subs : Keiclicks
