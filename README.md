@@ -6,4 +6,5 @@
 - NEXT COLOR PLANET - 星街すいせい - Synced with karaoke
 - 白日 - King Gnu (Covered by 夏色まつり&律可) - romaji - Synced
 - Tabako （たばこ）-  Koresawa　(コレサワ) - romaji & english translation - Synced
+- Kakushigoto Opening - Chiisanahibi - romaji - Synced
 
