@@ -8,4 +8,5 @@
 - Tabako （たばこ）-  Koresawa　(コレサワ) - romaji & english translation - Synced
 - Kakushigoto Opening - Chiisanahibi - romaji - Synced
 - ヨルシカ - だから僕は音楽を辞めた (Music Video) - Progress
+- 【おちゃめ機能】ホロライブが吹っ切れた【24人で歌ってみた】 - Progress
 
