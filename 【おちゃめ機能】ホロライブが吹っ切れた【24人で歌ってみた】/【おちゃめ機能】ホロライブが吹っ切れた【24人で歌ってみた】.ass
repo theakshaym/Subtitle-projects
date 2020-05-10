@@ -16,16 +16,16 @@ Video File: ../../../Songs/【おちゃめ機能】ホロライブが吹っ切�
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 748
-Active Line: 721
-Video Position: 6404
+Scroll Position: 885
+Active Line: 177
+Video Position: 7417
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: Karaoke,Black Metal Sans,95,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0.5,8,10,10,10,1
-Style: English - 2,Set Fire to the Rain,80,&H0093D5EB,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.3,0.3,2,10,10,10,1
-Style: Yuujin A,Arial,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.2,0,2,10,10,10,1
+Style: English - 2,Set Fire to the Rain,80,&H0093D5EB,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0.3,2,10,10,10,1
+Style: Yuujin A,Arial,38,&H2AFFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.2,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -786,147 +786,147 @@ Dialogue: 0,0:03:40.26,0:03:40.56,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsu
 Dialogue: 0,0:03:40.56,0:03:40.66,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui omoi wa omoi wa hoho ni tsutau nami​{\c&HEDD095&}da
 Dialogue: 0,0:03:40.66,0:03:41.06,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui omoi wa omoi wa hoho ni tsutau namida
 Dialogue: 0,0:03:41.06,0:03:43.83,English - 2,,0,0,0,,{\c&HECEBDC&}I will hold your tear drops in my bosom​
-Dialogue: 0,0:03:41.06,0:03:41.46,Default,,0,0,0,,shi​{\c&HEDD095&}zuku wa mune ni tsutsunde
-Dialogue: 0,0:03:41.46,0:03:41.56,Default,,0,0,0,,shizu​{\c&HEDD095&}ku wa mune ni tsutsunde
-Dialogue: 0,0:03:41.56,0:03:41.66,Default,,0,0,0,,shizuku ​{\c&HEDD095&}wa mune ni tsutsunde
-Dialogue: 0,0:03:41.66,0:03:42.26,Default,,0,0,0,,shizuku wa ​{\c&HEDD095&}mune ni tsutsunde
-Dialogue: 0,0:03:42.26,0:03:42.46,Default,,0,0,0,,shizuku wa mu​{\c&HEDD095&}ne ni tsutsunde
-Dialogue: 0,0:03:42.46,0:03:42.63,Default,,0,0,0,,shizuku wa mune ​{\c&HEDD095&}ni tsutsunde
-Dialogue: 0,0:03:42.63,0:03:42.86,Default,,0,0,0,,shizuku wa mune ni ​{\c&HEDD095&}tsutsunde
-Dialogue: 0,0:03:42.86,0:03:43.06,Default,,0,0,0,,shizuku wa mune ni tsu​{\c&HEDD095&}tsunde
-Dialogue: 0,0:03:43.06,0:03:43.26,Default,,0,0,0,,shizuku wa mune ni tsutsu​{\c&HEDD095&}nde
-Dialogue: 0,0:03:43.26,0:03:43.46,Default,,0,0,0,,shizuku wa mune ni tsutsun​{\c&HEDD095&}de
-Dialogue: 0,0:03:43.46,0:03:43.83,Default,,0,0,0,,shizuku wa mune ni tsutsunde
-Dialogue: 0,0:03:43.83,0:03:47.03,Default,,0,0,0,,and send them into the sky​
-Dialogue: 0,0:03:43.83,0:03:44.03,Default,,0,0,0,,to​{\c&HEDD095&}dokeru yo sora ni
-Dialogue: 0,0:03:44.03,0:03:44.23,Default,,0,0,0,,todo​{\c&HEDD095&}keru yo sora ni
-Dialogue: 0,0:03:44.23,0:03:44.63,Default,,0,0,0,,todoke​{\c&HEDD095&}ru yo sora ni
-Dialogue: 0,0:03:44.63,0:03:44.79,Default,,0,0,0,,todokeru ​{\c&HEDD095&}yo sora ni
-Dialogue: 0,0:03:44.79,0:03:45.43,Default,,0,0,0,,todokeru yo ​{\c&HEDD095&}sora ni
-Dialogue: 0,0:03:45.43,0:03:45.63,Default,,0,0,0,,todokeru yo so​{\c&HEDD095&}ra ni
-Dialogue: 0,0:03:45.63,0:03:45.83,Default,,0,0,0,,todokeru yo sora ​{\c&HEDD095&}ni
-Dialogue: 0,0:03:45.83,0:03:47.03,Default,,0,0,0,,todokeru yo sora ni
-Dialogue: 0,0:03:47.03,0:03:50.27,Default,,0,0,0,,I love you always. Take me in your arms and kiss me​​
-Dialogue: 0,0:03:47.03,0:03:47.23,Default,,0,0,0,,i​{\c&HEDD095&}tsudemo I love you. kimi ni Take kiss me.
-Dialogue: 0,0:03:47.23,0:03:47.43,Default,,0,0,0,,itsu​{\c&HEDD095&}demo I love you. kimi ni Take kiss me.
-Dialogue: 0,0:03:47.43,0:03:47.63,Default,,0,0,0,,itsude​{\c&HEDD095&}mo I love you. kimi ni Take kiss me.
-Dialogue: 0,0:03:47.63,0:03:47.83,Default,,0,0,0,,itsudemo ​{\c&HEDD095&}I love you. kimi ni Take kiss me.
-Dialogue: 0,0:03:47.83,0:03:48.03,Default,,0,0,0,,itsudemo I​{\c&HEDD095&} love you. kimi ni Take kiss me.
-Dialogue: 0,0:03:48.03,0:03:48.23,Default,,0,0,0,,itsudemo I ​{\c&HEDD095&}love you. kimi ni Take kiss me.
-Dialogue: 0,0:03:48.23,0:03:48.33,Default,,0,0,0,,itsudemo I love ​{\c&HEDD095&}you. kimi ni Take kiss me.
-Dialogue: 0,0:03:48.33,0:03:48.63,Default,,0,0,0,,itsudemo I love you. ​{\c&HEDD095&}kimi ni Take kiss me.
-Dialogue: 0,0:03:48.63,0:03:48.83,Default,,0,0,0,,itsudemo I love you. ki​{\c&HEDD095&}mi ni Take kiss me.
-Dialogue: 0,0:03:48.83,0:03:49.03,Default,,0,0,0,,itsudemo I love you. kimi ​{\c&HEDD095&}ni Take kiss me.
-Dialogue: 0,0:03:49.03,0:03:49.23,Default,,0,0,0,,itsudemo I love you. kimi ni ​{\c&HEDD095&}Take kiss me.
-Dialogue: 0,0:03:49.23,0:03:49.43,Default,,0,0,0,,itsudemo I love you. kimi ni Ta​{\c&HEDD095&}ke kiss me.
-Dialogue: 0,0:03:49.43,0:03:49.63,Default,,0,0,0,,itsudemo I love you. kimi ni Take ​{\c&HEDD095&}kiss me.
-Dialogue: 0,0:03:49.63,0:03:49.83,Default,,0,0,0,,itsudemo I love you. kimi ni Take ki​{\c&HEDD095&}ss me.
-Dialogue: 0,0:03:49.83,0:03:49.93,Default,,0,0,0,,itsudemo I love you. kimi ni Take kiss ​{\c&HEDD095&}me.
-Dialogue: 0,0:03:49.93,0:03:50.27,Default,,0,0,0,,itsudemo I love you. kimi ni Take kiss me.
-Dialogue: 0,0:03:50.27,0:03:54.04,Default,,0,0,0,,I cannot forget this precious memory of mine​
-Dialogue: 0,0:03:50.27,0:03:50.47,Default,,0,0,0,,wa​{\c&HEDD095&}surerarenai kara boku no daijina memorii
-Dialogue: 0,0:03:50.47,0:03:50.67,Default,,0,0,0,,wasu​{\c&HEDD095&}rerarenai kara boku no daijina memorii
-Dialogue: 0,0:03:50.67,0:03:50.87,Default,,0,0,0,,wasure​{\c&HEDD095&}rarenai kara boku no daijina memorii
-Dialogue: 0,0:03:50.87,0:03:51.07,Default,,0,0,0,,wasurera​{\c&HEDD095&}renai kara boku no daijina memorii
-Dialogue: 0,0:03:51.07,0:03:51.27,Default,,0,0,0,,wasurerare​{\c&HEDD095&}nai kara boku no daijina memorii
-Dialogue: 0,0:03:51.27,0:03:51.43,Default,,0,0,0,,wasurerarenai ​{\c&HEDD095&}kara boku no daijina memorii
-Dialogue: 0,0:03:51.43,0:03:51.53,Default,,0,0,0,,wasurerarenai ka​{\c&HEDD095&}ra boku no daijina memorii
-Dialogue: 0,0:03:51.53,0:03:51.87,Default,,0,0,0,,wasurerarenai kara ​{\c&HEDD095&}boku no daijina memorii
-Dialogue: 0,0:03:51.87,0:03:52.07,Default,,0,0,0,,wasurerarenai kara bo​{\c&HEDD095&}ku no daijina memorii
-Dialogue: 0,0:03:52.07,0:03:52.27,Default,,0,0,0,,wasurerarenai kara boku ​{\c&HEDD095&}no daijina memorii
-Dialogue: 0,0:03:52.27,0:03:52.47,Default,,0,0,0,,wasurerarenai kara boku no ​{\c&HEDD095&}daijina memorii
-Dialogue: 0,0:03:52.47,0:03:52.70,Default,,0,0,0,,wasurerarenai kara boku no da​{\c&HEDD095&}ijina memorii
-Dialogue: 0,0:03:52.70,0:03:52.77,Default,,0,0,0,,wasurerarenai kara boku no dai​{\c&HEDD095&}jina memorii
-Dialogue: 0,0:03:52.77,0:03:52.87,Default,,0,0,0,,wasurerarenai kara boku no daiji​{\c&HEDD095&}na memorii
-Dialogue: 0,0:03:52.87,0:03:53.07,Default,,0,0,0,,wasurerarenai kara boku no daijina ​{\c&HEDD095&}memorii
-Dialogue: 0,0:03:53.07,0:03:53.47,Default,,0,0,0,,wasurerarenai kara boku no daijina me​{\c&HEDD095&}morii
-Dialogue: 0,0:03:53.47,0:03:53.67,Default,,0,0,0,,wasurerarenai kara boku no daijina memo​{\c&HEDD095&}rii
-Dialogue: 0,0:03:53.67,0:03:54.04,Default,,0,0,0,,wasurerarenai kara boku no daijina memorii
-Dialogue: 0,0:03:54.04,0:03:56.64,Default,,0,0,0,,If dorayaki cannot become my main diet,​
-Dialogue: 0,0:03:54.04,0:03:54.24,Default,,0,0,0,,do​{\c&HEDD095&}rayaki wa shushoku ni narenai
-Dialogue: 0,0:03:54.24,0:03:54.44,Default,,0,0,0,,dora​{\c&HEDD095&}yaki wa shushoku ni narenai
-Dialogue: 0,0:03:54.44,0:03:54.64,Default,,0,0,0,,doraya​{\c&HEDD095&}ki wa shushoku ni narenai
-Dialogue: 0,0:03:54.64,0:03:54.74,Default,,0,0,0,,dorayaki ​{\c&HEDD095&}wa shushoku ni narenai
-Dialogue: 0,0:03:54.74,0:03:55.04,Default,,0,0,0,,dorayaki wa ​{\c&HEDD095&}shushoku ni narenai
-Dialogue: 0,0:03:55.04,0:03:55.24,Default,,0,0,0,,dorayaki wa shu​{\c&HEDD095&}shoku ni narenai
-Dialogue: 0,0:03:55.24,0:03:55.44,Default,,0,0,0,,dorayaki wa shusho​{\c&HEDD095&}ku ni narenai
-Dialogue: 0,0:03:55.44,0:03:55.64,Default,,0,0,0,,dorayaki wa shushoku ​{\c&HEDD095&}ni narenai
-Dialogue: 0,0:03:55.64,0:03:55.84,Default,,0,0,0,,dorayaki wa shushoku ni ​{\c&HEDD095&}narenai
-Dialogue: 0,0:03:55.84,0:03:56.04,Default,,0,0,0,,dorayaki wa shushoku ni na​{\c&HEDD095&}renai
-Dialogue: 0,0:03:56.04,0:03:56.24,Default,,0,0,0,,dorayaki wa shushoku ni nare​{\c&HEDD095&}nai
-Dialogue: 0,0:03:56.24,0:03:56.34,Default,,0,0,0,,dorayaki wa shushoku ni narena​{\c&HEDD095&}i
-Dialogue: 0,0:03:56.34,0:03:56.64,Default,,0,0,0,,dorayaki wa shushoku ni narenai
-Dialogue: 0,0:03:56.64,0:04:01.04,Default,,0,0,0,,I'll just have to overwrite it my way​
-Dialogue: 0,0:03:56.64,0:03:56.84,Default,,0,0,0,,na​{\c&HEDD095&}raba uwagaki shichaeba boku no omoidoori
-Dialogue: 0,0:03:56.84,0:03:57.04,Default,,0,0,0,,nara​{\c&HEDD095&}ba uwagaki shichaeba boku no omoidoori
-Dialogue: 0,0:03:57.04,0:03:57.24,Default,,0,0,0,,naraba ​{\c&HEDD095&}uwagaki shichaeba boku no omoidoori
-Dialogue: 0,0:03:57.24,0:03:57.44,Default,,0,0,0,,naraba u​{\c&HEDD095&}wagaki shichaeba boku no omoidoori
-Dialogue: 0,0:03:57.44,0:03:57.64,Default,,0,0,0,,naraba uwa​{\c&HEDD095&}gaki shichaeba boku no omoidoori
-Dialogue: 0,0:03:57.64,0:03:57.84,Default,,0,0,0,,naraba uwaga​{\c&HEDD095&}ki shichaeba boku no omoidoori
-Dialogue: 0,0:03:57.84,0:03:57.97,Default,,0,0,0,,naraba uwagaki ​{\c&HEDD095&}shichaeba boku no omoidoori
-Dialogue: 0,0:03:57.97,0:03:58.24,Default,,0,0,0,,naraba uwagaki shi​{\c&HEDD095&}chaeba boku no omoidoori
-Dialogue: 0,0:03:58.24,0:03:58.44,Default,,0,0,0,,naraba uwagaki shicha​{\c&HEDD095&}eba boku no omoidoori
-Dialogue: 0,0:03:58.44,0:03:58.64,Default,,0,0,0,,naraba uwagaki shichae​{\c&HEDD095&}ba boku no omoidoori
-Dialogue: 0,0:03:58.64,0:03:58.84,Default,,0,0,0,,naraba uwagaki shichaeba ​{\c&HEDD095&}boku no omoidoori
-Dialogue: 0,0:03:58.84,0:03:59.11,Default,,0,0,0,,naraba uwagaki shichaeba bo​{\c&HEDD095&}ku no omoidoori
-Dialogue: 0,0:03:59.11,0:03:59.24,Default,,0,0,0,,naraba uwagaki shichaeba boku ​{\c&HEDD095&}no omoidoori
-Dialogue: 0,0:03:59.24,0:03:59.44,Default,,0,0,0,,naraba uwagaki shichaeba boku no ​{\c&HEDD095&}omoidoori
-Dialogue: 0,0:03:59.44,0:03:59.84,Default,,0,0,0,,naraba uwagaki shichaeba boku no o​{\c&HEDD095&}moidoori
-Dialogue: 0,0:03:59.84,0:03:59.94,Default,,0,0,0,,naraba uwagaki shichaeba boku no omo​{\c&HEDD095&}idoori
-Dialogue: 0,0:03:59.94,0:04:00.04,Default,,0,0,0,,naraba uwagaki shichaeba boku no omoi​{\c&HEDD095&}doori
-Dialogue: 0,0:04:00.04,0:04:00.24,Default,,0,0,0,,naraba uwagaki shichaeba boku no omoido​{\c&HEDD095&}ori
-Dialogue: 0,0:04:00.24,0:04:00.44,Default,,0,0,0,,naraba uwagaki shichaeba boku no omoidoo​{\c&HEDD095&}ri
-Dialogue: 0,0:04:00.44,0:04:01.04,Default,,0,0,0,,naraba uwagaki shichaeba boku no omoidoori
-Dialogue: 0,0:04:01.04,0:04:04.65,Default,,0,0,0,,I don't want to wake up from this dream​
-Dialogue: 0,0:04:01.04,0:04:01.14,Default,,0,0,0,,yu​{\c&HEDD095&}me kara pipipi samenaide samenaide
-Dialogue: 0,0:04:01.14,0:04:01.24,Default,,0,0,0,,yume ​{\c&HEDD095&}kara pipipi samenaide samenaide
-Dialogue: 0,0:04:01.24,0:04:01.44,Default,,0,0,0,,yume ka​{\c&HEDD095&}ra pipipi samenaide samenaide
-Dialogue: 0,0:04:01.44,0:04:01.61,Default,,0,0,0,,yume kara ​{\c&HEDD095&}pipipi samenaide samenaide
-Dialogue: 0,0:04:01.61,0:04:01.74,Default,,0,0,0,,yume kara pi​{\c&HEDD095&}pipi samenaide samenaide
-Dialogue: 0,0:04:01.74,0:04:01.84,Default,,0,0,0,,yume kara pipi​{\c&HEDD095&}pi samenaide samenaide
-Dialogue: 0,0:04:01.84,0:04:02.04,Default,,0,0,0,,yume kara pipipi ​{\c&HEDD095&}samenaide samenaide
-Dialogue: 0,0:04:02.04,0:04:02.24,Default,,0,0,0,,yume kara pipipi sa​{\c&HEDD095&}menaide samenaide
-Dialogue: 0,0:04:02.24,0:04:02.44,Default,,0,0,0,,yume kara pipipi same​{\c&HEDD095&}naide samenaide
-Dialogue: 0,0:04:02.44,0:04:02.61,Default,,0,0,0,,yume kara pipipi samenai​{\c&HEDD095&}de samenaide
-Dialogue: 0,0:04:02.61,0:04:02.85,Default,,0,0,0,,yume kara pipipi samenaide ​{\c&HEDD095&}samenaide
-Dialogue: 0,0:04:02.85,0:04:03.01,Default,,0,0,0,,yume kara pipipi samenaide sa​{\c&HEDD095&}menaide
-Dialogue: 0,0:04:03.01,0:04:03.25,Default,,0,0,0,,yume kara pipipi samenaide same​{\c&HEDD095&}naide
-Dialogue: 0,0:04:03.25,0:04:03.45,Default,,0,0,0,,yume kara pipipi samenaide samenai​{\c&HEDD095&}de
-Dialogue: 0,0:04:03.45,0:04:04.65,Default,,0,0,0,,yume kara pipipi samenaide samenaide
-Dialogue: 0,0:04:04.65,0:04:06.62,Default,,0,0,0,,This warmth, please don't go away​
-Dialogue: 0,0:04:04.65,0:04:04.85,Default,,0,0,0,,nu​{\c&HEDD095&}kumori nigenaide
-Dialogue: 0,0:04:04.85,0:04:05.05,Default,,0,0,0,,nuku​{\c&HEDD095&}mori nigenaide
-Dialogue: 0,0:04:05.05,0:04:05.25,Default,,0,0,0,,nukumo​{\c&HEDD095&}ri nigenaide
-Dialogue: 0,0:04:05.25,0:04:05.45,Default,,0,0,0,,nukumori ​{\c&HEDD095&}nigenaide
-Dialogue: 0,0:04:05.45,0:04:05.65,Default,,0,0,0,,nukumori ni​{\c&HEDD095&}genaide
-Dialogue: 0,0:04:05.65,0:04:05.85,Default,,0,0,0,,nukumori nige​{\c&HEDD095&}naide
-Dialogue: 0,0:04:05.85,0:04:06.12,Default,,0,0,0,,nukumori nigena​{\c&HEDD095&}ide
-Dialogue: 0,0:04:06.12,0:04:06.25,Default,,0,0,0,,nukumori nigenai​{\c&HEDD095&}de
-Dialogue: 0,0:04:06.25,0:04:06.62,Default,,0,0,0,,nukumori nigenaide
-Dialogue: 0,0:04:06.62,0:04:09.42,Default,,0,0,0,,The morning is still young, so please​
-Dialogue: 0,0:04:06.62,0:04:06.72,Default,,0,0,0,,ma​{\c&HEDD095&}da asa wa tappuri aru kara
-Dialogue: 0,0:04:06.72,0:04:06.82,Default,,0,0,0,,mada ​{\c&HEDD095&}asa wa tappuri aru kara
-Dialogue: 0,0:04:06.82,0:04:07.02,Default,,0,0,0,,mada a​{\c&HEDD095&}sa wa tappuri aru kara
-Dialogue: 0,0:04:07.02,0:04:07.22,Default,,0,0,0,,mada asa ​{\c&HEDD095&}wa tappuri aru kara
-Dialogue: 0,0:04:07.22,0:04:07.82,Default,,0,0,0,,mada asa wa ​{\c&HEDD095&}tappuri aru kara
-Dialogue: 0,0:04:07.82,0:04:08.02,Default,,0,0,0,,mada asa wa tap​{\c&HEDD095&}puri aru kara
-Dialogue: 0,0:04:08.02,0:04:08.22,Default,,0,0,0,,mada asa wa tappu​{\c&HEDD095&}ri aru kara
-Dialogue: 0,0:04:08.22,0:04:08.42,Default,,0,0,0,,mada asa wa tappuri ​{\c&HEDD095&}aru kara
-Dialogue: 0,0:04:08.42,0:04:08.62,Default,,0,0,0,,mada asa wa tappuri a​{\c&HEDD095&}ru kara
-Dialogue: 0,0:04:08.62,0:04:08.82,Default,,0,0,0,,mada asa wa tappuri aru ​{\c&HEDD095&}kara
-Dialogue: 0,0:04:08.82,0:04:09.02,Default,,0,0,0,,mada asa wa tappuri aru ka​{\c&HEDD095&}ra
-Dialogue: 0,0:04:09.02,0:04:09.42,Default,,0,0,0,,mada asa wa tappuri aru kara
-Dialogue: 0,0:04:09.42,0:04:13.25,Default,,0,0,0,,give me five... no, ten more minutes​
-Dialogue: 0,0:04:09.42,0:04:09.62,Default,,0,0,0,,a​{\c&HEDD095&}to gofun iya juppun matasete
-Dialogue: 0,0:04:09.62,0:04:09.82,Default,,0,0,0,,ato ​{\c&HEDD095&}gofun iya juppun matasete
-Dialogue: 0,0:04:09.82,0:04:10.22,Default,,0,0,0,,ato go​{\c&HEDD095&}fun iya juppun matasete
-Dialogue: 0,0:04:10.22,0:04:10.42,Default,,0,0,0,,ato gofu​{\c&HEDD095&}n iya juppun matasete
-Dialogue: 0,0:04:10.42,0:04:11.32,Default,,0,0,0,,ato gofun ​{\c&HEDD095&}iya juppun matasete
-Dialogue: 0,0:04:11.32,0:04:11.42,Default,,0,0,0,,ato gofun i​{\c&HEDD095&}ya juppun matasete
-Dialogue: 0,0:04:11.42,0:04:11.62,Default,,0,0,0,,ato gofun iya ​{\c&HEDD095&}juppun matasete
-Dialogue: 0,0:04:11.62,0:04:11.82,Default,,0,0,0,,ato gofun iya jup​{\c&HEDD095&}pun matasete
-Dialogue: 0,0:04:11.82,0:04:12.02,Default,,0,0,0,,ato gofun iya juppun ​{\c&HEDD095&}matasete
-Dialogue: 0,0:04:12.02,0:04:12.22,Default,,0,0,0,,ato gofun iya juppun ma​{\c&HEDD095&}tasete
-Dialogue: 0,0:04:12.22,0:04:12.62,Default,,0,0,0,,ato gofun iya juppun mata​{\c&HEDD095&}sete
-Dialogue: 0,0:04:12.62,0:04:12.82,Default,,0,0,0,,ato gofun iya juppun matase​{\c&HEDD095&}te
-Dialogue: 0,0:04:12.82,0:04:13.25,Default,,0,0,0,,ato gofun iya juppun matasete
+Dialogue: 0,0:03:41.06,0:03:41.46,Karaoke,,0,0,0,,{\c&HECEBDC&}shi​{\c&HEDD095&}zuku wa mune ni tsutsunde
+Dialogue: 0,0:03:41.46,0:03:41.56,Karaoke,,0,0,0,,{\c&HECEBDC&}shizu​{\c&HEDD095&}ku wa mune ni tsutsunde
+Dialogue: 0,0:03:41.56,0:03:41.66,Karaoke,,0,0,0,,{\c&HECEBDC&}shizuku ​{\c&HEDD095&}wa mune ni tsutsunde
+Dialogue: 0,0:03:41.66,0:03:42.26,Karaoke,,0,0,0,,{\c&HECEBDC&}shizuku wa ​{\c&HEDD095&}mune ni tsutsunde
+Dialogue: 0,0:03:42.26,0:03:42.46,Karaoke,,0,0,0,,{\c&HECEBDC&}shizuku wa mu​{\c&HEDD095&}ne ni tsutsunde
+Dialogue: 0,0:03:42.46,0:03:42.63,Karaoke,,0,0,0,,{\c&HECEBDC&}shizuku wa mune ​{\c&HEDD095&}ni tsutsunde
+Dialogue: 0,0:03:42.63,0:03:42.86,Karaoke,,0,0,0,,{\c&HECEBDC&}shizuku wa mune ni ​{\c&HEDD095&}tsutsunde
+Dialogue: 0,0:03:42.86,0:03:43.06,Karaoke,,0,0,0,,{\c&HECEBDC&}shizuku wa mune ni tsu​{\c&HEDD095&}tsunde
+Dialogue: 0,0:03:43.06,0:03:43.26,Karaoke,,0,0,0,,{\c&HECEBDC&}shizuku wa mune ni tsutsu​{\c&HEDD095&}nde
+Dialogue: 0,0:03:43.26,0:03:43.46,Karaoke,,0,0,0,,{\c&HECEBDC&}shizuku wa mune ni tsutsun​{\c&HEDD095&}de
+Dialogue: 0,0:03:43.46,0:03:43.83,Karaoke,,0,0,0,,{\c&HECEBDC&}shizuku wa mune ni tsutsunde
+Dialogue: 0,0:03:43.83,0:03:47.03,English - 2,,0,0,0,,{\c&HECEBDC&}and send them into the sky​
+Dialogue: 0,0:03:43.83,0:03:44.03,Karaoke,,0,0,0,,{\c&HECEBDC&}to​{\c&HEDD095&}dokeru yo sora ni
+Dialogue: 0,0:03:44.03,0:03:44.23,Karaoke,,0,0,0,,{\c&HECEBDC&}todo​{\c&HEDD095&}keru yo sora ni
+Dialogue: 0,0:03:44.23,0:03:44.63,Karaoke,,0,0,0,,{\c&HECEBDC&}todoke​{\c&HEDD095&}ru yo sora ni
+Dialogue: 0,0:03:44.63,0:03:44.79,Karaoke,,0,0,0,,{\c&HECEBDC&}todokeru ​{\c&HEDD095&}yo sora ni
+Dialogue: 0,0:03:44.79,0:03:45.43,Karaoke,,0,0,0,,{\c&HECEBDC&}todokeru yo ​{\c&HEDD095&}sora ni
+Dialogue: 0,0:03:45.43,0:03:45.63,Karaoke,,0,0,0,,{\c&HECEBDC&}todokeru yo so​{\c&HEDD095&}ra ni
+Dialogue: 0,0:03:45.63,0:03:45.83,Karaoke,,0,0,0,,{\c&HECEBDC&}todokeru yo sora ​{\c&HEDD095&}ni
+Dialogue: 0,0:03:45.83,0:03:47.03,Karaoke,,0,0,0,,{\c&HECEBDC&}todokeru yo sora ni
+Dialogue: 0,0:03:47.03,0:03:50.27,English - 2,,0,0,0,,{\c&HE0B2E8&}I love you always. Take me in your arms and kiss me​​
+Dialogue: 0,0:03:47.03,0:03:47.23,Karaoke,,0,0,0,,{\c&HE0B2E8&}i​{\c&HEDD095&}tsudemo I love you. kimi ni Take kiss me.
+Dialogue: 0,0:03:47.23,0:03:47.43,Karaoke,,0,0,0,,{\c&HE0B2E8&}itsu​{\c&HEDD095&}demo I love you. kimi ni Take kiss me.
+Dialogue: 0,0:03:47.43,0:03:47.63,Karaoke,,0,0,0,,{\c&HE0B2E8&}itsude​{\c&HEDD095&}mo I love you. kimi ni Take kiss me.
+Dialogue: 0,0:03:47.63,0:03:47.83,Karaoke,,0,0,0,,{\c&HE0B2E8&}itsudemo ​{\c&HEDD095&}I love you. kimi ni Take kiss me.
+Dialogue: 0,0:03:47.83,0:03:48.03,Karaoke,,0,0,0,,{\c&HE0B2E8&}itsudemo I​{\c&HEDD095&} love you. kimi ni Take kiss me.
+Dialogue: 0,0:03:48.03,0:03:48.23,Karaoke,,0,0,0,,{\c&HE0B2E8&}itsudemo I ​{\c&HEDD095&}love you. kimi ni Take kiss me.
+Dialogue: 0,0:03:48.23,0:03:48.33,Karaoke,,0,0,0,,{\c&HE0B2E8&}itsudemo I love ​{\c&HEDD095&}you. kimi ni Take kiss me.
+Dialogue: 0,0:03:48.33,0:03:48.63,Karaoke,,0,0,0,,{\c&HE0B2E8&}itsudemo I love you. ​{\c&HEDD095&}kimi ni Take kiss me.
+Dialogue: 0,0:03:48.63,0:03:48.83,Karaoke,,0,0,0,,{\c&HE0B2E8&}itsudemo I love you. ki​{\c&HEDD095&}mi ni Take kiss me.
+Dialogue: 0,0:03:48.83,0:03:49.03,Karaoke,,0,0,0,,{\c&HE0B2E8&}itsudemo I love you. kimi ​{\c&HEDD095&}ni Take kiss me.
+Dialogue: 0,0:03:49.03,0:03:49.23,Karaoke,,0,0,0,,{\c&HE0B2E8&}itsudemo I love you. kimi ni ​{\c&HEDD095&}Take kiss me.
+Dialogue: 0,0:03:49.23,0:03:49.43,Karaoke,,0,0,0,,{\c&HE0B2E8&}itsudemo I love you. kimi ni Ta​{\c&HEDD095&}ke kiss me.
+Dialogue: 0,0:03:49.43,0:03:49.63,Karaoke,,0,0,0,,{\c&HE0B2E8&}itsudemo I love you. kimi ni Take ​{\c&HEDD095&}kiss me.
+Dialogue: 0,0:03:49.63,0:03:49.83,Karaoke,,0,0,0,,{\c&HE0B2E8&}itsudemo I love you. kimi ni Take ki​{\c&HEDD095&}ss me.
+Dialogue: 0,0:03:49.83,0:03:49.93,Karaoke,,0,0,0,,{\c&HE0B2E8&}itsudemo I love you. kimi ni Take kiss ​{\c&HEDD095&}me.
+Dialogue: 0,0:03:49.93,0:03:50.27,Karaoke,,0,0,0,,{\c&HE0B2E8&}itsudemo I love you. kimi ni Take kiss me.
+Dialogue: 0,0:03:50.27,0:03:54.04,English - 2,,0,0,0,,I cannot forg{\c&H93D5EB&}et this precious memory of mine​
+Dialogue: 0,0:03:50.27,0:03:50.47,Karaoke,,0,0,0,,{\c&H93D5EB&}wa​{\c&HEDD095&}surerarenai kara boku no daijina memorii
+Dialogue: 0,0:03:50.47,0:03:50.67,Karaoke,,0,0,0,,{\c&H93D5EB&}wasu​{\c&HEDD095&}rerarenai kara boku no daijina memorii
+Dialogue: 0,0:03:50.67,0:03:50.87,Karaoke,,0,0,0,,{\c&H93D5EB&}wasure​{\c&HEDD095&}rarenai kara boku no daijina memorii
+Dialogue: 0,0:03:50.87,0:03:51.07,Karaoke,,0,0,0,,{\c&H93D5EB&}wasurera​{\c&HEDD095&}renai kara boku no daijina memorii
+Dialogue: 0,0:03:51.07,0:03:51.27,Karaoke,,0,0,0,,{\c&H93D5EB&}wasurerare​{\c&HEDD095&}nai kara boku no daijina memorii
+Dialogue: 0,0:03:51.27,0:03:51.43,Karaoke,,0,0,0,,{\c&H93D5EB&}wasurerarenai ​{\c&HEDD095&}kara boku no daijina memorii
+Dialogue: 0,0:03:51.43,0:03:51.53,Karaoke,,0,0,0,,{\c&H93D5EB&}wasurerarenai ka​{\c&HEDD095&}ra boku no daijina memorii
+Dialogue: 0,0:03:51.53,0:03:51.87,Karaoke,,0,0,0,,{\c&H93D5EB&}wasurerarenai kara ​{\c&HEDD095&}boku no daijina memorii
+Dialogue: 0,0:03:51.87,0:03:52.07,Karaoke,,0,0,0,,{\c&H93D5EB&}wasurerarenai kara bo​{\c&HEDD095&}ku no daijina memorii
+Dialogue: 0,0:03:52.07,0:03:52.27,Karaoke,,0,0,0,,{\c&H93D5EB&}wasurerarenai kara boku ​{\c&HEDD095&}no daijina memorii
+Dialogue: 0,0:03:52.27,0:03:52.47,Karaoke,,0,0,0,,{\c&H93D5EB&}wasurerarenai kara boku no ​{\c&HEDD095&}daijina memorii
+Dialogue: 0,0:03:52.47,0:03:52.70,Karaoke,,0,0,0,,{\c&H93D5EB&}wasurerarenai kara boku no da​{\c&HEDD095&}ijina memorii
+Dialogue: 0,0:03:52.70,0:03:52.77,Karaoke,,0,0,0,,{\c&H93D5EB&}wasurerarenai kara boku no dai​{\c&HEDD095&}jina memorii
+Dialogue: 0,0:03:52.77,0:03:52.87,Karaoke,,0,0,0,,{\c&H93D5EB&}wasurerarenai kara boku no daiji​{\c&HEDD095&}na memorii
+Dialogue: 0,0:03:52.87,0:03:53.07,Karaoke,,0,0,0,,{\c&H93D5EB&}wasurerarenai kara boku no daijina ​{\c&HEDD095&}memorii
+Dialogue: 0,0:03:53.07,0:03:53.47,Karaoke,,0,0,0,,{\c&H93D5EB&}wasurerarenai kara boku no daijina me​{\c&HEDD095&}morii
+Dialogue: 0,0:03:53.47,0:03:53.67,Karaoke,,0,0,0,,{\c&H93D5EB&}wasurerarenai kara boku no daijina memo​{\c&HEDD095&}rii
+Dialogue: 0,0:03:53.67,0:03:54.04,Karaoke,,0,0,0,,{\c&H93D5EB&}wasurerarenai kara boku no daijina memorii
+Dialogue: 0,0:03:54.04,0:03:56.64,English - 2,,0,0,0,,{\c&HE0B2E8&}If dorayaki cannot become my main diet,​
+Dialogue: 0,0:03:54.04,0:03:54.24,Karaoke,,0,0,0,,{\c&HE0B2E8&}do​{\c&HEDD095&}rayaki wa shushoku ni narenai
+Dialogue: 0,0:03:54.24,0:03:54.44,Karaoke,,0,0,0,,{\c&HE0B2E8&}dora​{\c&HEDD095&}yaki wa shushoku ni narenai
+Dialogue: 0,0:03:54.44,0:03:54.64,Karaoke,,0,0,0,,{\c&HE0B2E8&}doraya​{\c&HEDD095&}ki wa shushoku ni narenai
+Dialogue: 0,0:03:54.64,0:03:54.74,Karaoke,,0,0,0,,{\c&HE0B2E8&}dorayaki ​{\c&HEDD095&}wa shushoku ni narenai
+Dialogue: 0,0:03:54.74,0:03:55.04,Karaoke,,0,0,0,,{\c&HE0B2E8&}dorayaki wa ​{\c&HEDD095&}shushoku ni narenai
+Dialogue: 0,0:03:55.04,0:03:55.24,Karaoke,,0,0,0,,{\c&HE0B2E8&}dorayaki wa shu​{\c&HEDD095&}shoku ni narenai
+Dialogue: 0,0:03:55.24,0:03:55.44,Karaoke,,0,0,0,,{\c&HE0B2E8&}dorayaki wa shusho​{\c&HEDD095&}ku ni narenai
+Dialogue: 0,0:03:55.44,0:03:55.64,Karaoke,,0,0,0,,{\c&HE0B2E8&}dorayaki wa shushoku ​{\c&HEDD095&}ni narenai
+Dialogue: 0,0:03:55.64,0:03:55.84,Karaoke,,0,0,0,,{\c&HE0B2E8&}dorayaki wa shushoku ni ​{\c&HEDD095&}narenai
+Dialogue: 0,0:03:55.84,0:03:56.04,Karaoke,,0,0,0,,{\c&HE0B2E8&}dorayaki wa shushoku ni na​{\c&HEDD095&}renai
+Dialogue: 0,0:03:56.04,0:03:56.24,Karaoke,,0,0,0,,{\c&HE0B2E8&}dorayaki wa shushoku ni nare​{\c&HEDD095&}nai
+Dialogue: 0,0:03:56.24,0:03:56.34,Karaoke,,0,0,0,,{\c&HE0B2E8&}dorayaki wa shushoku ni narena​{\c&HEDD095&}i
+Dialogue: 0,0:03:56.34,0:03:56.64,Karaoke,,0,0,0,,{\c&HE0B2E8&}dorayaki wa shushoku ni narenai
+Dialogue: 0,0:03:56.64,0:04:01.04,English - 2,,0,0,0,,{\c&HD2C015&}I'll just have to overwrite it my way​
+Dialogue: 0,0:03:56.64,0:03:56.84,Karaoke,,0,0,0,,{\c&HD2C015&}na​{\c&HEDD095&}raba uwagaki shichaeba boku no omoidoori
+Dialogue: 0,0:03:56.84,0:03:57.04,Karaoke,,0,0,0,,{\c&HD2C015&}nara​{\c&HEDD095&}ba uwagaki shichaeba boku no omoidoori
+Dialogue: 0,0:03:57.04,0:03:57.24,Karaoke,,0,0,0,,{\c&HD2C015&}naraba ​{\c&HEDD095&}uwagaki shichaeba boku no omoidoori
+Dialogue: 0,0:03:57.24,0:03:57.44,Karaoke,,0,0,0,,{\c&HD2C015&}naraba u​{\c&HEDD095&}wagaki shichaeba boku no omoidoori
+Dialogue: 0,0:03:57.44,0:03:57.64,Karaoke,,0,0,0,,{\c&HD2C015&}naraba uwa​{\c&HEDD095&}gaki shichaeba boku no omoidoori
+Dialogue: 0,0:03:57.64,0:03:57.84,Karaoke,,0,0,0,,{\c&HD2C015&}naraba uwaga​{\c&HEDD095&}ki shichaeba boku no omoidoori
+Dialogue: 0,0:03:57.84,0:03:57.97,Karaoke,,0,0,0,,{\c&HD2C015&}naraba uwagaki ​{\c&HEDD095&}shichaeba boku no omoidoori
+Dialogue: 0,0:03:57.97,0:03:58.24,Karaoke,,0,0,0,,{\c&HD2C015&}naraba uwagaki shi​{\c&HEDD095&}chaeba boku no omoidoori
+Dialogue: 0,0:03:58.24,0:03:58.44,Karaoke,,0,0,0,,{\c&HD2C015&}naraba uwagaki shicha​{\c&HEDD095&}eba boku no omoidoori
+Dialogue: 0,0:03:58.44,0:03:58.64,Karaoke,,0,0,0,,{\c&HD2C015&}naraba uwagaki shichae​{\c&HEDD095&}ba boku no omoidoori
+Dialogue: 0,0:03:58.64,0:03:58.84,Karaoke,,0,0,0,,{\c&HD2C015&}naraba uwagaki shichaeba ​{\c&HEDD095&}boku no omoidoori
+Dialogue: 0,0:03:58.84,0:03:59.11,Karaoke,,0,0,0,,{\c&HD2C015&}naraba uwagaki shichaeba bo​{\c&HEDD095&}ku no omoidoori
+Dialogue: 0,0:03:59.11,0:03:59.24,Karaoke,,0,0,0,,{\c&HD2C015&}naraba uwagaki shichaeba boku ​{\c&HEDD095&}no omoidoori
+Dialogue: 0,0:03:59.24,0:03:59.44,Karaoke,,0,0,0,,{\c&HD2C015&}naraba uwagaki shichaeba boku no ​{\c&HEDD095&}omoidoori
+Dialogue: 0,0:03:59.44,0:03:59.84,Karaoke,,0,0,0,,{\c&HD2C015&}naraba uwagaki shichaeba boku no o​{\c&HEDD095&}moidoori
+Dialogue: 0,0:03:59.84,0:03:59.94,Karaoke,,0,0,0,,{\c&HD2C015&}naraba uwagaki shichaeba boku no omo​{\c&HEDD095&}idoori
+Dialogue: 0,0:03:59.94,0:04:00.04,Karaoke,,0,0,0,,{\c&HD2C015&}naraba uwagaki shichaeba boku no omoi​{\c&HEDD095&}doori
+Dialogue: 0,0:04:00.04,0:04:00.24,Karaoke,,0,0,0,,{\c&HD2C015&}naraba uwagaki shichaeba boku no omoido​{\c&HEDD095&}ori
+Dialogue: 0,0:04:00.24,0:04:00.44,Karaoke,,0,0,0,,{\c&HD2C015&}naraba uwagaki shichaeba boku no omoidoo​{\c&HEDD095&}ri
+Dialogue: 0,0:04:00.44,0:04:01.04,Karaoke,,0,0,0,,{\c&HD2C015&}naraba uwagaki shichaeba boku no omoidoori
+Dialogue: 0,0:04:01.04,0:04:04.65,English - 2,,0,0,0,,{\c&HE0B2E8&}I don't want to wake up from this dream​
+Dialogue: 0,0:04:01.04,0:04:01.14,Karaoke,,0,0,0,,{\c&HE0B2E8&}yu​{\c&HEDD095&}me kara pipipi samenaide samenaide
+Dialogue: 0,0:04:01.14,0:04:01.24,Karaoke,,0,0,0,,{\c&HE0B2E8&}yume ​{\c&HEDD095&}kara pipipi samenaide samenaide
+Dialogue: 0,0:04:01.24,0:04:01.44,Karaoke,,0,0,0,,{\c&HE0B2E8&}yume ka​{\c&HEDD095&}ra pipipi samenaide samenaide
+Dialogue: 0,0:04:01.44,0:04:01.61,Karaoke,,0,0,0,,{\c&HE0B2E8&}yume kara ​{\c&HEDD095&}pipipi samenaide samenaide
+Dialogue: 0,0:04:01.61,0:04:01.74,Karaoke,,0,0,0,,{\c&HE0B2E8&}yume kara pi​{\c&HEDD095&}pipi samenaide samenaide
+Dialogue: 0,0:04:01.74,0:04:01.84,Karaoke,,0,0,0,,{\c&HE0B2E8&}yume kara pipi​{\c&HEDD095&}pi samenaide samenaide
+Dialogue: 0,0:04:01.84,0:04:02.04,Karaoke,,0,0,0,,{\c&HE0B2E8&}yume kara pipipi ​{\c&HEDD095&}samenaide samenaide
+Dialogue: 0,0:04:02.04,0:04:02.24,Karaoke,,0,0,0,,{\c&HE0B2E8&}yume kara pipipi sa​{\c&HEDD095&}menaide samenaide
+Dialogue: 0,0:04:02.24,0:04:02.44,Karaoke,,0,0,0,,{\c&HE0B2E8&}yume kara pipipi same​{\c&HEDD095&}naide samenaide
+Dialogue: 0,0:04:02.44,0:04:02.61,Karaoke,,0,0,0,,{\c&HE0B2E8&}yume kara pipipi samenai​{\c&HEDD095&}de samenaide
+Dialogue: 0,0:04:02.61,0:04:02.85,Karaoke,,0,0,0,,{\c&HE0B2E8&}yume kara pipipi samenaide ​{\c&HEDD095&}samenaide
+Dialogue: 0,0:04:02.85,0:04:03.01,Karaoke,,0,0,0,,{\c&HE0B2E8&}yume kara pipipi samenaide sa​{\c&HEDD095&}menaide
+Dialogue: 0,0:04:03.01,0:04:03.25,Karaoke,,0,0,0,,{\c&HE0B2E8&}yume kara pipipi samenaide same​{\c&HEDD095&}naide
+Dialogue: 0,0:04:03.25,0:04:03.45,Karaoke,,0,0,0,,{\c&HE0B2E8&}yume kara pipipi samenaide samenai​{\c&HEDD095&}de
+Dialogue: 0,0:04:03.45,0:04:04.65,Karaoke,,0,0,0,,{\c&HE0B2E8&}yume kara pipipi samenaide samenaide
+Dialogue: 0,0:04:04.65,0:04:06.62,English - 2,,0,0,0,,{\c&HD2C015&}This warmth, please don't go away​
+Dialogue: 0,0:04:04.65,0:04:04.85,Karaoke,,0,0,0,,{\c&HD2C015&}nu​{\c&HEDD095&}kumori nigenaide
+Dialogue: 0,0:04:04.85,0:04:05.05,Karaoke,,0,0,0,,{\c&HD2C015&}nuku​{\c&HEDD095&}mori nigenaide
+Dialogue: 0,0:04:05.05,0:04:05.25,Karaoke,,0,0,0,,{\c&HD2C015&}nukumo​{\c&HEDD095&}ri nigenaide
+Dialogue: 0,0:04:05.25,0:04:05.45,Karaoke,,0,0,0,,{\c&HD2C015&}nukumori ​{\c&HEDD095&}nigenaide
+Dialogue: 0,0:04:05.45,0:04:05.65,Karaoke,,0,0,0,,{\c&HD2C015&}nukumori ni​{\c&HEDD095&}genaide
+Dialogue: 0,0:04:05.65,0:04:05.85,Karaoke,,0,0,0,,{\c&HD2C015&}nukumori nige​{\c&HEDD095&}naide
+Dialogue: 0,0:04:05.85,0:04:06.12,Karaoke,,0,0,0,,{\c&HD2C015&}nukumori nigena​{\c&HEDD095&}ide
+Dialogue: 0,0:04:06.12,0:04:06.25,Karaoke,,0,0,0,,{\c&HD2C015&}nukumori nigenai​{\c&HEDD095&}de
+Dialogue: 0,0:04:06.25,0:04:06.62,Karaoke,,0,0,0,,{\c&HD2C015&}nukumori nigenaide
+Dialogue: 0,0:04:06.62,0:04:09.42,English - 2,,0,0,0,,{\c&HE0B2E8&}The morning is still young, so please​
+Dialogue: 0,0:04:06.62,0:04:06.72,Karaoke,,0,0,0,,{\c&HE0B2E8&}ma​{\c&HEDD095&}da asa wa tappuri aru kara
+Dialogue: 0,0:04:06.72,0:04:06.82,Karaoke,,0,0,0,,{\c&HE0B2E8&}mada​{\c&HEDD095&} asa wa tappuri aru kara
+Dialogue: 0,0:04:06.82,0:04:07.02,Karaoke,,0,0,0,,{\c&HE0B2E8&}mada a​{\c&HEDD095&}sa wa tappuri aru kara
+Dialogue: 0,0:04:07.02,0:04:07.22,Karaoke,,0,0,0,,{\c&HE0B2E8&}mada asa​{\c&HEDD095&} wa tappuri aru kara
+Dialogue: 0,0:04:07.22,0:04:07.82,Karaoke,,0,0,0,,{\c&HE0B2E8&}mada asa wa​{\c&HEDD095&} tappuri aru kara
+Dialogue: 0,0:04:07.82,0:04:08.02,Karaoke,,0,0,0,,{\c&HE0B2E8&}mada asa wa tap​{\c&HEDD095&}puri aru kara
+Dialogue: 0,0:04:08.02,0:04:08.22,Karaoke,,0,0,0,,{\c&HE0B2E8&}mada asa wa tappu​{\c&HEDD095&}ri aru kara
+Dialogue: 0,0:04:08.22,0:04:08.42,Karaoke,,0,0,0,,{\c&HE0B2E8&}mada asa wa tappuri​{\c&HEDD095&} aru kara
+Dialogue: 0,0:04:08.42,0:04:08.62,Karaoke,,0,0,0,,{\c&HE0B2E8&}mada asa wa tappuri a​{\c&HEDD095&}ru kara
+Dialogue: 0,0:04:08.62,0:04:08.82,Karaoke,,0,0,0,,{\c&HE0B2E8&}mada asa wa tappuri aru​{\c&HEDD095&} kara
+Dialogue: 0,0:04:08.82,0:04:09.02,Karaoke,,0,0,0,,{\c&HE0B2E8&}mada asa wa tappuri aru ka​{\c&HEDD095&}ra
+Dialogue: 0,0:04:09.02,0:04:09.42,Karaoke,,0,0,0,,{\c&HE0B2E8&}mada asa wa tappuri aru kara
+Dialogue: 0,0:04:09.42,0:04:13.25,English - 2,,0,0,0,,{\c&HD2C015&}give me five... no, ten more minutes​
+Dialogue: 0,0:04:09.42,0:04:09.62,Karaoke,,0,0,0,,{\c&HD2C015&}a​{\c&HEDD095&}to gofun iya juppun matasete
+Dialogue: 0,0:04:09.62,0:04:09.82,Karaoke,,0,0,0,,{\c&HD2C015&}ato ​{\c&HEDD095&}gofun iya juppun matasete
+Dialogue: 0,0:04:09.82,0:04:10.22,Karaoke,,0,0,0,,{\c&HD2C015&}ato go​{\c&HEDD095&}fun iya juppun matasete
+Dialogue: 0,0:04:10.22,0:04:10.42,Karaoke,,0,0,0,,{\c&HD2C015&}ato gofu​{\c&HEDD095&}n iya juppun matasete
+Dialogue: 0,0:04:10.42,0:04:11.32,Karaoke,,0,0,0,,{\c&HD2C015&}ato gofun ​{\c&HEDD095&}iya juppun matasete
+Dialogue: 0,0:04:11.32,0:04:11.42,Karaoke,,0,0,0,,{\c&HD2C015&}ato gofun i​{\c&HEDD095&}ya juppun matasete
+Dialogue: 0,0:04:11.42,0:04:11.62,Karaoke,,0,0,0,,{\c&HD2C015&}ato gofun iya ​{\c&HEDD095&}juppun matasete
+Dialogue: 0,0:04:11.62,0:04:11.82,Karaoke,,0,0,0,,{\c&HD2C015&}ato gofun iya jup​{\c&HEDD095&}pun matasete
+Dialogue: 0,0:04:11.82,0:04:12.02,Karaoke,,0,0,0,,{\c&HD2C015&}ato gofun iya juppun ​{\c&HEDD095&}matasete
+Dialogue: 0,0:04:12.02,0:04:12.22,Karaoke,,0,0,0,,{\c&HD2C015&}ato gofun iya juppun ma​{\c&HEDD095&}tasete
+Dialogue: 0,0:04:12.22,0:04:12.62,Karaoke,,0,0,0,,{\c&HD2C015&}ato gofun iya juppun mata​{\c&HEDD095&}sete
+Dialogue: 0,0:04:12.62,0:04:12.82,Karaoke,,0,0,0,,{\c&HD2C015&}ato gofun iya juppun matase​{\c&HEDD095&}te
+Dialogue: 0,0:04:12.82,0:04:13.25,Karaoke,,0,0,0,,{\c&HD2C015&}ato gofun iya juppun matasete
