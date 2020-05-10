@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Kamakura bloody
-Audio File: ../../../Songs/【おちゃめ機能】ホロライブが吹っ切れた【24人で歌ってみた】-9kQ2GtvDV3s.mkv
-Video File: ../../../Songs/【おちゃめ機能】ホロライブが吹っ切れた【24人で歌ってみた】-9kQ2GtvDV3s.mkv
+Audio File: ../../../Songs/【おちゃめ機能】ホロライブが吹っ切れた【24人で歌ってみた】 .mkv
+Video File: ../../../Songs/【おちゃめ機能】ホロライブが吹っ切れた【24人で歌ってみた】 .mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 564
-Active Line: 601
-Video Position: 7417
+Scroll Position: 692
+Active Line: 900
+Video Position: 7585
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -45,7 +45,7 @@ Dialogue: 0,0:00:08.44,0:00:08.64,Karaoke,,0,0,0,,{\c&HDD88DA&}itsudemo I love y
 Dialogue: 0,0:00:08.64,0:00:08.84,Karaoke,,0,0,0,,{\c&HDD88DA&}itsudemo I love you. kimi ni Take ​{\c&HEDD095&}kiss me.
 Dialogue: 0,0:00:08.84,0:00:09.05,Karaoke,,0,0,0,,{\c&HDD88DA&}itsudemo I love you. kimi ni Take ki​{\c&HEDD095&}ss me.
 Dialogue: 0,0:00:09.05,0:00:09.15,Karaoke,,0,0,0,,{\c&HDD88DA&}itsudemo I love you. kimi ni Take kiss ​{\c&HEDD095&}me.
-Dialogue: 0,0:00:09.15,0:00:09.45,Karaoke,,0,0,0,,{\c&HDD88DA&}itsudemo I love you. kimi ni Take kiss me.
+Dialogue: 0,0:00:09.15,0:00:09.45,Karaoke,,0,0,0,,{\c&HDD88DA&\pos(960,15)}itsudemo I love you. kimi ni Take kiss me.
 Dialogue: 0,0:00:09.45,0:00:13.22,English - 2,,0,0,0,,{\c&HD2C015&}I cannot forget this precious memory of mine​
 Dialogue: 0,0:00:09.45,0:00:09.65,Karaoke,,0,0,0,,{\c&HDD88DA&}wa​{\c&HEDD095&}surerarenai kara boku no daijina memorii
 Dialogue: 0,0:00:09.65,0:00:09.85,Karaoke,,0,0,0,,{\c&HDD88DA&}wasu​{\c&HEDD095&}rerarenai kara boku no daijina memorii
@@ -64,7 +64,7 @@ Dialogue: 0,0:00:11.95,0:00:12.05,Karaoke,,0,0,0,,{\c&HDD88DA&}wasurerarenai kar
 Dialogue: 0,0:00:12.05,0:00:12.25,Karaoke,,0,0,0,,{\c&HDD88DA&}wasurerarenai kara boku no daijina ​{\c&HEDD095&}memorii
 Dialogue: 0,0:00:12.25,0:00:12.65,Karaoke,,0,0,0,,{\c&HDD88DA&}wasurerarenai kara boku no daijina me​{\c&HEDD095&}morii
 Dialogue: 0,0:00:12.65,0:00:12.85,Karaoke,,0,0,0,,{\c&HDD88DA&}wasurerarenai kara boku no daijina memo​{\c&HEDD095&}rii
-Dialogue: 0,0:00:12.85,0:00:13.22,Karaoke,,0,0,0,,{\c&HDD88DA&}wasurerarenai kara boku no daijina memorii
+Dialogue: 0,0:00:12.85,0:00:13.22,Karaoke,,0,0,0,,{\c&HDD88DA&\pos(960,15)}wasurerarenai kara boku no daijina memorii
 Dialogue: 0,0:00:13.22,0:00:15.85,English - 2,,0,0,0,,If dorayaki cannot become my main diet,​
 Dialogue: 0,0:00:13.22,0:00:13.45,Karaoke,,0,0,0,,{\c&H93D5EB&}do​{\c&HEDD095&}rayaki wa shushoku ni narenai
 Dialogue: 0,0:00:13.45,0:00:13.62,Karaoke,,0,0,0,,{\c&H93D5EB&}dora​{\c&HEDD095&}yaki wa shushoku ni narenai
@@ -78,7 +78,7 @@ Dialogue: 0,0:00:14.82,0:00:15.05,Karaoke,,0,0,0,,{\c&H93D5EB&}dorayaki wa shush
 Dialogue: 0,0:00:15.05,0:00:15.22,Karaoke,,0,0,0,,{\c&H93D5EB&}dorayaki wa shushoku ni na​{\c&HEDD095&}renai
 Dialogue: 0,0:00:15.22,0:00:15.45,Karaoke,,0,0,0,,{\c&H93D5EB&}dorayaki wa shushoku ni nare​{\c&HEDD095&}nai
 Dialogue: 0,0:00:15.45,0:00:15.55,Karaoke,,0,0,0,,{\c&H93D5EB&}dorayaki wa shushoku ni narena​{\c&HEDD095&}i
-Dialogue: 0,0:00:15.55,0:00:15.85,Karaoke,,0,0,0,,{\c&H93D5EB&}dorayaki wa shushoku ni narenai
+Dialogue: 0,0:00:15.55,0:00:15.85,Karaoke,,0,0,0,,{\c&H93D5EB&\pos(960,15)}dorayaki wa shushoku ni narenai
 Dialogue: 0,0:00:15.85,0:00:20.05,English - 2,,0,0,0,,{\c&HE0B2E8&}I'll just have to overwrite it my way​
 Dialogue: 0,0:00:15.85,0:00:16.05,Karaoke,,0,0,0,,{\c&HE0B2E8&}na​{\c&HEDD095&}raba uwagaki shichaeba boku no omoidoori
 Dialogue: 0,0:00:16.05,0:00:16.25,Karaoke,,0,0,0,,{\c&HE0B2E8&}nara​{\c&HEDD095&}ba uwagaki shichaeba boku no omoidoori
@@ -99,7 +99,7 @@ Dialogue: 0,0:00:19.06,0:00:19.16,Karaoke,,0,0,0,,{\c&HE0B2E8&}naraba uwagaki sh
 Dialogue: 0,0:00:19.16,0:00:19.26,Karaoke,,0,0,0,,{\c&HE0B2E8&}naraba uwagaki shichaeba boku no omoi​{\c&HEDD095&}doori
 Dialogue: 0,0:00:19.26,0:00:19.46,Karaoke,,0,0,0,,{\c&HE0B2E8&}naraba uwagaki shichaeba boku no omoido​{\c&HEDD095&}ori
 Dialogue: 0,0:00:19.46,0:00:19.66,Karaoke,,0,0,0,,{\c&HE0B2E8&}naraba uwagaki shichaeba boku no omoidoo​{\c&HEDD095&}ri
-Dialogue: 0,0:00:19.66,0:00:20.05,Karaoke,,0,0,0,,{\c&HE0B2E8&}naraba uwagaki shichaeba boku no omoidoori
+Dialogue: 0,0:00:19.66,0:00:20.05,Karaoke,,0,0,0,,{\c&HE0B2E8&\pos(960,15)}naraba uwagaki shichaeba boku no omoidoori
 Dialogue: 0,0:00:26.40,0:00:26.57,Yuujin A,,0,0,0,,{\move(496,1100,496,1032,0,167)}Yuujin A (A-chan)
 Dialogue: 1,0:00:26.57,0:00:31.06,Yuujin A,,0,0,0,,{\pos(496,1032)}Yuujin A (A-chan)
 Dialogue: 0,0:00:31.06,0:00:31.27,Yuujin A,,0,0,0,,{\move(496,1032,156,1032,60,180)}Yuujin A (A-chan)
@@ -112,7 +112,7 @@ Dialogue: 0,0:00:34.04,0:00:34.24,Karaoke,,0,0,0,,{\c&H9478E4&}zutto soba de ​
 Dialogue: 0,0:00:34.24,0:00:34.44,Karaoke,,0,0,0,,{\c&H9478E4&}zutto soba de mi​{\c&HEDD095&}teru yo
 Dialogue: 0,0:00:34.44,0:00:34.64,Karaoke,,0,0,0,,{\c&H9478E4&}zutto soba de mite​{\c&HEDD095&}ru yo
 Dialogue: 0,0:00:34.64,0:00:34.84,Karaoke,,0,0,0,,{\c&H9478E4&}zutto soba de miteru ​{\c&HEDD095&}yo
-Dialogue: 0,0:00:34.84,0:00:35.64,Karaoke,,0,0,0,,{\c&H9478E4&}zutto soba de miteru yo
+Dialogue: 0,0:00:34.84,0:00:35.64,Karaoke,,0,0,0,,{\c&H9478E4&\pos(960,15)}zutto soba de miteru yo
 Dialogue: 0,0:00:35.64,0:00:38.84,English - 2,,0,0,0,,{\c&H9478E4&}so leave the backup to me​
 Dialogue: 0,0:00:35.64,0:00:36.24,Karaoke,,0,0,0,,{\c&H9478E4&}bak​{\c&HEDD095&}kuappu wa makasete
 Dialogue: 0,0:00:36.24,0:00:36.44,Karaoke,,0,0,0,,{\c&H9478E4&}bakku​{\c&HEDD095&}appu wa makasete
@@ -122,7 +122,7 @@ Dialogue: 0,0:00:37.24,0:00:37.44,Karaoke,,0,0,0,,{\c&H9478E4&}bakkuappu wa ​{
 Dialogue: 0,0:00:37.44,0:00:37.64,Karaoke,,0,0,0,,{\c&H9478E4&}bakkuappu wa ma​{\c&HEDD095&}kasete
 Dialogue: 0,0:00:37.64,0:00:37.84,Karaoke,,0,0,0,,{\c&H9478E4&}bakkuappu wa maka​{\c&HEDD095&}sete
 Dialogue: 0,0:00:37.84,0:00:38.04,Karaoke,,0,0,0,,{\c&H9478E4&}bakkuappu wa makase​{\c&HEDD095&}te
-Dialogue: 0,0:00:38.04,0:00:38.84,Karaoke,,0,0,0,,{\c&H9478E4&}bakkuappu wa makasete
+Dialogue: 0,0:00:38.04,0:00:38.84,Karaoke,,0,0,0,,{\c&H9478E4&\pos(960,15)}bakkuappu wa makasete
 Dialogue: 0,0:00:38.84,0:00:43.85,English - 2,,0,0,0,,{\c&HED9DDF&}From left to right, events pop up​
 Dialogue: 0,0:00:38.84,0:00:39.44,Karaoke,,0,0,0,,{\c&HED9DDF&}hi​{\c&HEDD095&}dari kara migi e to dekigoto ga
 Dialogue: 0,0:00:39.44,0:00:39.61,Karaoke,,0,0,0,,{\c&HED9DDF&}hida​{\c&HEDD095&}ri kara migi e to dekigoto ga
@@ -137,14 +137,14 @@ Dialogue: 0,0:00:42.04,0:00:42.61,Karaoke,,0,0,0,,{\c&HED9DDF&}hidari kara migi 
 Dialogue: 0,0:00:42.61,0:00:42.85,Karaoke,,0,0,0,,{\c&HED9DDF&}hidari kara migi e to deki​{\c&HEDD095&}goto ga
 Dialogue: 0,0:00:42.85,0:00:43.45,Karaoke,,0,0,0,,{\c&HED9DDF&}hidari kara migi e to dekigo​{\c&HEDD095&}to ga
 Dialogue: 0,0:00:43.45,0:00:43.65,Karaoke,,0,0,0,,{\c&HED9DDF&}hidari kara migi e to dekigoto ​{\c&HEDD095&}ga
-Dialogue: 0,0:00:43.65,0:00:43.85,Karaoke,,0,0,0,,{\c&HED9DDF&}hidari kara migi e to dekigoto ga
+Dialogue: 0,0:00:43.65,0:00:43.85,Karaoke,,0,0,0,,{\c&HED9DDF&\pos(960,15)}hidari kara migi e to dekigoto ga
 Dialogue: 0,0:00:43.85,0:00:45.25,English - 2,,0,0,0,,{\c&HED9DDF&}Here, there, and everywhere​
 Dialogue: 0,0:00:43.85,0:00:44.05,Karaoke,,0,0,0,,{\c&HED9DDF&}ac​{\c&HEDD095&}chi kocchi docchi
 Dialogue: 0,0:00:44.05,0:00:44.25,Karaoke,,0,0,0,,{\c&HED9DDF&}acchi ​{\c&HEDD095&}kocchi docchi
 Dialogue: 0,0:00:44.25,0:00:44.45,Karaoke,,0,0,0,,{\c&HED9DDF&}acchi koc​{\c&HEDD095&}chi docchi
 Dialogue: 0,0:00:44.45,0:00:44.65,Karaoke,,0,0,0,,{\c&HED9DDF&}acchi kocchi ​{\c&HEDD095&}docchi
 Dialogue: 0,0:00:44.65,0:00:44.81,Karaoke,,0,0,0,,{\c&HED9DDF&}acchi kocchi doc​{\c&HEDD095&}chi
-Dialogue: 0,0:00:44.81,0:00:45.25,Karaoke,,0,0,0,,{\c&HED9DDF&}acchi kocchi docchi
+Dialogue: 0,0:00:44.81,0:00:45.25,Karaoke,,0,0,0,,{\c&HED9DDF&\pos(960,15)}acchi kocchi docchi
 Dialogue: 0,0:00:45.25,0:00:48.42,English - 2,,0,0,0,,{\c&HB1E9FC&}Where are you right now?​
 Dialogue: 0,0:00:45.25,0:00:45.85,Karaoke,,0,0,0,,{\c&HB1E9FC&}ki​{\c&HEDD095&}mi wa koko ni iru no?
 Dialogue: 0,0:00:45.85,0:00:46.05,Karaoke,,0,0,0,,{\c&HB1E9FC&}kimi ​{\c&HEDD095&}wa koko ni iru no?
@@ -154,7 +154,7 @@ Dialogue: 0,0:00:46.85,0:00:47.05,Karaoke,,0,0,0,,{\c&HB1E9FC&}kimi wa koko ​{
 Dialogue: 0,0:00:47.05,0:00:47.25,Karaoke,,0,0,0,,{\c&HB1E9FC&}kimi wa koko ni ​{\c&HEDD095&}iru no?
 Dialogue: 0,0:00:47.25,0:00:47.45,Karaoke,,0,0,0,,{\c&HB1E9FC&}kimi wa koko ni i​{\c&HEDD095&}ru no?
 Dialogue: 0,0:00:47.45,0:00:47.65,Karaoke,,0,0,0,,{\c&HB1E9FC&}kimi wa koko ni iru ​{\c&HEDD095&}no?
-Dialogue: 0,0:00:47.65,0:00:48.42,Karaoke,,0,0,0,,{\c&HB1E9FC&}kimi wa koko ni iru no?
+Dialogue: 0,0:00:47.65,0:00:48.42,Karaoke,,0,0,0,,{\c&HB1E9FC&\pos(960,15)}kimi wa koko ni iru no?
 Dialogue: 0,0:00:48.42,0:00:51.65,English - 2,,0,0,0,,{\c&HB1E9FC&}Isn't your birthday still some time away?​
 Dialogue: 0,0:00:48.42,0:00:49.02,Karaoke,,0,0,0,,{\c&HB1E9FC&}baa​{\c&HEDD095&}sudei mada saki desho?
 Dialogue: 0,0:00:49.02,0:00:49.22,Karaoke,,0,0,0,,{\c&HB1E9FC&}baasu​{\c&HEDD095&}dei mada saki desho?
@@ -164,7 +164,7 @@ Dialogue: 0,0:00:50.02,0:00:50.22,Karaoke,,0,0,0,,{\c&HB1E9FC&}baasudei mada ​
 Dialogue: 0,0:00:50.22,0:00:50.45,Karaoke,,0,0,0,,{\c&HB1E9FC&}baasudei mada sa​{\c&HEDD095&}ki desho?
 Dialogue: 0,0:00:50.45,0:00:50.62,Karaoke,,0,0,0,,{\c&HB1E9FC&}baasudei mada saki ​{\c&HEDD095&}desho?
 Dialogue: 0,0:00:50.62,0:00:50.82,Karaoke,,0,0,0,,{\c&HB1E9FC&}baasudei mada saki de​{\c&HEDD095&}sho?
-Dialogue: 0,0:00:50.82,0:00:51.65,Karaoke,,0,0,0,,{\c&HB1E9FC&}baasudei mada saki desho?
+Dialogue: 0,0:00:50.82,0:00:51.65,Karaoke,,0,0,0,,{\c&HB1E9FC&\pos(960,15)}baasudei mada saki desho?
 Dialogue: 0,0:00:51.65,0:00:54.82,English - 2,,0,0,0,,{\c&H736FD1&}I'm reasonable enough not to believe​
 Dialogue: 0,0:00:51.65,0:00:52.25,Karaoke,,0,0,0,,{\c&H736FD1&}ii​{\c&HEDD095&}kagen ni koyubi kara
 Dialogue: 0,0:00:52.25,0:00:52.46,Karaoke,,0,0,0,,{\c&H736FD1&}iika​{\c&HEDD095&}gen ni koyubi kara
@@ -174,7 +174,7 @@ Dialogue: 0,0:00:53.26,0:00:53.46,Karaoke,,0,0,0,,{\c&H736FD1&}iikagen ni ko​{
 Dialogue: 0,0:00:53.46,0:00:53.66,Karaoke,,0,0,0,,{\c&H736FD1&}iikagen ni koyu​{\c&HEDD095&}bi kara
 Dialogue: 0,0:00:53.66,0:00:53.86,Karaoke,,0,0,0,,{\c&H736FD1&}iikagen ni koyubi ​{\c&HEDD095&}kara
 Dialogue: 0,0:00:53.86,0:00:54.06,Karaoke,,0,0,0,,{\c&H736FD1&}iikagen ni koyubi ka​{\c&HEDD095&}ra
-Dialogue: 0,0:00:54.06,0:00:54.82,Karaoke,,0,0,0,,{\c&H736FD1&}iikagen ni koyubi kara
+Dialogue: 0,0:00:54.06,0:00:54.82,Karaoke,,0,0,0,,{\c&H736FD1&\pos(960,15)}iikagen ni koyubi kara
 Dialogue: 0,0:00:54.82,0:00:58.23,English - 2,,0,0,0,,{\c&H736FD1&}in the invisible string of fate​
 Dialogue: 0,0:00:54.82,0:00:55.42,Karaoke,,0,0,0,,{\c&H736FD1&}mi​{\c&HEDD095&}enai ito shuchou shinai
 Dialogue: 0,0:00:55.42,0:00:55.62,Karaoke,,0,0,0,,{\c&H736FD1&}mie​{\c&HEDD095&}nai ito shuchou shinai
@@ -187,7 +187,7 @@ Dialogue: 0,0:00:56.79,0:00:56.99,Karaoke,,0,0,0,,{\c&H736FD1&}mienai ito shucho
 Dialogue: 0,0:00:56.99,0:00:57.23,Karaoke,,0,0,0,,{\c&H736FD1&}mienai ito shuchou ​{\c&HEDD095&}shinai
 Dialogue: 0,0:00:57.23,0:00:57.43,Karaoke,,0,0,0,,{\c&H736FD1&}mienai ito shuchou shi​{\c&HEDD095&}nai
 Dialogue: 0,0:00:57.43,0:00:57.63,Karaoke,,0,0,0,,{\c&H736FD1&}mienai ito shuchou shina​{\c&HEDD095&}i
-Dialogue: 0,0:00:57.63,0:00:58.23,Karaoke,,0,0,0,,{\c&H736FD1&}mienai ito shuchou shinai
+Dialogue: 0,0:00:57.63,0:00:58.23,Karaoke,,0,0,0,,{\c&H736FD1&\pos(960,15)}mienai ito shuchou shinai
 Dialogue: 0,0:00:58.23,0:01:01.06,English - 2,,0,0,0,,The sound of a parched heart and the shallow mutterings​
 Dialogue: 0,0:00:58.23,0:00:58.43,Karaoke,,0,0,0,,{\c&H93D5EB&}ka​{\c&HEDD095&}waita shinzou no oto awai uwagoto
 Dialogue: 0,0:00:58.43,0:00:58.56,Karaoke,,0,0,0,,{\c&H93D5EB&}kawa​{\c&HEDD095&}ita shinzou no oto awai uwagoto
@@ -204,7 +204,7 @@ Dialogue: 0,0:00:59.96,0:01:00.03,Karaoke,,0,0,0,,{\c&H93D5EB&}kawaita shinzou n
 Dialogue: 0,0:01:00.03,0:01:00.26,Karaoke,,0,0,0,,{\c&H93D5EB&}kawaita shinzou no oto awai u​{\c&HEDD095&}wagoto
 Dialogue: 0,0:01:00.26,0:01:00.43,Karaoke,,0,0,0,,{\c&H93D5EB&}kawaita shinzou no oto awai uwa​{\c&HEDD095&}goto
 Dialogue: 0,0:01:00.43,0:01:00.66,Karaoke,,0,0,0,,{\c&H93D5EB&}kawaita shinzou no oto awai uwago​{\c&HEDD095&}to
-Dialogue: 0,0:01:00.66,0:01:01.06,Karaoke,,0,0,0,,{\c&H93D5EB&}kawaita shinzou no oto awai uwagoto
+Dialogue: 0,0:01:00.66,0:01:01.06,Karaoke,,0,0,0,,{\c&H93D5EB&\pos(960,15)}kawaita shinzou no oto awai uwagoto
 Dialogue: 0,0:01:01.06,0:01:04.17,English - 2,,0,0,0,,are getting on my nerves precisely because they bother me​
 Dialogue: 0,0:01:01.06,0:01:01.20,Karaoke,,0,0,0,,{\c&H93D5EB&}sha​{\c&HEDD095&}ku ni sawaru nante ki ni shiteru kara ni kimatten jan
 Dialogue: 0,0:01:01.20,0:01:01.26,Karaoke,,0,0,0,,{\c&H93D5EB&}shaku ​{\c&HEDD095&}ni sawaru nante ki ni shiteru kara ni kimatten jan
@@ -225,7 +225,7 @@ Dialogue: 0,0:01:03.27,0:01:03.40,Karaoke,,0,0,0,,{\c&H93D5EB&}shaku ni sawaru n
 Dialogue: 0,0:01:03.40,0:01:03.47,Karaoke,,0,0,0,,{\c&H93D5EB&}shaku ni sawaru nante ki ni shiteru kara ni ki​{\c&HEDD095&}matten jan
 Dialogue: 0,0:01:03.47,0:01:03.67,Karaoke,,0,0,0,,{\c&H93D5EB&}shaku ni sawaru nante ki ni shiteru kara ni kimat​{\c&HEDD095&}ten jan
 Dialogue: 0,0:01:03.67,0:01:03.87,Karaoke,,0,0,0,,{\c&H93D5EB&}shaku ni sawaru nante ki ni shiteru kara ni kimatten ​{\c&HEDD095&}jan
-Dialogue: 0,0:01:03.87,0:01:04.17,Karaoke,,0,0,0,,{\c&H93D5EB&}shaku ni sawaru nante ki ni shiteru kara ni kimatten jan
+Dialogue: 0,0:01:03.87,0:01:04.17,Karaoke,,0,0,0,,{\c&H93D5EB&\pos(960,15)}shaku ni sawaru nante ki ni shiteru kara ni kimatten jan
 Dialogue: 0,0:01:04.17,0:01:07.44,English - 2,,0,0,0,,{\c&HEFBDE0&}Still, we need to have faith, be mannerly and polite to become happy​
 Dialogue: 0,0:01:04.17,0:01:04.27,Karaoke,,0,0,0,,{\c&HEFBDE0&}so​{\c&HEDD095&}redemo shinjite shiawase ni naru youni reigitadashiku
 Dialogue: 0,0:01:04.27,0:01:04.37,Karaoke,,0,0,0,,{\c&HEFBDE0&}sore​{\c&HEDD095&}demo shinjite shiawase ni naru youni reigitadashiku
@@ -248,7 +248,7 @@ Dialogue: 0,0:01:06.64,0:01:06.74,Karaoke,,0,0,0,,{\c&HEFBDE0&}soredemo shinjite
 Dialogue: 0,0:01:06.74,0:01:06.84,Karaoke,,0,0,0,,{\c&HEFBDE0&}soredemo shinjite shiawase ni naru youni reigita​{\c&HEDD095&}dashiku
 Dialogue: 0,0:01:06.84,0:01:06.94,Karaoke,,0,0,0,,{\c&HEFBDE0&}soredemo shinjite shiawase ni naru youni reigitada​{\c&HEDD095&}shiku
 Dialogue: 0,0:01:06.94,0:01:07.04,Karaoke,,0,0,0,,{\c&HEFBDE0&}soredemo shinjite shiawase ni naru youni reigitadashi​{\c&HEDD095&}ku
-Dialogue: 0,0:01:07.04,0:01:07.44,Karaoke,,0,0,0,,{\c&HEFBDE0&}soredemo shinjite shiawase ni naru youni reigitadashiku
+Dialogue: 0,0:01:07.04,0:01:07.44,Karaoke,,0,0,0,,{\c&HEFBDE0&\pos(960,15)}soredemo shinjite shiawase ni naru youni reigitadashiku
 Dialogue: 0,0:01:07.44,0:01:09.24,English - 2,,0,0,0,,{\c&HEFBDE0&}For starters, how about some small greetings?​
 Dialogue: 0,0:01:07.44,0:01:07.54,Karaoke,,0,0,0,,{\c&HEFBDE0&}ma​{\c&HEDD095&}zu wa sasaina aisatsu toko kara
 Dialogue: 0,0:01:07.54,0:01:07.60,Karaoke,,0,0,0,,{\c&HEFBDE0&}mazu ​{\c&HEDD095&}wa sasaina aisatsu toko kara
@@ -264,12 +264,12 @@ Dialogue: 0,0:01:08.57,0:01:08.64,Karaoke,,0,0,0,,{\c&HEFBDE0&}mazu wa sasaina a
 Dialogue: 0,0:01:08.64,0:01:08.74,Karaoke,,0,0,0,,{\c&HEFBDE0&}mazu wa sasaina aisatsu to​{\c&HEDD095&}ko kara
 Dialogue: 0,0:01:08.74,0:01:08.84,Karaoke,,0,0,0,,{\c&HEFBDE0&}mazu wa sasaina aisatsu toko ​{\c&HEDD095&}kara
 Dialogue: 0,0:01:08.84,0:01:08.97,Karaoke,,0,0,0,,{\c&HEFBDE0&}mazu wa sasaina aisatsu toko ka​{\c&HEDD095&}ra
-Dialogue: 0,0:01:08.97,0:01:09.24,Karaoke,,0,0,0,,{\c&HEFBDE0&}mazu wa sasaina aisatsu toko kara
+Dialogue: 0,0:01:08.97,0:01:09.24,Karaoke,,0,0,0,,{\c&HEFBDE0&\pos(960,15)}mazu wa sasaina aisatsu toko kara
 Dialogue: 0,0:01:09.24,0:01:10.24,English - 2,,0,0,0,,{\c&HEB93BB&}Are you ready?
 Dialogue: 0,0:01:09.24,0:01:09.44,Karaoke,,0,0,0,,{\c&HEB93BB&}Are ​{\c&HEDD095&}you ready?
 Dialogue: 0,0:01:09.44,0:01:09.54,Karaoke,,0,0,0,,{\c&HEB93BB&}Are you ​{\c&HEDD095&}ready?
 Dialogue: 0,0:01:09.54,0:01:09.84,Karaoke,,0,0,0,,{\c&HEB93BB&}Are you rea​{\c&HEDD095&}dy?
-Dialogue: 0,0:01:09.84,0:01:10.24,Karaoke,,0,0,0,,{\c&HEB93BB&}Are you ready?
+Dialogue: 0,0:01:09.84,0:01:10.24,Karaoke,,0,0,0,,{\c&HEB93BB&\pos(960,15)}Are you ready?
 Dialogue: 0,0:01:10.24,0:01:13.44,English - 2,,0,0,0,,{\c&HC269CD&}I love you always. Take me in your arms and kiss me​​
 Dialogue: 0,0:01:10.24,0:01:10.44,Karaoke,,0,0,0,,{\c&HC269CD&}i​{\c&HEDD095&}tsudemo I love you. kimi ni Take kiss me.
 Dialogue: 0,0:01:10.44,0:01:10.64,Karaoke,,0,0,0,,{\c&HC269CD&}itsu​{\c&HEDD095&}demo I love you. kimi ni Take kiss me.
@@ -286,7 +286,7 @@ Dialogue: 0,0:01:12.44,0:01:12.64,Karaoke,,0,0,0,,{\c&HC269CD&}itsudemo I love y
 Dialogue: 0,0:01:12.64,0:01:12.84,Karaoke,,0,0,0,,{\c&HC269CD&}itsudemo I love you. kimi ni Take ​{\c&HEDD095&}kiss me.
 Dialogue: 0,0:01:12.84,0:01:13.04,Karaoke,,0,0,0,,{\c&HC269CD&}itsudemo I love you. kimi ni Take ki​{\c&HEDD095&}ss me.
 Dialogue: 0,0:01:13.04,0:01:13.14,Karaoke,,0,0,0,,{\c&HC269CD&}itsudemo I love you. kimi ni Take kiss ​{\c&HEDD095&}me.
-Dialogue: 0,0:01:13.14,0:01:13.44,Karaoke,,0,0,0,,{\c&HC269CD&}itsudemo I love you. kimi ni Take kiss me.
+Dialogue: 0,0:01:13.14,0:01:13.44,Karaoke,,0,0,0,,{\c&HC269CD&\pos(960,15)}itsudemo I love you. kimi ni Take kiss me.
 Dialogue: 0,0:01:13.44,0:01:17.21,English - 2,,0,0,0,,{\c&HC269CD&}I cannot forget this precious memory of mine​
 Dialogue: 0,0:01:13.44,0:01:13.64,Karaoke,,0,0,0,,{\c&HC269CD&}wa​{\c&HEDD095&}surerarenai kara boku no daijina memorii
 Dialogue: 0,0:01:13.64,0:01:13.84,Karaoke,,0,0,0,,{\c&HC269CD&}wasu​{\c&HEDD095&}rerarenai kara boku no daijina memorii
@@ -305,7 +305,7 @@ Dialogue: 0,0:01:15.95,0:01:16.05,Karaoke,,0,0,0,,{\c&HC269CD&}wasurerarenai kar
 Dialogue: 0,0:01:16.05,0:01:16.25,Karaoke,,0,0,0,,{\c&HC269CD&}wasurerarenai kara boku no daijina ​{\c&HEDD095&}memorii
 Dialogue: 0,0:01:16.25,0:01:16.65,Karaoke,,0,0,0,,{\c&HC269CD&}wasurerarenai kara boku no daijina me​{\c&HEDD095&}morii
 Dialogue: 0,0:01:16.65,0:01:16.85,Karaoke,,0,0,0,,{\c&HC269CD&}wasurerarenai kara boku no daijina memo​{\c&HEDD095&}rii
-Dialogue: 0,0:01:16.85,0:01:17.21,Karaoke,,0,0,0,,{\c&HC269CD&}wasurerarenai kara boku no daijina memorii
+Dialogue: 0,0:01:16.85,0:01:17.21,Karaoke,,0,0,0,,{\c&HC269CD&\pos(960,15)}wasurerarenai kara boku no daijina memorii
 Dialogue: 0,0:01:17.21,0:01:19.85,English - 2,,0,0,0,,{\c&H75ADEC&}If dorayaki cannot become my main diet,​
 Dialogue: 0,0:01:17.21,0:01:17.45,Karaoke,,0,0,0,,{\c&H75ADEC&}do​{\c&HEDD095&}rayaki wa shushoku ni narenai
 Dialogue: 0,0:01:17.45,0:01:17.61,Karaoke,,0,0,0,,{\c&H75ADEC&}dora​{\c&HEDD095&}yaki wa shushoku ni narenai
@@ -319,7 +319,7 @@ Dialogue: 0,0:01:18.85,0:01:19.05,Karaoke,,0,0,0,,{\c&H75ADEC&}dorayaki wa shush
 Dialogue: 0,0:01:19.05,0:01:19.25,Karaoke,,0,0,0,,{\c&H75ADEC&}dorayaki wa shushoku ni na​{\c&HEDD095&}renai
 Dialogue: 0,0:01:19.25,0:01:19.45,Karaoke,,0,0,0,,{\c&H75ADEC&}dorayaki wa shushoku ni nare​{\c&HEDD095&}nai
 Dialogue: 0,0:01:19.45,0:01:19.55,Karaoke,,0,0,0,,{\c&H75ADEC&}dorayaki wa shushoku ni narena​{\c&HEDD095&}i
-Dialogue: 0,0:01:19.55,0:01:19.85,Karaoke,,0,0,0,,{\c&H75ADEC&}dorayaki wa shushoku ni narenai
+Dialogue: 0,0:01:19.55,0:01:19.85,Karaoke,,0,0,0,,{\c&H75ADEC&\pos(960,15)}dorayaki wa shushoku ni narenai
 Dialogue: 0,0:01:19.85,0:01:24.22,English - 2,,0,0,0,,I'll just hav{\c&H75ADEC&}e to overwrite it my way​
 Dialogue: 0,0:01:19.85,0:01:20.05,Karaoke,,0,0,0,,{\c&H75ADEC&}na​{\c&HEDD095&}raba uwagaki shichaeba boku no omoidoori
 Dialogue: 0,0:01:20.05,0:01:20.25,Karaoke,,0,0,0,,{\c&H75ADEC&}nara​{\c&HEDD095&}ba uwagaki shichaeba boku no omoidoori
@@ -340,7 +340,7 @@ Dialogue: 0,0:01:23.02,0:01:23.15,Karaoke,,0,0,0,,{\c&H75ADEC&}naraba uwagaki sh
 Dialogue: 0,0:01:23.15,0:01:23.22,Karaoke,,0,0,0,,{\c&H75ADEC&}naraba uwagaki shichaeba boku no omoi​{\c&HEDD095&}doori
 Dialogue: 0,0:01:23.22,0:01:23.45,Karaoke,,0,0,0,,{\c&H75ADEC&}naraba uwagaki shichaeba boku no omoido​{\c&HEDD095&}ori
 Dialogue: 0,0:01:23.45,0:01:23.65,Karaoke,,0,0,0,,{\c&H75ADEC&}naraba uwagaki shichaeba boku no omoidoo​{\c&HEDD095&}ri
-Dialogue: 0,0:01:23.65,0:01:24.22,Karaoke,,0,0,0,,{\c&H75ADEC&}naraba uwagaki shichaeba boku no omoidoori
+Dialogue: 0,0:01:23.65,0:01:24.22,Karaoke,,0,0,0,,{\c&H75ADEC&\pos(960,15)}naraba uwagaki shichaeba boku no omoidoori
 Dialogue: 0,0:01:24.22,0:01:27.86,English - 2,,0,0,0,,{\c&HE2AEE9&}I don't want to wake up from this dream​
 Dialogue: 0,0:01:24.22,0:01:24.32,Karaoke,,0,0,0,,{\c&HE2AEE9&}yu​{\c&HEDD095&}me kara pipipi samenai de samenai de
 Dialogue: 0,0:01:24.32,0:01:24.42,Karaoke,,0,0,0,,{\c&HE2AEE9&}yume ​{\c&HEDD095&}kara pipipi samenai de samenai de
@@ -356,7 +356,7 @@ Dialogue: 0,0:01:25.82,0:01:26.02,Karaoke,,0,0,0,,{\c&HE2AEE9&}yume kara pipipi 
 Dialogue: 0,0:01:26.02,0:01:26.22,Karaoke,,0,0,0,,{\c&HE2AEE9&}yume kara pipipi samenai de sa​{\c&HEDD095&}menai de
 Dialogue: 0,0:01:26.22,0:01:26.42,Karaoke,,0,0,0,,{\c&HE2AEE9&}yume kara pipipi samenai de same​{\c&HEDD095&}nai de
 Dialogue: 0,0:01:26.42,0:01:26.66,Karaoke,,0,0,0,,{\c&HE2AEE9&}yume kara pipipi samenai de samenai ​{\c&HEDD095&}de
-Dialogue: 0,0:01:26.66,0:01:27.86,Karaoke,,0,0,0,,{\c&HE2AEE9&}yume kara pipipi samenai de samenai de
+Dialogue: 0,0:01:26.66,0:01:27.86,Karaoke,,0,0,0,,{\c&HE2AEE9&\pos(960,15)}yume kara pipipi samenai de samenai de
 Dialogue: 0,0:01:27.86,0:01:29.83,English - 2,,0,0,0,,{\c&HE2AEE9&}This warmth, please don't go away​
 Dialogue: 0,0:01:27.86,0:01:28.06,Karaoke,,0,0,0,,{\c&HE2AEE9&}nu​{\c&HEDD095&}kumori nigenaide
 Dialogue: 0,0:01:28.06,0:01:28.26,Karaoke,,0,0,0,,{\c&HE2AEE9&}nuku​{\c&HEDD095&}mori nigenaide
@@ -366,7 +366,7 @@ Dialogue: 0,0:01:28.66,0:01:28.86,Karaoke,,0,0,0,,{\c&HE2AEE9&}nukumori ni​{\c
 Dialogue: 0,0:01:28.86,0:01:29.06,Karaoke,,0,0,0,,{\c&HE2AEE9&}nukumori nige​{\c&HEDD095&}naide
 Dialogue: 0,0:01:29.06,0:01:29.33,Karaoke,,0,0,0,,{\c&HE2AEE9&}nukumori nigena​{\c&HEDD095&}ide
 Dialogue: 0,0:01:29.33,0:01:29.46,Karaoke,,0,0,0,,{\c&HE2AEE9&}nukumori nigenai​{\c&HEDD095&}de
-Dialogue: 0,0:01:29.46,0:01:29.83,Karaoke,,0,0,0,,{\c&HE2AEE9&}nukumori nigenaide
+Dialogue: 0,0:01:29.46,0:01:29.83,Karaoke,,0,0,0,,{\c&HE2AEE9&\pos(960,15)}nukumori nigenaide
 Dialogue: 0,0:01:29.83,0:01:32.63,English - 2,,0,0,0,,{\c&H93D5EB&}The morning is still young, so please​
 Dialogue: 0,0:01:29.83,0:01:29.93,Karaoke,,0,0,0,,{\c&H93D5EB&}ma​{\c&HEDD095&}da asa wa tappuri aru kara
 Dialogue: 0,0:01:29.93,0:01:30.06,Karaoke,,0,0,0,,{\c&H93D5EB&}mada ​{\c&HEDD095&}asa wa tappuri aru kara
@@ -379,7 +379,7 @@ Dialogue: 0,0:01:31.43,0:01:31.63,Karaoke,,0,0,0,,{\c&H93D5EB&}mada asa wa tappu
 Dialogue: 0,0:01:31.63,0:01:31.83,Karaoke,,0,0,0,,{\c&H93D5EB&}mada asa wa tappuri a​{\c&HEDD095&}ru kara
 Dialogue: 0,0:01:31.83,0:01:32.03,Karaoke,,0,0,0,,{\c&H93D5EB&}mada asa wa tappuri aru ​{\c&HEDD095&}kara
 Dialogue: 0,0:01:32.03,0:01:32.23,Karaoke,,0,0,0,,{\c&H93D5EB&}mada asa wa tappuri aru ka​{\c&HEDD095&}ra
-Dialogue: 0,0:01:32.23,0:01:32.63,Karaoke,,0,0,0,,{\c&H93D5EB&}mada asa wa tappuri aru kara
+Dialogue: 0,0:01:32.23,0:01:32.63,Karaoke,,0,0,0,,{\c&H93D5EB&\pos(960,15)}mada asa wa tappuri aru kara
 Dialogue: 0,0:01:32.63,0:01:36.46,English - 2,,0,0,0,,give me five... no, ten more minutes​
 Dialogue: 0,0:01:32.63,0:01:32.83,Karaoke,,0,0,0,,{\c&H93D5EB&}a​{\c&HEDD095&}to gofun iya juppun matasete
 Dialogue: 0,0:01:32.83,0:01:33.03,Karaoke,,0,0,0,,{\c&H93D5EB&}ato ​{\c&HEDD095&}gofun iya juppun matasete
@@ -393,7 +393,7 @@ Dialogue: 0,0:01:35.03,0:01:35.26,Karaoke,,0,0,0,,{\c&H93D5EB&}ato gofun iya jup
 Dialogue: 0,0:01:35.26,0:01:35.43,Karaoke,,0,0,0,,{\c&H93D5EB&}ato gofun iya juppun ma​{\c&HEDD095&}tasete
 Dialogue: 0,0:01:35.43,0:01:35.83,Karaoke,,0,0,0,,{\c&H93D5EB&}ato gofun iya juppun mata​{\c&HEDD095&}sete
 Dialogue: 0,0:01:35.83,0:01:36.03,Karaoke,,0,0,0,,{\c&H93D5EB&}ato gofun iya juppun matase​{\c&HEDD095&}te
-Dialogue: 0,0:01:36.03,0:01:36.46,Karaoke,,0,0,0,,{\c&H93D5EB&}ato gofun iya juppun matasete
+Dialogue: 0,0:01:36.03,0:01:36.46,Karaoke,,0,0,0,,{\c&H93D5EB&\pos(960,15)}ato gofun iya juppun matasete
 Dialogue: 0,0:01:39.67,0:01:42.84,English - 2,,0,0,0,,{\c&HF9954E&}If this goes on for a hundred years,​
 Dialogue: 0,0:01:39.67,0:01:40.24,Karaoke,,0,0,0,,{\c&HF9954E&}hya​{\c&HEDD095&}kunengo tsuzuku nara
 Dialogue: 0,0:01:40.24,0:01:40.44,Karaoke,,0,0,0,,{\c&HF9954E&}hyaku​{\c&HEDD095&}nengo tsuzuku nara
@@ -404,7 +404,7 @@ Dialogue: 0,0:01:41.27,0:01:41.44,Karaoke,,0,0,0,,{\c&HF9954E&}hyakunengo tsu​
 Dialogue: 0,0:01:41.44,0:01:41.64,Karaoke,,0,0,0,,{\c&HF9954E&}hyakunengo tsuzu​{\c&HEDD095&}ku nara
 Dialogue: 0,0:01:41.64,0:01:41.84,Karaoke,,0,0,0,,{\c&HF9954E&}hyakunengo tsuzuku ​{\c&HEDD095&}nara
 Dialogue: 0,0:01:41.84,0:01:42.04,Karaoke,,0,0,0,,{\c&HF9954E&}hyakunengo tsuzuku na​{\c&HEDD095&}ra
-Dialogue: 0,0:01:42.04,0:01:42.84,Karaoke,,0,0,0,,{\c&HF9954E&}hyakunengo tsuzuku nara
+Dialogue: 0,0:01:42.04,0:01:42.84,Karaoke,,0,0,0,,{\c&HF9954E&\pos(960,15)}hyakunengo tsuzuku nara
 Dialogue: 0,0:01:42.84,0:01:46.04,English - 2,,0,0,0,,{\c&HF9954E&}then let's compress our promise​
 Dialogue: 0,0:01:42.84,0:01:43.44,Karaoke,,0,0,0,,{\c&HF9954E&}ya​{\c&HEDD095&}kusoku asshuku shite
 Dialogue: 0,0:01:43.44,0:01:43.64,Karaoke,,0,0,0,,{\c&HF9954E&}yaku​{\c&HEDD095&}soku asshuku shite
@@ -414,7 +414,7 @@ Dialogue: 0,0:01:44.44,0:01:44.64,Karaoke,,0,0,0,,{\c&HF9954E&}yakusoku as​{\c
 Dialogue: 0,0:01:44.64,0:01:44.84,Karaoke,,0,0,0,,{\c&HF9954E&}yakusoku asshu​{\c&HEDD095&}ku shite
 Dialogue: 0,0:01:44.84,0:01:45.04,Karaoke,,0,0,0,,{\c&HF9954E&}yakusoku asshuku ​{\c&HEDD095&}shite
 Dialogue: 0,0:01:45.04,0:01:45.24,Karaoke,,0,0,0,,{\c&HF9954E&}yakusoku asshuku shi​{\c&HEDD095&}te
-Dialogue: 0,0:01:45.24,0:01:46.04,Karaoke,,0,0,0,,{\c&HF9954E&}yakusoku asshuku shite
+Dialogue: 0,0:01:45.24,0:01:46.04,Karaoke,,0,0,0,,{\c&HF9954E&\pos(960,15)}yakusoku asshuku shite
 Dialogue: 0,0:01:46.04,0:01:49.25,English - 2,,0,0,0,,{\c&HB888F8&}To the text I sent to the wrong person​
 Dialogue: 0,0:01:46.04,0:01:46.64,Karaoke,,0,0,0,,{\c&HB888F8&}ma​{\c&HEDD095&}chigatta meeru kara
 Dialogue: 0,0:01:46.64,0:01:46.84,Karaoke,,0,0,0,,{\c&HB888F8&}machi​{\c&HEDD095&}gatta meeru kara
@@ -424,7 +424,7 @@ Dialogue: 0,0:01:47.64,0:01:47.88,Karaoke,,0,0,0,,{\c&HB888F8&}machigatta me​{
 Dialogue: 0,0:01:47.88,0:01:48.04,Karaoke,,0,0,0,,{\c&HB888F8&}machigatta mee​{\c&HEDD095&}ru kara
 Dialogue: 0,0:01:48.04,0:01:48.24,Karaoke,,0,0,0,,{\c&HB888F8&}machigatta meeru ​{\c&HEDD095&}kara
 Dialogue: 0,0:01:48.24,0:01:48.44,Karaoke,,0,0,0,,{\c&HB888F8&}machigatta meeru ka​{\c&HEDD095&}ra
-Dialogue: 0,0:01:48.44,0:01:49.25,Karaoke,,0,0,0,,{\c&HB888F8&}machigatta meeru kara
+Dialogue: 0,0:01:48.44,0:01:49.25,Karaoke,,0,0,0,,{\c&HB888F8&\pos(960,15)}machigatta meeru kara
 Dialogue: 0,0:01:49.25,0:01:52.42,English - 2,,0,0,0,,{\c&HB888F8&}comes a quick and mistaken reply​
 Dialogue: 0,0:01:49.25,0:01:49.68,Karaoke,,0,0,0,,{\c&HB888F8&}ka​{\c&HEDD095&}nchigai no tekipakiteki
 Dialogue: 0,0:01:49.68,0:01:49.88,Karaoke,,0,0,0,,{\c&HB888F8&}kan​{\c&HEDD095&}chigai no tekipakiteki
@@ -437,7 +437,7 @@ Dialogue: 0,0:01:51.28,0:01:51.48,Karaoke,,0,0,0,,{\c&HB888F8&}kanchigai no teki
 Dialogue: 0,0:01:51.48,0:01:51.68,Karaoke,,0,0,0,,{\c&HB888F8&}kanchigai no tekipa​{\c&HEDD095&}kiteki
 Dialogue: 0,0:01:51.68,0:01:51.88,Karaoke,,0,0,0,,{\c&HB888F8&}kanchigai no tekipaki​{\c&HEDD095&}teki
 Dialogue: 0,0:01:51.88,0:01:52.08,Karaoke,,0,0,0,,{\c&HB888F8&}kanchigai no tekipakite​{\c&HEDD095&}ki
-Dialogue: 0,0:01:52.08,0:01:52.42,Karaoke,,0,0,0,,{\c&HB888F8&}kanchigai no tekipakiteki
+Dialogue: 0,0:01:52.08,0:01:52.42,Karaoke,,0,0,0,,{\c&HB888F8&\pos(960,15)}kanchigai no tekipakiteki
 Dialogue: 0,0:01:52.42,0:01:55.62,English - 2,,0,0,0,,{\c&HD494CC&}Aren't the ways we drink​
 Dialogue: 0,0:01:52.42,0:01:53.05,Karaoke,,0,0,0,,{\c&HD494CC&}su​{\c&HEDD095&}toroo no kuwaekata
 Dialogue: 0,0:01:53.05,0:01:53.22,Karaoke,,0,0,0,,{\c&HD494CC&}suto​{\c&HEDD095&}roo no kuwaekata
@@ -448,7 +448,7 @@ Dialogue: 0,0:01:54.02,0:01:54.22,Karaoke,,0,0,0,,{\c&HD494CC&}sutoroo no ku​{
 Dialogue: 0,0:01:54.22,0:01:54.42,Karaoke,,0,0,0,,{\c&HD494CC&}sutoroo no kuwa​{\c&HEDD095&}ekata
 Dialogue: 0,0:01:54.42,0:01:54.62,Karaoke,,0,0,0,,{\c&HD494CC&}sutoroo no kuwae​{\c&HEDD095&}kata
 Dialogue: 0,0:01:54.62,0:01:54.82,Karaoke,,0,0,0,,{\c&HD494CC&}sutoroo no kuwaeka​{\c&HEDD095&}ta
-Dialogue: 0,0:01:54.82,0:01:55.62,Karaoke,,0,0,0,,{\c&HD494CC&}sutoroo no kuwaekata
+Dialogue: 0,0:01:54.82,0:01:55.62,Karaoke,,0,0,0,,{\c&HD494CC&\pos(960,15)}sutoroo no kuwaekata
 Dialogue: 0,0:01:55.62,0:01:58.85,English - 2,,0,0,0,,{\c&HD494CC&}from our straws slightly different?​
 Dialogue: 0,0:01:55.62,0:01:56.25,Karaoke,,0,0,0,,{\c&HD494CC&}su​{\c&HEDD095&}koshi wa chigau desho?
 Dialogue: 0,0:01:56.25,0:01:56.42,Karaoke,,0,0,0,,{\c&HD494CC&}suko​{\c&HEDD095&}shi wa chigau desho?
@@ -458,7 +458,7 @@ Dialogue: 0,0:01:57.22,0:01:57.45,Karaoke,,0,0,0,,{\c&HD494CC&}sukoshi wa chi​
 Dialogue: 0,0:01:57.45,0:01:57.65,Karaoke,,0,0,0,,{\c&HD494CC&}sukoshi wa chiga​{\c&HEDD095&}u desho?
 Dialogue: 0,0:01:57.65,0:01:57.85,Karaoke,,0,0,0,,{\c&HD494CC&}sukoshi wa chigau ​{\c&HEDD095&}desho?
 Dialogue: 0,0:01:57.85,0:01:58.05,Karaoke,,0,0,0,,{\c&HD494CC&}sukoshi wa chigau de​{\c&HEDD095&}sho?
-Dialogue: 0,0:01:58.05,0:01:58.85,Karaoke,,0,0,0,,{\c&HD494CC&}sukoshi wa chigau desho?
+Dialogue: 0,0:01:58.05,0:01:58.85,Karaoke,,0,0,0,,{\c&HD494CC&\pos(960,15)}sukoshi wa chigau desho?
 Dialogue: 0,0:01:58.85,0:02:02.02,English - 2,,0,0,0,,{\c&HD8B8E0&}If everyone pretends not to notice,​
 Dialogue: 0,0:01:58.85,0:01:59.42,Karaoke,,0,0,0,,{\c&HD8B8E0&}mi​{\c&HEDD095&}te minufuri sareta
 Dialogue: 0,0:01:59.42,0:01:59.62,Karaoke,,0,0,0,,{\c&HD8B8E0&}mite ​{\c&HEDD095&}minufuri sareta
@@ -468,7 +468,7 @@ Dialogue: 0,0:02:00.42,0:02:00.66,Karaoke,,0,0,0,,{\c&HD8B8E0&}mite minufu​{\c
 Dialogue: 0,0:02:00.66,0:02:00.86,Karaoke,,0,0,0,,{\c&HD8B8E0&}mite minufuri ​{\c&HEDD095&}sareta
 Dialogue: 0,0:02:00.86,0:02:01.06,Karaoke,,0,0,0,,{\c&HD8B8E0&}mite minufuri sa​{\c&HEDD095&}reta
 Dialogue: 0,0:02:01.06,0:02:01.22,Karaoke,,0,0,0,,{\c&HD8B8E0&}mite minufuri sare​{\c&HEDD095&}ta
-Dialogue: 0,0:02:01.22,0:02:02.02,Karaoke,,0,0,0,,{\c&HD8B8E0&}mite minufuri sareta
+Dialogue: 0,0:02:01.22,0:02:02.02,Karaoke,,0,0,0,,{\c&HD8B8E0&\pos(960,15)}mite minufuri sareta
 Dialogue: 0,0:02:02.02,0:02:05.46,English - 2,,0,0,0,,{\c&HD8B8E0&}then the world will explode!!​
 Dialogue: 0,0:02:02.02,0:02:02.63,Karaoke,,0,0,0,,{\c&HD8B8E0&}se​{\c&HEDD095&}kai ga bakuhatsu shichau!!
 Dialogue: 0,0:02:02.63,0:02:02.83,Karaoke,,0,0,0,,{\c&HD8B8E0&}seka​{\c&HEDD095&}i ga bakuhatsu shichau!!
@@ -480,7 +480,7 @@ Dialogue: 0,0:02:04.03,0:02:04.23,Karaoke,,0,0,0,,{\c&HD8B8E0&}sekai ga bakuha�
 Dialogue: 0,0:02:04.23,0:02:04.46,Karaoke,,0,0,0,,{\c&HD8B8E0&}sekai ga bakuhatsu ​{\c&HEDD095&}shichau!!
 Dialogue: 0,0:02:04.46,0:02:04.63,Karaoke,,0,0,0,,{\c&HD8B8E0&}sekai ga bakuhatsu shi​{\c&HEDD095&}chau!!
 Dialogue: 0,0:02:04.63,0:02:04.83,Karaoke,,0,0,0,,{\c&HD8B8E0&}sekai ga bakuhatsu shicha​{\c&HEDD095&}u!!
-Dialogue: 0,0:02:04.83,0:02:05.46,Karaoke,,0,0,0,,{\c&HD8B8E0&}sekai ga bakuhatsu shichau!!
+Dialogue: 0,0:02:04.83,0:02:05.46,Karaoke,,0,0,0,,{\c&HD8B8E0&\pos(960,15)}sekai ga bakuhatsu shichau!!
 Dialogue: 0,0:02:05.46,0:02:09.43,English - 2,,0,0,0,,{\c&HB0C070&}I get carried away, but then immediately get shot down​
 Dialogue: 0,0:02:05.46,0:02:05.66,Karaoke,,0,0,0,,{\c&HB0C070&}chou​{\c&HEDD095&}shi ni noridasu demo sugu ni hekomidasu
 Dialogue: 0,0:02:05.66,0:02:05.86,Karaoke,,0,0,0,,{\c&HB0C070&}choushi ​{\c&HEDD095&}ni noridasu demo sugu ni hekomidasu
@@ -498,7 +498,7 @@ Dialogue: 0,0:02:08.03,0:02:08.26,Karaoke,,0,0,0,,{\c&HB0C070&}choushi ni norida
 Dialogue: 0,0:02:08.26,0:02:08.43,Karaoke,,0,0,0,,{\c&HB0C070&}choushi ni noridasu demo sugu ni heko​{\c&HEDD095&}midasu
 Dialogue: 0,0:02:08.43,0:02:08.63,Karaoke,,0,0,0,,{\c&HB0C070&}choushi ni noridasu demo sugu ni hekomi​{\c&HEDD095&}dasu
 Dialogue: 0,0:02:08.63,0:02:08.76,Karaoke,,0,0,0,,{\c&HB0C070&}choushi ni noridasu demo sugu ni hekomida​{\c&HEDD095&}su
-Dialogue: 0,0:02:08.76,0:02:09.43,Karaoke,,0,0,0,,{\c&HB0C070&}choushi ni noridasu demo sugu ni hekomidasu
+Dialogue: 0,0:02:08.76,0:02:09.43,Karaoke,,0,0,0,,{\c&HB0C070&\pos(960,15)}choushi ni noridasu demo sugu ni hekomidasu
 Dialogue: 0,0:02:09.43,0:02:12.44,English - 2,,0,0,0,,{\c&HB0C070&}Who will put a stop to my magnificent rampage for me, {\c&HE0B2E8&}baby?​
 Dialogue: 0,0:02:09.43,0:02:09.63,Karaoke,,0,0,0,,{\c&HB0C070&}ka​{\c&HEDD095&}reina bousou dare ga tomete kuremasu ka beibee
 Dialogue: 0,0:02:09.63,0:02:09.83,Karaoke,,0,0,0,,{\c&HB0C070&}karei​{\c&HEDD095&}na bousou dare ga tomete kuremasu ka beibee
@@ -517,7 +517,7 @@ Dialogue: 0,0:02:11.27,0:02:11.37,Karaoke,,0,0,0,,{\c&HB0C070&}kareina bousou da
 Dialogue: 0,0:02:11.37,0:02:11.47,Karaoke,,0,0,0,,{\c&HB0C070&}kareina bousou dare ga tomete kuremasu ​{\c&HEDD095&}ka beibee
 Dialogue: 0,0:02:11.47,0:02:11.63,Karaoke,,0,0,0,,{\c&HB0C070&}kareina bousou dare ga tomete kuremasu ka ​{\c&HEDD095&}beibee
 Dialogue: 0,0:02:11.63,0:02:11.87,Karaoke,,0,0,0,,{\c&HB0C070&}kareina bousou dare ga tomete kuremasu ka ​{\c&HE0B2E8&}bei{\c&HEDD095&}bee
-Dialogue: 0,0:02:11.87,0:02:12.44,Karaoke,,0,0,0,,{\c&HB0C070&}kareina bousou dare ga tomete kuremasu ka ​{\c&HE0B2E8&}beibee
+Dialogue: 0,0:02:11.87,0:02:12.44,Karaoke,,0,0,0,,{\c&HB0C070&\pos(960,10)}kareina bousou dare ga tomete kuremasu ka ​{\c&HE0B2E8&}beibee
 Dialogue: 0,0:02:12.44,0:02:14.64,English - 2,,0,0,0,,{\c&H7C5FC9&}When I bump into something, I discover some new knowledge as well​
 Dialogue: 0,0:02:12.44,0:02:12.54,Karaoke,,0,0,0,,{\c&H7C5FC9&}bu​{\c&HEDD095&}tsukareba mata atarashii chishiki hakkutsu
 Dialogue: 0,0:02:12.54,0:02:12.64,Karaoke,,0,0,0,,{\c&H7C5FC9&}butsu​{\c&HEDD095&}kareba mata atarashii chishiki hakkutsu
@@ -536,7 +536,7 @@ Dialogue: 0,0:02:13.94,0:02:14.04,Karaoke,,0,0,0,,{\c&H7C5FC9&}butsukareba mata 
 Dialogue: 0,0:02:14.04,0:02:14.14,Karaoke,,0,0,0,,{\c&H7C5FC9&}butsukareba mata atarashii chishiki ​{\c&HEDD095&}hakkutsu
 Dialogue: 0,0:02:14.14,0:02:14.24,Karaoke,,0,0,0,,{\c&H7C5FC9&}butsukareba mata atarashii chishiki hak​{\c&HEDD095&}kutsu
 Dialogue: 0,0:02:14.24,0:02:14.44,Karaoke,,0,0,0,,{\c&H7C5FC9&}butsukareba mata atarashii chishiki hakku​{\c&HEDD095&}tsu
-Dialogue: 0,0:02:14.44,0:02:14.64,Karaoke,,0,0,0,,{\c&H7C5FC9&}butsukareba mata atarashii chishiki hakkutsu
+Dialogue: 0,0:02:14.44,0:02:14.64,Karaoke,,0,0,0,,{\c&H7C5FC9&\pos(960,15)}butsukareba mata atarashii chishiki hakkutsu
 Dialogue: 0,0:02:14.64,0:02:16.44,English - 2,,0,0,0,,{\c&H7C5FC9&}However, I'll only go as far as my stamina can hold out​
 Dialogue: 0,0:02:14.64,0:02:14.74,Karaoke,,0,0,0,,{\c&H7C5FC9&}de​{\c&HEDD095&}mo chikaratsukite shimaeba soko made
 Dialogue: 0,0:02:14.74,0:02:14.84,Karaoke,,0,0,0,,{\c&H7C5FC9&}demo ​{\c&HEDD095&}chikaratsukite shimaeba soko made
@@ -553,11 +553,11 @@ Dialogue: 0,0:02:15.74,0:02:15.84,Karaoke,,0,0,0,,{\c&H7C5FC9&}demo chikaratsuki
 Dialogue: 0,0:02:15.84,0:02:15.91,Karaoke,,0,0,0,,{\c&H7C5FC9&}demo chikaratsukite shimaeba so​{\c&HEDD095&}ko made
 Dialogue: 0,0:02:15.91,0:02:16.01,Karaoke,,0,0,0,,{\c&H7C5FC9&}demo chikaratsukite shimaeba soko ​{\c&HEDD095&}made
 Dialogue: 0,0:02:16.01,0:02:16.14,Karaoke,,0,0,0,,{\c&H7C5FC9&}demo chikaratsukite shimaeba soko ma​{\c&HEDD095&}de
-Dialogue: 0,0:02:16.14,0:02:16.44,Karaoke,,0,0,0,,{\c&H7C5FC9&}demo chikaratsukite shimaeba soko made
+Dialogue: 0,0:02:16.14,0:02:16.44,Karaoke,,0,0,0,,{\c&H7C5FC9&\pos(960,15)}demo chikaratsukite shimaeba soko made
 Dialogue: 0,0:02:16.44,0:02:17.44,English - 2,,0,0,0,,{\c&H625FDA&}Oh my god!
 Dialogue: 0,0:02:16.44,0:02:16.74,Karaoke,,0,0,0,,{\c&H625FDA&}Oh ​{\c&HEDD095&}my god!
 Dialogue: 0,0:02:16.74,0:02:17.04,Karaoke,,0,0,0,,{\c&H625FDA&}Oh my ​{\c&HEDD095&}god!
-Dialogue: 0,0:02:17.04,0:02:17.44,Karaoke,,0,0,0,,{\c&H625FDA&}Oh my god!
+Dialogue: 0,0:02:17.04,0:02:17.44,Karaoke,,0,0,0,,{\c&H625FDA&\pos(960,15)}Oh my god!
 Dialogue: 0,0:02:17.44,0:02:20.64,English - 2,,0,0,0,,{\c&HD39786&}I love you always. Take me in your arms and kiss me​​{\c&HD39786&}
 Dialogue: 0,0:02:17.44,0:02:17.64,Karaoke,,0,0,0,,{\c&HD39786&}i​{\c&HEDD095&}tsudemo I love you. kimi ni Take kiss me.
 Dialogue: 0,0:02:17.64,0:02:17.84,Karaoke,,0,0,0,,{\c&HD39786&}itsu​{\c&HEDD095&}demo I love you. kimi ni Take kiss me.
@@ -574,7 +574,7 @@ Dialogue: 0,0:02:19.64,0:02:19.84,Karaoke,,0,0,0,,{\c&HD39786&}itsudemo I love y
 Dialogue: 0,0:02:19.84,0:02:20.04,Karaoke,,0,0,0,,{\c&HD39786&}itsudemo I love you. kimi ni Take ​{\c&HEDD095&}kiss me.
 Dialogue: 0,0:02:20.04,0:02:20.24,Karaoke,,0,0,0,,{\c&HD39786&}itsudemo I love you. kimi ni Take ki​{\c&HEDD095&}ss me.
 Dialogue: 0,0:02:20.24,0:02:20.34,Karaoke,,0,0,0,,{\c&HD39786&}itsudemo I love you. kimi ni Take kiss ​{\c&HEDD095&}me.
-Dialogue: 0,0:02:20.34,0:02:20.64,Karaoke,,0,0,0,,{\c&HD39786&}itsudemo I love you. kimi ni Take kiss me.
+Dialogue: 0,0:02:20.34,0:02:20.64,Karaoke,,0,0,0,,{\c&HD39786&\pos(960,15)}itsudemo I love you. kimi ni Take kiss me.
 Dialogue: 0,0:02:20.64,0:02:24.41,English - 2,,0,0,0,,{\c&HD39786&}Will the stars grant my wishes for me?​
 Dialogue: 0,0:02:20.64,0:02:20.84,Karaoke,,0,0,0,,{\c&HD39786&}o​{\c&HEDD095&}hoshisama ni negaigoto kanaete kuremasu ka
 Dialogue: 0,0:02:20.84,0:02:21.04,Karaoke,,0,0,0,,{\c&HD39786&}oho​{\c&HEDD095&}shisama ni negaigoto kanaete kuremasu ka
@@ -595,7 +595,7 @@ Dialogue: 0,0:02:23.41,0:02:23.75,Karaoke,,0,0,0,,{\c&HD39786&}ohoshisama ni neg
 Dialogue: 0,0:02:23.75,0:02:23.81,Karaoke,,0,0,0,,{\c&HD39786&}ohoshisama ni negaigoto kanaete kure​{\c&HEDD095&}masu ka
 Dialogue: 0,0:02:23.81,0:02:23.95,Karaoke,,0,0,0,,{\c&HD39786&}ohoshisama ni negaigoto kanaete kurema​{\c&HEDD095&}su ka
 Dialogue: 0,0:02:23.95,0:02:24.05,Karaoke,,0,0,0,,{\c&HD39786&}ohoshisama ni negaigoto kanaete kuremasu ​{\c&HEDD095&}ka
-Dialogue: 0,0:02:24.05,0:02:24.41,Karaoke,,0,0,0,,{\c&HD39786&}ohoshisama ni negaigoto kanaete kuremasu ka
+Dialogue: 0,0:02:24.05,0:02:24.41,Karaoke,,0,0,0,,{\c&HD39786&\pos(960,15)}ohoshisama ni negaigoto kanaete kuremasu ka
 Dialogue: 0,0:02:24.41,0:02:27.65,English - 2,,0,0,0,,{\c&HF6EDE0&}Carry me to the other side of Earth
 Dialogue: 0,0:02:24.41,0:02:24.65,Karaoke,,0,0,0,,{\c&HF6EDE0&}chi{\c&HEDD095&}kyuu no uragawa made boku o hakonde​
 Dialogue: 0,0:02:24.65,0:02:24.81,Karaoke,,0,0,0,,{\c&HF6EDE0&}chikyuu {\c&HEDD095&}no uragawa made boku o hakonde​
@@ -612,7 +612,7 @@ Dialogue: 0,0:02:26.62,0:02:26.75,Karaoke,,0,0,0,,{\c&HF6EDE0&}chikyuu no uragaw
 Dialogue: 0,0:02:26.75,0:02:27.05,Karaoke,,0,0,0,,{\c&HF6EDE0&}chikyuu no uragawa made boku o ha{\c&HEDD095&}konde​
 Dialogue: 0,0:02:27.05,0:02:27.25,Karaoke,,0,0,0,,{\c&HF6EDE0&}chikyuu no uragawa made boku o hako{\c&HEDD095&}nde​
 Dialogue: 0,0:02:27.25,0:02:27.45,Karaoke,,0,0,0,,{\c&HF6EDE0&}chikyuu no uragawa made boku o hakon{\c&HEDD095&}de​
-Dialogue: 0,0:02:27.45,0:02:27.65,Karaoke,,0,0,0,,{\c&HF6EDE0&}chikyuu no uragawa made boku o hakonde​
+Dialogue: 0,0:02:27.45,0:02:27.65,Karaoke,,0,0,0,,{\c&HF6EDE0&\pos(960,10)}chikyuu no uragawa made boku o hakonde​
 Dialogue: 0,0:02:27.65,0:02:31.45,English - 2,,0,0,0,,{\c&HF6EDE0&}and let's go on a search for the most beautiful flower​​
 Dialogue: 0,0:02:27.65,0:02:27.85,Karaoke,,0,0,0,,{\c&HF6EDE0&}i{\c&HEDD095&}chiban kireina hana o sagashi ni iku nda​
 Dialogue: 0,0:02:27.85,0:02:28.05,Karaoke,,0,0,0,,{\c&HF6EDE0&}ichi{\c&HEDD095&}ban kireina hana o sagashi ni iku nda​
@@ -658,7 +658,7 @@ Dialogue: 0,0:02:35.86,0:02:36.03,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsu
 Dialogue: 0,0:02:36.03,0:02:36.26,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsui omoi wa omoi wa hoho ni tsutau ​{\c&HEDD095&}namida
 Dialogue: 0,0:02:36.26,0:02:36.56,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsui omoi wa omoi wa hoho ni tsutau na​{\c&HEDD095&}mida
 Dialogue: 0,0:02:36.56,0:02:36.66,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsui omoi wa omoi wa hoho ni tsutau nami​{\c&HEDD095&}da
-Dialogue: 0,0:02:36.66,0:02:37.03,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsui omoi wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:02:36.66,0:02:37.03,Karaoke,,0,0,0,,{\c&HA66BEA&\pos(960,15)}mada kimi no atsui omoi wa omoi wa hoho ni tsutau namida
 Dialogue: 0,0:02:37.03,0:02:39.83,English - 2,,0,0,0,,{\c&H956EC2&}I will hold your tear drops in my bosom​
 Dialogue: 0,0:02:37.03,0:02:37.43,Karaoke,,0,0,0,,{\c&H956EC2&}shi​{\c&HEDD095&}zuku wa mune ni tsutsunde
 Dialogue: 0,0:02:37.43,0:02:37.56,Karaoke,,0,0,0,,{\c&H956EC2&}shizu​{\c&HEDD095&}ku wa mune ni tsutsunde
@@ -670,7 +670,7 @@ Dialogue: 0,0:02:38.63,0:02:38.83,Karaoke,,0,0,0,,{\c&H956EC2&}shizuku wa mune n
 Dialogue: 0,0:02:38.83,0:02:39.06,Karaoke,,0,0,0,,{\c&H956EC2&}shizuku wa mune ni tsu​{\c&HEDD095&}tsunde
 Dialogue: 0,0:02:39.06,0:02:39.26,Karaoke,,0,0,0,,{\c&H956EC2&}shizuku wa mune ni tsutsu​{\c&HEDD095&}nde
 Dialogue: 0,0:02:39.26,0:02:39.46,Karaoke,,0,0,0,,{\c&H956EC2&}shizuku wa mune ni tsutsun​{\c&HEDD095&}de
-Dialogue: 0,0:02:39.46,0:02:39.83,Karaoke,,0,0,0,,{\c&H956EC2&}shizuku wa mune ni tsutsunde
+Dialogue: 0,0:02:39.46,0:02:39.83,Karaoke,,0,0,0,,{\c&H956EC2&\pos(960,15)}shizuku wa mune ni tsutsunde
 Dialogue: 0,0:02:39.83,0:02:43.03,English - 2,,0,0,0,,{\c&H956EC2&}and send them into the sky​
 Dialogue: 0,0:02:39.83,0:02:40.03,Karaoke,,0,0,0,,{\c&H956EC2&}to​{\c&HEDD095&}dokeru yo sora ni
 Dialogue: 0,0:02:40.03,0:02:40.23,Karaoke,,0,0,0,,{\c&H956EC2&}todo​{\c&HEDD095&}keru yo sora ni
@@ -679,11 +679,11 @@ Dialogue: 0,0:02:40.63,0:02:40.83,Karaoke,,0,0,0,,{\c&H956EC2&}todokeru ​{\c&H
 Dialogue: 0,0:02:40.83,0:02:41.43,Karaoke,,0,0,0,,{\c&H956EC2&}todokeru yo ​{\c&HEDD095&}sora ni
 Dialogue: 0,0:02:41.43,0:02:41.63,Karaoke,,0,0,0,,{\c&H956EC2&}todokeru yo so​{\c&HEDD095&}ra ni
 Dialogue: 0,0:02:41.63,0:02:41.83,Karaoke,,0,0,0,,{\c&H956EC2&}todokeru yo sora ​{\c&HEDD095&}ni
-Dialogue: 0,0:02:41.83,0:02:43.03,Karaoke,,0,0,0,,{\c&H956EC2&}todokeru yo sora ni
+Dialogue: 0,0:02:41.83,0:02:43.03,Karaoke,,0,0,0,,{\c&H956EC2&\pos(960,15)}todokeru yo sora ni
 Dialogue: 0,0:02:43.03,0:02:43.66,English - 2,,0,0,0,,{\c&H9593EB&}Ahh
-Dialogue: 0,0:02:43.03,0:02:43.66,Karaoke,,0,0,0,,{\c&H9593EB&}Ahh
+Dialogue: 0,0:02:43.03,0:02:43.66,Karaoke,,0,0,0,,{\c&H9593EB&\pos(960,15)}Ahh
 Dialogue: 0,0:02:56.45,0:03:02.85,English - 2,,0,0,0,,{\c&HEBE093&}GojimajiP feat. Kasane Teto - Ochame Kinou\N(covered by hololive) (Subs edit by Keiclicks)
-Dialogue: 0,0:02:56.45,0:03:02.85,Karaoke,,0,0,0,,{\c&HEBE093&}Lyrics, Composition: GojimajiP\NArrange &amp; MIX: kijibato
+Dialogue: 0,0:02:56.45,0:03:02.85,Karaoke,,0,0,0,,{\c&HEBE093&\pos(960,15)}Lyrics, Composition: GojimajiP\NArrange &amp; MIX: kijibato
 Dialogue: 0,0:03:21.47,0:03:24.64,English - 2,,0,0,0,,{\c&H93B8EB&}I love you always. Take me in your arms and kiss me​​
 Dialogue: 0,0:03:21.47,0:03:21.64,Karaoke,,0,0,0,,{\c&H93B8EB&}i​{\c&HEDD095&}tsudemo I love you. kimi ni Take kiss me.
 Dialogue: 0,0:03:21.64,0:03:21.84,Karaoke,,0,0,0,,{\c&H93B8EB&}itsu​{\c&HEDD095&}demo I love you. kimi ni Take kiss me.
@@ -700,7 +700,7 @@ Dialogue: 0,0:03:23.64,0:03:23.84,Karaoke,,0,0,0,,{\c&H93B8EB&}itsudemo I love y
 Dialogue: 0,0:03:23.84,0:03:24.04,Karaoke,,0,0,0,,{\c&H93B8EB&}itsudemo I love you. kimi ni Take ​{\c&HEDD095&}kiss me.
 Dialogue: 0,0:03:24.04,0:03:24.27,Karaoke,,0,0,0,,{\c&H93B8EB&}itsudemo I love you. kimi ni Take ki​{\c&HEDD095&}ss me.
 Dialogue: 0,0:03:24.27,0:03:24.37,Karaoke,,0,0,0,,{\c&H93B8EB&}itsudemo I love you. kimi ni Take kiss ​{\c&HEDD095&}me.
-Dialogue: 0,0:03:24.37,0:03:24.64,Karaoke,,0,0,0,,{\c&H93B8EB&}itsudemo I love you. kimi ni Take kiss me.
+Dialogue: 0,0:03:24.37,0:03:24.64,Karaoke,,0,0,0,,{\c&H93B8EB&\pos(960,15)}itsudemo I love you. kimi ni Take kiss me.
 Dialogue: 0,0:03:24.64,0:03:28.41,English - 2,,0,0,0,,{\c&H93B8EB&}Will the stars grant my wishes for me?​
 Dialogue: 0,0:03:24.64,0:03:24.84,Karaoke,,0,0,0,,{\c&H93B8EB&}o​{\c&HEDD095&}hoshisama ni negaigoto kanaete kuremasu ka
 Dialogue: 0,0:03:24.84,0:03:25.04,Karaoke,,0,0,0,,{\c&H93B8EB&}oho​{\c&HEDD095&}shisama ni negaigoto kanaete kuremasu ka
@@ -721,7 +721,7 @@ Dialogue: 0,0:03:27.44,0:03:27.74,Karaoke,,0,0,0,,{\c&H93B8EB&}ohoshisama ni neg
 Dialogue: 0,0:03:27.74,0:03:27.81,Karaoke,,0,0,0,,{\c&H93B8EB&}ohoshisama ni negaigoto kanaete kure​{\c&HEDD095&}masu ka
 Dialogue: 0,0:03:27.81,0:03:27.94,Karaoke,,0,0,0,,{\c&H93B8EB&}ohoshisama ni negaigoto kanaete kurema​{\c&HEDD095&}su ka
 Dialogue: 0,0:03:27.94,0:03:28.04,Karaoke,,0,0,0,,{\c&H93B8EB&}ohoshisama ni negaigoto kanaete kuremasu ​{\c&HEDD095&}ka
-Dialogue: 0,0:03:28.04,0:03:28.41,Karaoke,,0,0,0,,{\c&H93B8EB&}ohoshisama ni negaigoto kanaete kuremasu ka
+Dialogue: 0,0:03:28.04,0:03:28.41,Karaoke,,0,0,0,,{\c&H93B8EB&\pos(960,15)}ohoshisama ni negaigoto kanaete kuremasu ka
 Dialogue: 0,0:03:28.41,0:03:31.65,English - 2,,0,0,0,,{\c&HCD93EB&}Carry me to the other side of Earth,​
 Dialogue: 0,0:03:28.41,0:03:28.64,Karaoke,,0,0,0,,{\c&HCD93EB&}chi​{\c&HEDD095&}kyuu no uragawa made boku o hakonde
 Dialogue: 0,0:03:28.64,0:03:28.81,Karaoke,,0,0,0,,{\c&HCD93EB&}chikyuu ​{\c&HEDD095&}no uragawa made boku o hakonde
@@ -738,7 +738,7 @@ Dialogue: 0,0:03:30.61,0:03:30.75,Karaoke,,0,0,0,,{\c&HCD93EB&}chikyuu no uragaw
 Dialogue: 0,0:03:30.75,0:03:31.05,Karaoke,,0,0,0,,{\c&HCD93EB&}chikyuu no uragawa made boku o ha​{\c&HEDD095&}konde
 Dialogue: 0,0:03:31.05,0:03:31.21,Karaoke,,0,0,0,,{\c&HCD93EB&}chikyuu no uragawa made boku o hako​{\c&HEDD095&}nde
 Dialogue: 0,0:03:31.21,0:03:31.45,Karaoke,,0,0,0,,{\c&HCD93EB&}chikyuu no uragawa made boku o hakon​{\c&HEDD095&}de
-Dialogue: 0,0:03:31.45,0:03:31.65,Karaoke,,0,0,0,,{\c&HCD93EB&}chikyuu no uragawa made boku o hakonde
+Dialogue: 0,0:03:31.45,0:03:31.65,Karaoke,,0,0,0,,{\c&HCD93EB&\pos(960,15)}chikyuu no uragawa made boku o hakonde
 Dialogue: 0,0:03:31.65,0:03:35.45,English - 2,,0,0,0,,{\c&HCD93EB&}and let's go on a search for the most beautiful flower​
 Dialogue: 0,0:03:31.65,0:03:31.85,Karaoke,,0,0,0,,{\c&HCD93EB&}i​{\c&HEDD095&}chiban kireina hana o sagashi ni iku nda
 Dialogue: 0,0:03:31.85,0:03:32.05,Karaoke,,0,0,0,,{\c&HCD93EB&}ichi​{\c&HEDD095&}ban kireina hana o sagashi ni iku nda
@@ -758,7 +758,7 @@ Dialogue: 0,0:03:34.25,0:03:34.35,Karaoke,,0,0,0,,{\c&HCD93EB&}ichiban kireina h
 Dialogue: 0,0:03:34.35,0:03:34.45,Karaoke,,0,0,0,,{\c&HCD93EB&}ichiban kireina hana o sagashi ni i​{\c&HEDD095&}ku nda
 Dialogue: 0,0:03:34.45,0:03:34.65,Karaoke,,0,0,0,,{\c&HCD93EB&}ichiban kireina hana o sagashi ni iku ​{\c&HEDD095&}nda
 Dialogue: 0,0:03:34.65,0:03:34.85,Karaoke,,0,0,0,,{\c&HCD93EB&}ichiban kireina hana o sagashi ni iku n​{\c&HEDD095&}da
-Dialogue: 0,0:03:34.85,0:03:35.45,Karaoke,,0,0,0,,{\c&HCD93EB&}ichiban kireina hana o sagashi ni iku nda
+Dialogue: 0,0:03:34.85,0:03:35.45,Karaoke,,0,0,0,,{\c&HCD93EB&\pos(960,15)}ichiban kireina hana o sagashi ni iku nda
 Dialogue: 0,0:03:35.45,0:03:41.06,English - 2,,0,0,0,,Your burning {\c&H93D5EB&}passion turns into tears on your cheeks​
 Dialogue: 0,0:03:35.45,0:03:35.55,Karaoke,,0,0,0,,{\c&H93D5EB&}ma​{\c&HEDD095&}da kimi no atsui omoi wa omoi wa hoho ni tsutau namida
 Dialogue: 0,0:03:35.55,0:03:35.65,Karaoke,,0,0,0,,{\c&H93D5EB&}mada ​{\c&HEDD095&}kimi no atsui omoi wa omoi wa hoho ni tsutau namida
@@ -784,7 +784,7 @@ Dialogue: 0,0:03:39.86,0:03:40.06,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsu
 Dialogue: 0,0:03:40.06,0:03:40.26,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui omoi wa omoi wa hoho ni tsutau ​{\c&HEDD095&}namida
 Dialogue: 0,0:03:40.26,0:03:40.56,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui omoi wa omoi wa hoho ni tsutau na​{\c&HEDD095&}mida
 Dialogue: 0,0:03:40.56,0:03:40.66,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui omoi wa omoi wa hoho ni tsutau nami​{\c&HEDD095&}da
-Dialogue: 0,0:03:40.66,0:03:41.06,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui omoi wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:03:40.66,0:03:41.06,Karaoke,,0,0,0,,{\c&H93D5EB&\pos(960,15)}mada kimi no atsui omoi wa omoi wa hoho ni tsutau namida
 Dialogue: 0,0:03:41.06,0:03:43.83,English - 2,,0,0,0,,{\c&HECEBDC&}I will hold your tear drops in my bosom​
 Dialogue: 0,0:03:41.06,0:03:41.46,Karaoke,,0,0,0,,{\c&HECEBDC&}shi​{\c&HEDD095&}zuku wa mune ni tsutsunde
 Dialogue: 0,0:03:41.46,0:03:41.56,Karaoke,,0,0,0,,{\c&HECEBDC&}shizu​{\c&HEDD095&}ku wa mune ni tsutsunde
@@ -796,7 +796,7 @@ Dialogue: 0,0:03:42.63,0:03:42.86,Karaoke,,0,0,0,,{\c&HECEBDC&}shizuku wa mune n
 Dialogue: 0,0:03:42.86,0:03:43.06,Karaoke,,0,0,0,,{\c&HECEBDC&}shizuku wa mune ni tsu​{\c&HEDD095&}tsunde
 Dialogue: 0,0:03:43.06,0:03:43.26,Karaoke,,0,0,0,,{\c&HECEBDC&}shizuku wa mune ni tsutsu​{\c&HEDD095&}nde
 Dialogue: 0,0:03:43.26,0:03:43.46,Karaoke,,0,0,0,,{\c&HECEBDC&}shizuku wa mune ni tsutsun​{\c&HEDD095&}de
-Dialogue: 0,0:03:43.46,0:03:43.83,Karaoke,,0,0,0,,{\c&HECEBDC&}shizuku wa mune ni tsutsunde
+Dialogue: 0,0:03:43.46,0:03:43.83,Karaoke,,0,0,0,,{\c&HECEBDC&\pos(960,15)}shizuku wa mune ni tsutsunde
 Dialogue: 0,0:03:43.83,0:03:47.03,English - 2,,0,0,0,,{\c&HECEBDC&}and send them into the sky​
 Dialogue: 0,0:03:43.83,0:03:44.03,Karaoke,,0,0,0,,{\c&HECEBDC&}to​{\c&HEDD095&}dokeru yo sora ni
 Dialogue: 0,0:03:44.03,0:03:44.23,Karaoke,,0,0,0,,{\c&HECEBDC&}todo​{\c&HEDD095&}keru yo sora ni
@@ -805,7 +805,7 @@ Dialogue: 0,0:03:44.63,0:03:44.79,Karaoke,,0,0,0,,{\c&HECEBDC&}todokeru ​{\c&H
 Dialogue: 0,0:03:44.79,0:03:45.43,Karaoke,,0,0,0,,{\c&HECEBDC&}todokeru yo ​{\c&HEDD095&}sora ni
 Dialogue: 0,0:03:45.43,0:03:45.63,Karaoke,,0,0,0,,{\c&HECEBDC&}todokeru yo so​{\c&HEDD095&}ra ni
 Dialogue: 0,0:03:45.63,0:03:45.83,Karaoke,,0,0,0,,{\c&HECEBDC&}todokeru yo sora ​{\c&HEDD095&}ni
-Dialogue: 0,0:03:45.83,0:03:47.03,Karaoke,,0,0,0,,{\c&HECEBDC&}todokeru yo sora ni
+Dialogue: 0,0:03:45.83,0:03:47.03,Karaoke,,0,0,0,,{\c&HECEBDC&\pos(960,15)}todokeru yo sora ni
 Dialogue: 0,0:03:47.03,0:03:50.27,English - 2,,0,0,0,,{\c&HE0B2E8&}I love you always. Take me in your arms and kiss me​​
 Dialogue: 0,0:03:47.03,0:03:47.23,Karaoke,,0,0,0,,{\c&HE0B2E8&}i​{\c&HEDD095&}tsudemo I love you. kimi ni Take kiss me.
 Dialogue: 0,0:03:47.23,0:03:47.43,Karaoke,,0,0,0,,{\c&HE0B2E8&}itsu​{\c&HEDD095&}demo I love you. kimi ni Take kiss me.
@@ -822,7 +822,7 @@ Dialogue: 0,0:03:49.23,0:03:49.43,Karaoke,,0,0,0,,{\c&HE0B2E8&}itsudemo I love y
 Dialogue: 0,0:03:49.43,0:03:49.63,Karaoke,,0,0,0,,{\c&HE0B2E8&}itsudemo I love you. kimi ni Take ​{\c&HEDD095&}kiss me.
 Dialogue: 0,0:03:49.63,0:03:49.83,Karaoke,,0,0,0,,{\c&HE0B2E8&}itsudemo I love you. kimi ni Take ki​{\c&HEDD095&}ss me.
 Dialogue: 0,0:03:49.83,0:03:49.93,Karaoke,,0,0,0,,{\c&HE0B2E8&}itsudemo I love you. kimi ni Take kiss ​{\c&HEDD095&}me.
-Dialogue: 0,0:03:49.93,0:03:50.27,Karaoke,,0,0,0,,{\c&HE0B2E8&}itsudemo I love you. kimi ni Take kiss me.
+Dialogue: 0,0:03:49.93,0:03:50.27,Karaoke,,0,0,0,,{\c&HE0B2E8&\pos(960,15)}itsudemo I love you. kimi ni Take kiss me.
 Dialogue: 0,0:03:50.27,0:03:54.04,English - 2,,0,0,0,,I cannot forg{\c&H93D5EB&}et this precious memory of mine​
 Dialogue: 0,0:03:50.27,0:03:50.47,Karaoke,,0,0,0,,{\c&H93D5EB&}wa​{\c&HEDD095&}surerarenai kara boku no daijina memorii
 Dialogue: 0,0:03:50.47,0:03:50.67,Karaoke,,0,0,0,,{\c&H93D5EB&}wasu​{\c&HEDD095&}rerarenai kara boku no daijina memorii
@@ -841,7 +841,7 @@ Dialogue: 0,0:03:52.77,0:03:52.87,Karaoke,,0,0,0,,{\c&H93D5EB&}wasurerarenai kar
 Dialogue: 0,0:03:52.87,0:03:53.07,Karaoke,,0,0,0,,{\c&H93D5EB&}wasurerarenai kara boku no daijina ​{\c&HEDD095&}memorii
 Dialogue: 0,0:03:53.07,0:03:53.47,Karaoke,,0,0,0,,{\c&H93D5EB&}wasurerarenai kara boku no daijina me​{\c&HEDD095&}morii
 Dialogue: 0,0:03:53.47,0:03:53.67,Karaoke,,0,0,0,,{\c&H93D5EB&}wasurerarenai kara boku no daijina memo​{\c&HEDD095&}rii
-Dialogue: 0,0:03:53.67,0:03:54.04,Karaoke,,0,0,0,,{\c&H93D5EB&}wasurerarenai kara boku no daijina memorii
+Dialogue: 0,0:03:53.67,0:03:54.04,Karaoke,,0,0,0,,{\c&H93D5EB&\pos(960,15)}wasurerarenai kara boku no daijina memorii
 Dialogue: 0,0:03:54.04,0:03:56.64,English - 2,,0,0,0,,{\c&HE0B2E8&}If dorayaki cannot become my main diet,​
 Dialogue: 0,0:03:54.04,0:03:54.24,Karaoke,,0,0,0,,{\c&HE0B2E8&}do​{\c&HEDD095&}rayaki wa shushoku ni narenai
 Dialogue: 0,0:03:54.24,0:03:54.44,Karaoke,,0,0,0,,{\c&HE0B2E8&}dora​{\c&HEDD095&}yaki wa shushoku ni narenai
@@ -855,7 +855,7 @@ Dialogue: 0,0:03:55.64,0:03:55.84,Karaoke,,0,0,0,,{\c&HE0B2E8&}dorayaki wa shush
 Dialogue: 0,0:03:55.84,0:03:56.04,Karaoke,,0,0,0,,{\c&HE0B2E8&}dorayaki wa shushoku ni na​{\c&HEDD095&}renai
 Dialogue: 0,0:03:56.04,0:03:56.24,Karaoke,,0,0,0,,{\c&HE0B2E8&}dorayaki wa shushoku ni nare​{\c&HEDD095&}nai
 Dialogue: 0,0:03:56.24,0:03:56.34,Karaoke,,0,0,0,,{\c&HE0B2E8&}dorayaki wa shushoku ni narena​{\c&HEDD095&}i
-Dialogue: 0,0:03:56.34,0:03:56.64,Karaoke,,0,0,0,,{\c&HE0B2E8&}dorayaki wa shushoku ni narenai
+Dialogue: 0,0:03:56.34,0:03:56.64,Karaoke,,0,0,0,,{\c&HE0B2E8&\pos(960,15)}dorayaki wa shushoku ni narenai
 Dialogue: 0,0:03:56.64,0:04:01.04,English - 2,,0,0,0,,{\c&HD2C015&}I'll just have to overwrite it my way​
 Dialogue: 0,0:03:56.64,0:03:56.84,Karaoke,,0,0,0,,{\c&HD2C015&}na​{\c&HEDD095&}raba uwagaki shichaeba boku no omoidoori
 Dialogue: 0,0:03:56.84,0:03:57.04,Karaoke,,0,0,0,,{\c&HD2C015&}nara​{\c&HEDD095&}ba uwagaki shichaeba boku no omoidoori
@@ -876,7 +876,7 @@ Dialogue: 0,0:03:59.84,0:03:59.94,Karaoke,,0,0,0,,{\c&HD2C015&}naraba uwagaki sh
 Dialogue: 0,0:03:59.94,0:04:00.04,Karaoke,,0,0,0,,{\c&HD2C015&}naraba uwagaki shichaeba boku no omoi​{\c&HEDD095&}doori
 Dialogue: 0,0:04:00.04,0:04:00.24,Karaoke,,0,0,0,,{\c&HD2C015&}naraba uwagaki shichaeba boku no omoido​{\c&HEDD095&}ori
 Dialogue: 0,0:04:00.24,0:04:00.44,Karaoke,,0,0,0,,{\c&HD2C015&}naraba uwagaki shichaeba boku no omoidoo​{\c&HEDD095&}ri
-Dialogue: 0,0:04:00.44,0:04:01.04,Karaoke,,0,0,0,,{\c&HD2C015&}naraba uwagaki shichaeba boku no omoidoori
+Dialogue: 0,0:04:00.44,0:04:01.04,Karaoke,,0,0,0,,{\c&HD2C015&\pos(960,15)}naraba uwagaki shichaeba boku no omoidoori
 Dialogue: 0,0:04:01.04,0:04:04.65,English - 2,,0,0,0,,{\c&HE0B2E8&}I don't want to wake up from this dream​
 Dialogue: 0,0:04:01.04,0:04:01.14,Karaoke,,0,0,0,,{\c&HE0B2E8&}yu​{\c&HEDD095&}me kara pipipi samenaide samenaide
 Dialogue: 0,0:04:01.14,0:04:01.24,Karaoke,,0,0,0,,{\c&HE0B2E8&}yume ​{\c&HEDD095&}kara pipipi samenaide samenaide
@@ -892,7 +892,7 @@ Dialogue: 0,0:04:02.61,0:04:02.85,Karaoke,,0,0,0,,{\c&HE0B2E8&}yume kara pipipi 
 Dialogue: 0,0:04:02.85,0:04:03.01,Karaoke,,0,0,0,,{\c&HE0B2E8&}yume kara pipipi samenaide sa​{\c&HEDD095&}menaide
 Dialogue: 0,0:04:03.01,0:04:03.25,Karaoke,,0,0,0,,{\c&HE0B2E8&}yume kara pipipi samenaide same​{\c&HEDD095&}naide
 Dialogue: 0,0:04:03.25,0:04:03.45,Karaoke,,0,0,0,,{\c&HE0B2E8&}yume kara pipipi samenaide samenai​{\c&HEDD095&}de
-Dialogue: 0,0:04:03.45,0:04:04.65,Karaoke,,0,0,0,,{\c&HE0B2E8&}yume kara pipipi samenaide samenaide
+Dialogue: 0,0:04:03.45,0:04:04.65,Karaoke,,0,0,0,,{\c&HE0B2E8&\pos(960,15)}yume kara pipipi samenaide samenaide
 Dialogue: 0,0:04:04.65,0:04:06.62,English - 2,,0,0,0,,{\c&HD2C015&}This warmth, please don't go away​
 Dialogue: 0,0:04:04.65,0:04:04.85,Karaoke,,0,0,0,,{\c&HD2C015&}nu​{\c&HEDD095&}kumori nigenaide
 Dialogue: 0,0:04:04.85,0:04:05.05,Karaoke,,0,0,0,,{\c&HD2C015&}nuku​{\c&HEDD095&}mori nigenaide
@@ -902,7 +902,7 @@ Dialogue: 0,0:04:05.45,0:04:05.65,Karaoke,,0,0,0,,{\c&HD2C015&}nukumori ni​{\c
 Dialogue: 0,0:04:05.65,0:04:05.85,Karaoke,,0,0,0,,{\c&HD2C015&}nukumori nige​{\c&HEDD095&}naide
 Dialogue: 0,0:04:05.85,0:04:06.12,Karaoke,,0,0,0,,{\c&HD2C015&}nukumori nigena​{\c&HEDD095&}ide
 Dialogue: 0,0:04:06.12,0:04:06.25,Karaoke,,0,0,0,,{\c&HD2C015&}nukumori nigenai​{\c&HEDD095&}de
-Dialogue: 0,0:04:06.25,0:04:06.62,Karaoke,,0,0,0,,{\c&HD2C015&}nukumori nigenaide
+Dialogue: 0,0:04:06.25,0:04:06.62,Karaoke,,0,0,0,,{\c&HD2C015&\pos(960,15)}nukumori nigenaide
 Dialogue: 0,0:04:06.62,0:04:09.42,English - 2,,0,0,0,,{\c&HE0B2E8&}The morning is still young, so please​
 Dialogue: 0,0:04:06.62,0:04:06.72,Karaoke,,0,0,0,,{\c&HE0B2E8&}ma​{\c&HEDD095&}da asa wa tappuri aru kara
 Dialogue: 0,0:04:06.72,0:04:06.82,Karaoke,,0,0,0,,{\c&HE0B2E8&}mada​{\c&HEDD095&} asa wa tappuri aru kara
@@ -915,7 +915,7 @@ Dialogue: 0,0:04:08.22,0:04:08.42,Karaoke,,0,0,0,,{\c&HE0B2E8&}mada asa wa tappu
 Dialogue: 0,0:04:08.42,0:04:08.62,Karaoke,,0,0,0,,{\c&HE0B2E8&}mada asa wa tappuri a​{\c&HEDD095&}ru kara
 Dialogue: 0,0:04:08.62,0:04:08.82,Karaoke,,0,0,0,,{\c&HE0B2E8&}mada asa wa tappuri aru​{\c&HEDD095&} kara
 Dialogue: 0,0:04:08.82,0:04:09.02,Karaoke,,0,0,0,,{\c&HE0B2E8&}mada asa wa tappuri aru ka​{\c&HEDD095&}ra
-Dialogue: 0,0:04:09.02,0:04:09.42,Karaoke,,0,0,0,,{\c&HE0B2E8&}mada asa wa tappuri aru kara
+Dialogue: 0,0:04:09.02,0:04:09.42,Karaoke,,0,0,0,,{\c&HE0B2E8&\pos(960,15)}mada asa wa tappuri aru kara
 Dialogue: 0,0:04:09.42,0:04:13.25,English - 2,,0,0,0,,{\c&HD2C015&}give me five... no, ten more minutes​
 Dialogue: 0,0:04:09.42,0:04:09.62,Karaoke,,0,0,0,,{\c&HD2C015&}a​{\c&HEDD095&}to gofun iya juppun matasete
 Dialogue: 0,0:04:09.62,0:04:09.82,Karaoke,,0,0,0,,{\c&HD2C015&}ato ​{\c&HEDD095&}gofun iya juppun matasete
@@ -929,4 +929,4 @@ Dialogue: 0,0:04:11.82,0:04:12.02,Karaoke,,0,0,0,,{\c&HD2C015&}ato gofun iya jup
 Dialogue: 0,0:04:12.02,0:04:12.22,Karaoke,,0,0,0,,{\c&HD2C015&}ato gofun iya juppun ma​{\c&HEDD095&}tasete
 Dialogue: 0,0:04:12.22,0:04:12.62,Karaoke,,0,0,0,,{\c&HD2C015&}ato gofun iya juppun mata​{\c&HEDD095&}sete
 Dialogue: 0,0:04:12.62,0:04:12.82,Karaoke,,0,0,0,,{\c&HD2C015&}ato gofun iya juppun matase​{\c&HEDD095&}te
-Dialogue: 0,0:04:12.82,0:04:13.25,Karaoke,,0,0,0,,{\c&HD2C015&}ato gofun iya juppun matasete
+Dialogue: 0,0:04:12.82,0:04:13.25,Karaoke,,0,0,0,,{\c&HD2C015&\pos(960,15)}ato gofun iya juppun matasete
