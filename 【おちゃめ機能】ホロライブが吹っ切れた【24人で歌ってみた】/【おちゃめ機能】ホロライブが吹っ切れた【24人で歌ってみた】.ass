@@ -16,9 +16,9 @@ Video File: ../../../Songs/【おちゃめ機能】ホロライブが吹っ切�
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 593
-Active Line: 598
-Video Position: 4494
+Scroll Position: 748
+Active Line: 721
+Video Position: 6404
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -596,215 +596,215 @@ Dialogue: 0,0:02:23.75,0:02:23.81,Karaoke,,0,0,0,,{\c&HD39786&}ohoshisama ni neg
 Dialogue: 0,0:02:23.81,0:02:23.95,Karaoke,,0,0,0,,{\c&HD39786&}ohoshisama ni negaigoto kanaete kurema​{\c&HEDD095&}su ka
 Dialogue: 0,0:02:23.95,0:02:24.05,Karaoke,,0,0,0,,{\c&HD39786&}ohoshisama ni negaigoto kanaete kuremasu ​{\c&HEDD095&}ka
 Dialogue: 0,0:02:24.05,0:02:24.41,Karaoke,,0,0,0,,{\c&HD39786&}ohoshisama ni negaigoto kanaete kuremasu ka
-Dialogue: 0,0:02:24.41,0:02:27.65,Default,,0,0,0,,Carry me to the other side of Earth
-Dialogue: 0,0:02:24.41,0:02:24.65,Default,,0,0,0,,chi{\c&HEDD095&}kyuu no uragawa made boku o hakonde​
-Dialogue: 0,0:02:24.65,0:02:24.81,Default,,0,0,0,,chikyuu {\c&HEDD095&}no uragawa made boku o hakonde​
-Dialogue: 0,0:02:24.81,0:02:25.01,Default,,0,0,0,,chikyuu no {\c&HEDD095&}uragawa made boku o hakonde​
-Dialogue: 0,0:02:25.01,0:02:25.15,Default,,0,0,0,,chikyuu no u{\c&HEDD095&}ragawa made boku o hakonde​
-Dialogue: 0,0:02:25.15,0:02:25.45,Default,,0,0,0,,chikyuu no ura{\c&HEDD095&}gawa made boku o hakonde​
-Dialogue: 0,0:02:25.45,0:02:25.65,Default,,0,0,0,,chikyuu no uraga{\c&HEDD095&}wa made boku o hakonde​
-Dialogue: 0,0:02:25.65,0:02:25.82,Default,,0,0,0,,chikyuu no uragawa {\c&HEDD095&}made boku o hakonde​
-Dialogue: 0,0:02:25.82,0:02:26.02,Default,,0,0,0,,chikyuu no uragawa ma{\c&HEDD095&}de boku o hakonde​
-Dialogue: 0,0:02:26.02,0:02:26.25,Default,,0,0,0,,chikyuu no uragawa made {\c&HEDD095&}boku o hakonde​
-Dialogue: 0,0:02:26.25,0:02:26.45,Default,,0,0,0,,chikyuu no uragawa made bo{\c&HEDD095&}ku o hakonde​
-Dialogue: 0,0:02:26.45,0:02:26.62,Default,,0,0,0,,chikyuu no uragawa made boku {\c&HEDD095&}o hakonde​
-Dialogue: 0,0:02:26.62,0:02:26.75,Default,,0,0,0,,chikyuu no uragawa made boku o {\c&HEDD095&}hakonde​
-Dialogue: 0,0:02:26.75,0:02:27.05,Default,,0,0,0,,chikyuu no uragawa made boku o ha{\c&HEDD095&}konde​
-Dialogue: 0,0:02:27.05,0:02:27.25,Default,,0,0,0,,chikyuu no uragawa made boku o hako{\c&HEDD095&}nde​
-Dialogue: 0,0:02:27.25,0:02:27.45,Default,,0,0,0,,chikyuu no uragawa made boku o hakon{\c&HEDD095&}de​
-Dialogue: 0,0:02:27.45,0:02:27.65,Default,,0,0,0,,chikyuu no uragawa made boku o hakonde​
-Dialogue: 0,0:02:27.65,0:02:31.45,Default,,0,0,0,,and let's go on a search for the most beautiful flower​​
-Dialogue: 0,0:02:27.65,0:02:27.85,Default,,0,0,0,,i{\c&HEDD095&}chiban kireina hana o sagashi ni iku nda​
-Dialogue: 0,0:02:27.85,0:02:28.05,Default,,0,0,0,,ichi{\c&HEDD095&}ban kireina hana o sagashi ni iku nda​
-Dialogue: 0,0:02:28.05,0:02:28.25,Default,,0,0,0,,ichiba{\c&HEDD095&}n kireina hana o sagashi ni iku nda​
-Dialogue: 0,0:02:28.25,0:02:28.35,Default,,0,0,0,,ichiban {\c&HEDD095&}kireina hana o sagashi ni iku nda​
-Dialogue: 0,0:02:28.35,0:02:28.65,Default,,0,0,0,,ichiban ki{\c&HEDD095&}reina hana o sagashi ni iku nda​
-Dialogue: 0,0:02:28.65,0:02:28.85,Default,,0,0,0,,ichiban kire{\c&HEDD095&}ina hana o sagashi ni iku nda​
-Dialogue: 0,0:02:28.85,0:02:29.05,Default,,0,0,0,,ichiban kirei{\c&HEDD095&}na hana o sagashi ni iku nda​
-Dialogue: 0,0:02:29.05,0:02:29.25,Default,,0,0,0,,ichiban kireina {\c&HEDD095&}hana o sagashi ni iku nda​
-Dialogue: 0,0:02:29.25,0:02:29.39,Default,,0,0,0,,ichiban kireina ha{\c&HEDD095&}na o sagashi ni iku nda​
-Dialogue: 0,0:02:29.39,0:02:29.45,Default,,0,0,0,,ichiban kireina hana {\c&HEDD095&}o sagashi ni iku nda​
-Dialogue: 0,0:02:29.45,0:02:29.55,Default,,0,0,0,,ichiban kireina hana o {\c&HEDD095&}sagashi ni iku nda​
-Dialogue: 0,0:02:29.55,0:02:29.65,Default,,0,0,0,,ichiban kireina hana o sa{\c&HEDD095&}gashi ni iku nda​
-Dialogue: 0,0:02:29.65,0:02:29.79,Default,,0,0,0,,ichiban kireina hana o saga{\c&HEDD095&}shi ni iku nda​
-Dialogue: 0,0:02:29.79,0:02:30.25,Karaoke,,0,0,0,,ichiban kireina hana o sagashi {\c&HEDD095&}ni iku nda​
-Dialogue: 0,0:02:30.25,0:02:30.35,Default,,0,0,0,,ichiban kireina hana o sagashi ni {\c&HEDD095&}iku nda​
-Dialogue: 0,0:02:30.35,0:02:30.45,Karaoke,,0,0,0,,ichiban kireina hana o sagashi ni i{\c&HEDD095&}ku nda​
-Dialogue: 0,0:02:30.45,0:02:30.65,Default,,0,0,0,,ichiban kireina hana o sagashi ni iku {\c&HEDD095&}nda​a
-Dialogue: 0,0:02:30.65,0:02:30.82,Default,,0,0,0,,ichiban kireina hana o sagashi ni iku n{\c&HEDD095&}da​
-Dialogue: 0,0:02:30.82,0:02:31.45,Default,,0,0,0,,ichiban kireina hana o sagashi ni iku nda​
-Dialogue: 0,0:02:31.45,0:02:37.03,Default,,0,0,0,,Your burning passion turns into tears on your cheeks​
-Dialogue: 0,0:02:31.45,0:02:31.55,Default,,0,0,0,,ma​{\c&HEDD095&}da kimi no atsui omoi wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:02:31.55,0:02:31.65,Default,,0,0,0,,mada ​{\c&HEDD095&}kimi no atsui omoi wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:02:31.65,0:02:31.85,Default,,0,0,0,,mada ki​{\c&HEDD095&}mi no atsui omoi wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:02:31.85,0:02:32.02,Default,,0,0,0,,mada kimi ​{\c&HEDD095&}no atsui omoi wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:02:32.02,0:02:32.12,Default,,0,0,0,,mada kimi no ​{\c&HEDD095&}atsui omoi wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:02:32.12,0:02:32.25,Default,,0,0,0,,mada kimi no a​{\c&HEDD095&}tsui omoi wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:02:32.25,0:02:32.35,Default,,0,0,0,,mada kimi no atsu​{\c&HEDD095&}i omoi wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:02:32.35,0:02:32.49,Default,,0,0,0,,mada kimi no atsui ​{\c&HEDD095&}omoi wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:02:32.49,0:02:32.66,Default,,0,0,0,,mada kimi no atsui o​{\c&HEDD095&}moi wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:02:32.66,0:02:32.82,Default,,0,0,0,,mada kimi no atsui omo​{\c&HEDD095&}i wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:02:32.82,0:02:33.06,Default,,0,0,0,,mada kimi no atsui omoi ​{\c&HEDD095&}wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:02:33.06,0:02:33.22,Default,,0,0,0,,mada kimi no atsui omoi wa ​{\c&HEDD095&}omoi wa hoho ni tsutau namida
-Dialogue: 0,0:02:33.22,0:02:33.46,Default,,0,0,0,,mada kimi no atsui omoi wa o​{\c&HEDD095&}moi wa hoho ni tsutau namida
-Dialogue: 0,0:02:33.46,0:02:33.66,Default,,0,0,0,,mada kimi no atsui omoi wa omo​{\c&HEDD095&}i wa hoho ni tsutau namida
-Dialogue: 0,0:02:33.66,0:02:33.82,Default,,0,0,0,,mada kimi no atsui omoi wa omoi ​{\c&HEDD095&}wa hoho ni tsutau namida
-Dialogue: 0,0:02:33.82,0:02:35.06,Default,,0,0,0,,mada kimi no atsui omoi wa omoi wa ​{\c&HEDD095&}hoho ni tsutau namida
-Dialogue: 0,0:02:35.06,0:02:35.26,Default,,0,0,0,,mada kimi no atsui omoi wa omoi wa ho​{\c&HEDD095&}ho ni tsutau namida
-Dialogue: 0,0:02:35.26,0:02:35.46,Default,,0,0,0,,mada kimi no atsui omoi wa omoi wa hoho ​{\c&HEDD095&}ni tsutau namida
-Dialogue: 0,0:02:35.46,0:02:35.66,Default,,0,0,0,,mada kimi no atsui omoi wa omoi wa hoho ni ​{\c&HEDD095&}tsutau namida
-Dialogue: 0,0:02:35.66,0:02:35.86,Default,,0,0,0,,mada kimi no atsui omoi wa omoi wa hoho ni tsu​{\c&HEDD095&}tau namida
-Dialogue: 0,0:02:35.86,0:02:36.03,Default,,0,0,0,,mada kimi no atsui omoi wa omoi wa hoho ni tsuta​{\c&HEDD095&}u namida
-Dialogue: 0,0:02:36.03,0:02:36.26,Default,,0,0,0,,mada kimi no atsui omoi wa omoi wa hoho ni tsutau ​{\c&HEDD095&}namida
-Dialogue: 0,0:02:36.26,0:02:36.56,Default,,0,0,0,,mada kimi no atsui omoi wa omoi wa hoho ni tsutau na​{\c&HEDD095&}mida
-Dialogue: 0,0:02:36.56,0:02:36.66,Default,,0,0,0,,mada kimi no atsui omoi wa omoi wa hoho ni tsutau nami​{\c&HEDD095&}da
-Dialogue: 0,0:02:36.66,0:02:37.03,Default,,0,0,0,,mada kimi no atsui omoi wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:02:37.03,0:02:39.83,Default,,0,0,0,,I will hold your tear drops in my bosom​
-Dialogue: 0,0:02:37.03,0:02:37.43,Default,,0,0,0,,shi​{\c&HEDD095&}zuku wa mune ni tsutsunde
-Dialogue: 0,0:02:37.43,0:02:37.56,Default,,0,0,0,,shizu​{\c&HEDD095&}ku wa mune ni tsutsunde
-Dialogue: 0,0:02:37.56,0:02:37.66,Default,,0,0,0,,shizuku ​{\c&HEDD095&}wa mune ni tsutsunde
-Dialogue: 0,0:02:37.66,0:02:38.23,Default,,0,0,0,,shizuku wa ​{\c&HEDD095&}mune ni tsutsunde
-Dialogue: 0,0:02:38.23,0:02:38.46,Default,,0,0,0,,shizuku wa mu​{\c&HEDD095&}ne ni tsutsunde
-Dialogue: 0,0:02:38.46,0:02:38.63,Default,,0,0,0,,shizuku wa mune ​{\c&HEDD095&}ni tsutsunde
-Dialogue: 0,0:02:38.63,0:02:38.83,Default,,0,0,0,,shizuku wa mune ni ​{\c&HEDD095&}tsutsunde
-Dialogue: 0,0:02:38.83,0:02:39.06,Default,,0,0,0,,shizuku wa mune ni tsu​{\c&HEDD095&}tsunde
-Dialogue: 0,0:02:39.06,0:02:39.26,Default,,0,0,0,,shizuku wa mune ni tsutsu​{\c&HEDD095&}nde
-Dialogue: 0,0:02:39.26,0:02:39.46,Default,,0,0,0,,shizuku wa mune ni tsutsun​{\c&HEDD095&}de
-Dialogue: 0,0:02:39.46,0:02:39.83,Default,,0,0,0,,shizuku wa mune ni tsutsunde
-Dialogue: 0,0:02:39.83,0:02:43.03,Default,,0,0,0,,and send them into the sky​
-Dialogue: 0,0:02:39.83,0:02:40.03,Default,,0,0,0,,to​{\c&HEDD095&}dokeru yo sora ni
-Dialogue: 0,0:02:40.03,0:02:40.23,Default,,0,0,0,,todo​{\c&HEDD095&}keru yo sora ni
-Dialogue: 0,0:02:40.23,0:02:40.63,Default,,0,0,0,,todoke​{\c&HEDD095&}ru yo sora ni
-Dialogue: 0,0:02:40.63,0:02:40.83,Default,,0,0,0,,todokeru ​{\c&HEDD095&}yo sora ni
-Dialogue: 0,0:02:40.83,0:02:41.43,Default,,0,0,0,,todokeru yo ​{\c&HEDD095&}sora ni
-Dialogue: 0,0:02:41.43,0:02:41.63,Default,,0,0,0,,todokeru yo so​{\c&HEDD095&}ra ni
-Dialogue: 0,0:02:41.63,0:02:41.83,Default,,0,0,0,,todokeru yo sora ​{\c&HEDD095&}ni
-Dialogue: 0,0:02:41.83,0:02:43.03,Default,,0,0,0,,todokeru yo sora ni
-Dialogue: 0,0:02:43.03,0:02:43.66,Default,,0,0,0,,Ahh
-Dialogue: 0,0:02:43.03,0:02:43.66,Default,,0,0,0,,Ahh
-Dialogue: 0,0:02:56.45,0:03:02.85,Default,,0,0,0,,GojimajiP feat. Kasane Teto - Ochame Kinou\N(covered by hololive)
-Dialogue: 0,0:02:56.45,0:03:02.85,Default,,0,0,0,,Lyrics, Composition: GojimajiP\NArrange &amp; MIX: kijibato
-Dialogue: 0,0:03:21.47,0:03:24.64,Default,,0,0,0,,I love you always. Take me in your arms and kiss me​​
-Dialogue: 0,0:03:21.47,0:03:21.64,Default,,0,0,0,,i​{\c&HEDD095&}tsudemo I love you. kimi ni Take kiss me.
-Dialogue: 0,0:03:21.64,0:03:21.84,Default,,0,0,0,,itsu​{\c&HEDD095&}demo I love you. kimi ni Take kiss me.
-Dialogue: 0,0:03:21.84,0:03:22.04,Default,,0,0,0,,itsude​{\c&HEDD095&}mo I love you. kimi ni Take kiss me.
-Dialogue: 0,0:03:22.04,0:03:22.24,Default,,0,0,0,,itsudemo ​{\c&HEDD095&}I love you. kimi ni Take kiss me.
-Dialogue: 0,0:03:22.24,0:03:22.44,Default,,0,0,0,,itsudemo I​{\c&HEDD095&} love you. kimi ni Take kiss me.
-Dialogue: 0,0:03:22.44,0:03:22.64,Default,,0,0,0,,itsudemo I ​{\c&HEDD095&}love you. kimi ni Take kiss me.
-Dialogue: 0,0:03:22.64,0:03:22.74,Default,,0,0,0,,itsudemo I love ​{\c&HEDD095&}you. kimi ni Take kiss me.
-Dialogue: 0,0:03:22.74,0:03:23.04,Default,,0,0,0,,itsudemo I love you. ​{\c&HEDD095&}kimi ni Take kiss me.
-Dialogue: 0,0:03:23.04,0:03:23.24,Default,,0,0,0,,itsudemo I love you. ki​{\c&HEDD095&}mi ni Take kiss me.
-Dialogue: 0,0:03:23.24,0:03:23.44,Default,,0,0,0,,itsudemo I love you. kimi ​{\c&HEDD095&}ni Take kiss me.
-Dialogue: 0,0:03:23.44,0:03:23.64,Default,,0,0,0,,itsudemo I love you. kimi ni ​{\c&HEDD095&}Take kiss me.
-Dialogue: 0,0:03:23.64,0:03:23.84,Default,,0,0,0,,itsudemo I love you. kimi ni Ta​{\c&HEDD095&}ke kiss me.
-Dialogue: 0,0:03:23.84,0:03:24.04,Default,,0,0,0,,itsudemo I love you. kimi ni Take ​{\c&HEDD095&}kiss me.
-Dialogue: 0,0:03:24.04,0:03:24.27,Default,,0,0,0,,itsudemo I love you. kimi ni Take ki​{\c&HEDD095&}ss me.
-Dialogue: 0,0:03:24.27,0:03:24.37,Default,,0,0,0,,itsudemo I love you. kimi ni Take kiss ​{\c&HEDD095&}me.
-Dialogue: 0,0:03:24.37,0:03:24.64,Default,,0,0,0,,itsudemo I love you. kimi ni Take kiss me.
-Dialogue: 0,0:03:24.64,0:03:28.41,Default,,0,0,0,,Will the stars grant my wishes for me?​
-Dialogue: 0,0:03:24.64,0:03:24.84,Default,,0,0,0,,o​{\c&HEDD095&}hoshisama ni negaigoto kanaete kuremasu ka
-Dialogue: 0,0:03:24.84,0:03:25.04,Default,,0,0,0,,oho​{\c&HEDD095&}shisama ni negaigoto kanaete kuremasu ka
-Dialogue: 0,0:03:25.04,0:03:25.24,Default,,0,0,0,,ohoshi​{\c&HEDD095&}sama ni negaigoto kanaete kuremasu ka
-Dialogue: 0,0:03:25.24,0:03:25.44,Default,,0,0,0,,ohoshisa​{\c&HEDD095&}ma ni negaigoto kanaete kuremasu ka
-Dialogue: 0,0:03:25.44,0:03:25.64,Default,,0,0,0,,ohoshisama ​{\c&HEDD095&}ni negaigoto kanaete kuremasu ka
-Dialogue: 0,0:03:25.64,0:03:25.81,Default,,0,0,0,,ohoshisama ni ​{\c&HEDD095&}negaigoto kanaete kuremasu ka
-Dialogue: 0,0:03:25.81,0:03:25.94,Default,,0,0,0,,ohoshisama ni ne​{\c&HEDD095&}gaigoto kanaete kuremasu ka
-Dialogue: 0,0:03:25.94,0:03:26.24,Default,,0,0,0,,ohoshisama ni nega​{\c&HEDD095&}igoto kanaete kuremasu ka
-Dialogue: 0,0:03:26.24,0:03:26.44,Default,,0,0,0,,ohoshisama ni negai​{\c&HEDD095&}goto kanaete kuremasu ka
-Dialogue: 0,0:03:26.44,0:03:26.64,Default,,0,0,0,,ohoshisama ni negaigo​{\c&HEDD095&}to kanaete kuremasu ka
-Dialogue: 0,0:03:26.64,0:03:26.81,Default,,0,0,0,,ohoshisama ni negaigoto ​{\c&HEDD095&}kanaete kuremasu ka
-Dialogue: 0,0:03:26.81,0:03:27.04,Default,,0,0,0,,ohoshisama ni negaigoto ka​{\c&HEDD095&}naete kuremasu ka
-Dialogue: 0,0:03:27.04,0:03:27.14,Default,,0,0,0,,ohoshisama ni negaigoto kana​{\c&HEDD095&}ete kuremasu ka
-Dialogue: 0,0:03:27.14,0:03:27.24,Default,,0,0,0,,ohoshisama ni negaigoto kanae​{\c&HEDD095&}te kuremasu ka
-Dialogue: 0,0:03:27.24,0:03:27.44,Default,,0,0,0,,ohoshisama ni negaigoto kanaete ​{\c&HEDD095&}kuremasu ka
-Dialogue: 0,0:03:27.44,0:03:27.74,Default,,0,0,0,,ohoshisama ni negaigoto kanaete ku​{\c&HEDD095&}remasu ka
-Dialogue: 0,0:03:27.74,0:03:27.81,Default,,0,0,0,,ohoshisama ni negaigoto kanaete kure​{\c&HEDD095&}masu ka
-Dialogue: 0,0:03:27.81,0:03:27.94,Default,,0,0,0,,ohoshisama ni negaigoto kanaete kurema​{\c&HEDD095&}su ka
-Dialogue: 0,0:03:27.94,0:03:28.04,Default,,0,0,0,,ohoshisama ni negaigoto kanaete kuremasu ​{\c&HEDD095&}ka
-Dialogue: 0,0:03:28.04,0:03:28.41,Default,,0,0,0,,ohoshisama ni negaigoto kanaete kuremasu ka
-Dialogue: 0,0:03:28.41,0:03:31.65,Default,,0,0,0,,Carry me to the other side of Earth,​
-Dialogue: 0,0:03:28.41,0:03:28.64,Default,,0,0,0,,chi​{\c&HEDD095&}kyuu no uragawa made boku o hakonde
-Dialogue: 0,0:03:28.64,0:03:28.81,Default,,0,0,0,,chikyuu ​{\c&HEDD095&}no uragawa made boku o hakonde
-Dialogue: 0,0:03:28.81,0:03:29.01,Default,,0,0,0,,chikyuu no ​{\c&HEDD095&}uragawa made boku o hakonde
-Dialogue: 0,0:03:29.01,0:03:29.15,Default,,0,0,0,,chikyuu no u​{\c&HEDD095&}ragawa made boku o hakonde
-Dialogue: 0,0:03:29.15,0:03:29.45,Default,,0,0,0,,chikyuu no ura​{\c&HEDD095&}gawa made boku o hakonde
-Dialogue: 0,0:03:29.45,0:03:29.65,Default,,0,0,0,,chikyuu no uraga​{\c&HEDD095&}wa made boku o hakonde
-Dialogue: 0,0:03:29.65,0:03:29.81,Default,,0,0,0,,chikyuu no uragawa ​{\c&HEDD095&}made boku o hakonde
-Dialogue: 0,0:03:29.81,0:03:30.01,Default,,0,0,0,,chikyuu no uragawa ma​{\c&HEDD095&}de boku o hakonde
-Dialogue: 0,0:03:30.01,0:03:30.25,Default,,0,0,0,,chikyuu no uragawa made ​{\c&HEDD095&}boku o hakonde
-Dialogue: 0,0:03:30.25,0:03:30.45,Default,,0,0,0,,chikyuu no uragawa made bo​{\c&HEDD095&}ku o hakonde
-Dialogue: 0,0:03:30.45,0:03:30.61,Default,,0,0,0,,chikyuu no uragawa made boku ​{\c&HEDD095&}o hakonde
-Dialogue: 0,0:03:30.61,0:03:30.75,Default,,0,0,0,,chikyuu no uragawa made boku o ​{\c&HEDD095&}hakonde
-Dialogue: 0,0:03:30.75,0:03:31.05,Default,,0,0,0,,chikyuu no uragawa made boku o ha​{\c&HEDD095&}konde
-Dialogue: 0,0:03:31.05,0:03:31.21,Default,,0,0,0,,chikyuu no uragawa made boku o hako​{\c&HEDD095&}nde
-Dialogue: 0,0:03:31.21,0:03:31.45,Default,,0,0,0,,chikyuu no uragawa made boku o hakon​{\c&HEDD095&}de
-Dialogue: 0,0:03:31.45,0:03:31.65,Default,,0,0,0,,chikyuu no uragawa made boku o hakonde
-Dialogue: 0,0:03:31.65,0:03:35.45,Default,,0,0,0,,and let's go on a search for the most beautiful flower​
-Dialogue: 0,0:03:31.65,0:03:31.85,Default,,0,0,0,,i​{\c&HEDD095&}chiban kireina hana o sagashi ni iku nda
-Dialogue: 0,0:03:31.85,0:03:32.05,Default,,0,0,0,,ichi​{\c&HEDD095&}ban kireina hana o sagashi ni iku nda
-Dialogue: 0,0:03:32.05,0:03:32.25,Default,,0,0,0,,ichiba​{\c&HEDD095&}n kireina hana o sagashi ni iku nda
-Dialogue: 0,0:03:32.25,0:03:32.35,Default,,0,0,0,,ichiban ​{\c&HEDD095&}kireina hana o sagashi ni iku nda
-Dialogue: 0,0:03:32.35,0:03:32.65,Default,,0,0,0,,ichiban ki​{\c&HEDD095&}reina hana o sagashi ni iku nda
-Dialogue: 0,0:03:32.65,0:03:32.85,Default,,0,0,0,,ichiban kire​{\c&HEDD095&}ina hana o sagashi ni iku nda
-Dialogue: 0,0:03:32.85,0:03:33.05,Default,,0,0,0,,ichiban kirei​{\c&HEDD095&}na hana o sagashi ni iku nda
-Dialogue: 0,0:03:33.05,0:03:33.25,Default,,0,0,0,,ichiban kireina ​{\c&HEDD095&}hana o sagashi ni iku nda
-Dialogue: 0,0:03:33.25,0:03:33.38,Default,,0,0,0,,ichiban kireina ha​{\c&HEDD095&}na o sagashi ni iku nda
-Dialogue: 0,0:03:33.38,0:03:33.45,Default,,0,0,0,,ichiban kireina hana ​{\c&HEDD095&}o sagashi ni iku nda
-Dialogue: 0,0:03:33.45,0:03:33.55,Default,,0,0,0,,ichiban kireina hana o ​{\c&HEDD095&}sagashi ni iku nda
-Dialogue: 0,0:03:33.55,0:03:33.65,Default,,0,0,0,,ichiban kireina hana o sa​{\c&HEDD095&}gashi ni iku nda
-Dialogue: 0,0:03:33.65,0:03:33.78,Default,,0,0,0,,ichiban kireina hana o saga​{\c&HEDD095&}shi ni iku nda
-Dialogue: 0,0:03:33.78,0:03:34.25,Default,,0,0,0,,ichiban kireina hana o sagashi ​{\c&HEDD095&}ni iku nda
-Dialogue: 0,0:03:34.25,0:03:34.35,Default,,0,0,0,,ichiban kireina hana o sagashi ni ​{\c&HEDD095&}iku nda
-Dialogue: 0,0:03:34.35,0:03:34.45,Default,,0,0,0,,ichiban kireina hana o sagashi ni i​{\c&HEDD095&}ku nda
-Dialogue: 0,0:03:34.45,0:03:34.65,Default,,0,0,0,,ichiban kireina hana o sagashi ni iku ​{\c&HEDD095&}nda
-Dialogue: 0,0:03:34.65,0:03:34.85,Default,,0,0,0,,ichiban kireina hana o sagashi ni iku n​{\c&HEDD095&}da
-Dialogue: 0,0:03:34.85,0:03:35.45,Default,,0,0,0,,ichiban kireina hana o sagashi ni iku nda
-Dialogue: 0,0:03:35.45,0:03:41.06,Default,,0,0,0,,Your burning passion turns into tears on your cheeks​
-Dialogue: 0,0:03:35.45,0:03:35.55,Default,,0,0,0,,ma​{\c&HEDD095&}da kimi no atsui omoi wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:03:35.55,0:03:35.65,Default,,0,0,0,,mada ​{\c&HEDD095&}kimi no atsui omoi wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:03:35.65,0:03:35.85,Default,,0,0,0,,mada ki​{\c&HEDD095&}mi no atsui omoi wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:03:35.85,0:03:36.05,Default,,0,0,0,,mada kimi ​{\c&HEDD095&}no atsui omoi wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:03:36.05,0:03:36.15,Default,,0,0,0,,mada kimi no ​{\c&HEDD095&}atsui omoi wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:03:36.15,0:03:36.25,Default,,0,0,0,,mada kimi no a​{\c&HEDD095&}tsui omoi wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:03:36.25,0:03:36.39,Default,,0,0,0,,mada kimi no atsu​{\c&HEDD095&}i omoi wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:03:36.39,0:03:36.45,Default,,0,0,0,,mada kimi no atsui ​{\c&HEDD095&}omoi wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:03:36.45,0:03:36.69,Default,,0,0,0,,mada kimi no atsui o​{\c&HEDD095&}moi wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:03:36.69,0:03:36.85,Default,,0,0,0,,mada kimi no atsui omo​{\c&HEDD095&}i wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:03:36.85,0:03:37.05,Default,,0,0,0,,mada kimi no atsui omoi ​{\c&HEDD095&}wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:03:37.05,0:03:37.25,Default,,0,0,0,,mada kimi no atsui omoi wa ​{\c&HEDD095&}omoi wa hoho ni tsutau namida
-Dialogue: 0,0:03:37.25,0:03:37.45,Default,,0,0,0,,mada kimi no atsui omoi wa o​{\c&HEDD095&}moi wa hoho ni tsutau namida
-Dialogue: 0,0:03:37.45,0:03:37.69,Default,,0,0,0,,mada kimi no atsui omoi wa omo​{\c&HEDD095&}i wa hoho ni tsutau namida
-Dialogue: 0,0:03:37.69,0:03:37.85,Default,,0,0,0,,mada kimi no atsui omoi wa omoi ​{\c&HEDD095&}wa hoho ni tsutau namida
-Dialogue: 0,0:03:37.85,0:03:39.05,Default,,0,0,0,,mada kimi no atsui omoi wa omoi wa ​{\c&HEDD095&}hoho ni tsutau namida
-Dialogue: 0,0:03:39.05,0:03:39.26,Default,,0,0,0,,mada kimi no atsui omoi wa omoi wa ho​{\c&HEDD095&}ho ni tsutau namida
-Dialogue: 0,0:03:39.26,0:03:39.46,Default,,0,0,0,,mada kimi no atsui omoi wa omoi wa hoho ​{\c&HEDD095&}ni tsutau namida
-Dialogue: 0,0:03:39.46,0:03:39.66,Default,,0,0,0,,mada kimi no atsui omoi wa omoi wa hoho ni ​{\c&HEDD095&}tsutau namida
-Dialogue: 0,0:03:39.66,0:03:39.86,Default,,0,0,0,,mada kimi no atsui omoi wa omoi wa hoho ni tsu​{\c&HEDD095&}tau namida
-Dialogue: 0,0:03:39.86,0:03:40.06,Default,,0,0,0,,mada kimi no atsui omoi wa omoi wa hoho ni tsuta​{\c&HEDD095&}u namida
-Dialogue: 0,0:03:40.06,0:03:40.26,Default,,0,0,0,,mada kimi no atsui omoi wa omoi wa hoho ni tsutau ​{\c&HEDD095&}namida
-Dialogue: 0,0:03:40.26,0:03:40.56,Default,,0,0,0,,mada kimi no atsui omoi wa omoi wa hoho ni tsutau na​{\c&HEDD095&}mida
-Dialogue: 0,0:03:40.56,0:03:40.66,Default,,0,0,0,,mada kimi no atsui omoi wa omoi wa hoho ni tsutau nami​{\c&HEDD095&}da
-Dialogue: 0,0:03:40.66,0:03:41.06,Default,,0,0,0,,mada kimi no atsui omoi wa omoi wa hoho ni tsutau namida
-Dialogue: 0,0:03:41.06,0:03:43.83,Default,,0,0,0,,I will hold your tear drops in my bosom​
-Dialogue: 0,0:03:41.06,0:03:41.46,Default,,0,0,0,,shi​<c.colorFEFEFE>zuku wa mune ni tsutsunde
-Dialogue: 0,0:03:41.46,0:03:41.56,Default,,0,0,0,,shizu​<c.colorFEFEFE>ku wa mune ni tsutsunde
-Dialogue: 0,0:03:41.56,0:03:41.66,Default,,0,0,0,,shizuku ​<c.colorFEFEFE>wa mune ni tsutsunde
-Dialogue: 0,0:03:41.66,0:03:42.26,Default,,0,0,0,,shizuku wa ​<c.colorFEFEFE>mune ni tsutsunde
-Dialogue: 0,0:03:42.26,0:03:42.46,Default,,0,0,0,,shizuku wa mu​<c.colorFEFEFE>ne ni tsutsunde
-Dialogue: 0,0:03:42.46,0:03:42.63,Default,,0,0,0,,shizuku wa mune ​<c.colorFEFEFE>ni tsutsunde
-Dialogue: 0,0:03:42.63,0:03:42.86,Default,,0,0,0,,shizuku wa mune ni ​<c.colorFEFEFE>tsutsunde
-Dialogue: 0,0:03:42.86,0:03:43.06,Default,,0,0,0,,shizuku wa mune ni tsu​<c.colorFEFEFE>tsunde
-Dialogue: 0,0:03:43.06,0:03:43.26,Default,,0,0,0,,shizuku wa mune ni tsutsu​<c.colorFEFEFE>nde
-Dialogue: 0,0:03:43.26,0:03:43.46,Default,,0,0,0,,shizuku wa mune ni tsutsun​<c.colorFEFEFE>de
+Dialogue: 0,0:02:24.41,0:02:27.65,English - 2,,0,0,0,,{\c&HF6EDE0&}Carry me to the other side of Earth
+Dialogue: 0,0:02:24.41,0:02:24.65,Karaoke,,0,0,0,,{\c&HF6EDE0&}chi{\c&HEDD095&}kyuu no uragawa made boku o hakonde​
+Dialogue: 0,0:02:24.65,0:02:24.81,Karaoke,,0,0,0,,{\c&HF6EDE0&}chikyuu {\c&HEDD095&}no uragawa made boku o hakonde​
+Dialogue: 0,0:02:24.81,0:02:25.01,Karaoke,,0,0,0,,{\c&HF6EDE0&}chikyuu no {\c&HEDD095&}uragawa made boku o hakonde​
+Dialogue: 0,0:02:25.01,0:02:25.15,Karaoke,,0,0,0,,{\c&HF6EDE0&}chikyuu no u{\c&HEDD095&}ragawa made boku o hakonde​
+Dialogue: 0,0:02:25.15,0:02:25.45,Karaoke,,0,0,0,,{\c&HF6EDE0&}chikyuu no ura{\c&HEDD095&}gawa made boku o hakonde​
+Dialogue: 0,0:02:25.45,0:02:25.65,Karaoke,,0,0,0,,{\c&HF6EDE0&}chikyuu no uraga{\c&HEDD095&}wa made boku o hakonde​
+Dialogue: 0,0:02:25.65,0:02:25.82,Karaoke,,0,0,0,,{\c&HF6EDE0&}chikyuu no uragawa {\c&HEDD095&}made boku o hakonde​
+Dialogue: 0,0:02:25.82,0:02:26.02,Karaoke,,0,0,0,,{\c&HF6EDE0&}chikyuu no uragawa ma{\c&HEDD095&}de boku o hakonde​
+Dialogue: 0,0:02:26.02,0:02:26.25,Karaoke,,0,0,0,,{\c&HF6EDE0&}chikyuu no uragawa made {\c&HEDD095&}boku o hakonde​
+Dialogue: 0,0:02:26.25,0:02:26.45,Karaoke,,0,0,0,,{\c&HF6EDE0&}chikyuu no uragawa made bo{\c&HEDD095&}ku o hakonde​
+Dialogue: 0,0:02:26.45,0:02:26.62,Karaoke,,0,0,0,,{\c&HF6EDE0&}chikyuu no uragawa made boku {\c&HEDD095&}o hakonde​
+Dialogue: 0,0:02:26.62,0:02:26.75,Karaoke,,0,0,0,,{\c&HF6EDE0&}chikyuu no uragawa made boku o {\c&HEDD095&}hakonde​
+Dialogue: 0,0:02:26.75,0:02:27.05,Karaoke,,0,0,0,,{\c&HF6EDE0&}chikyuu no uragawa made boku o ha{\c&HEDD095&}konde​
+Dialogue: 0,0:02:27.05,0:02:27.25,Karaoke,,0,0,0,,{\c&HF6EDE0&}chikyuu no uragawa made boku o hako{\c&HEDD095&}nde​
+Dialogue: 0,0:02:27.25,0:02:27.45,Karaoke,,0,0,0,,{\c&HF6EDE0&}chikyuu no uragawa made boku o hakon{\c&HEDD095&}de​
+Dialogue: 0,0:02:27.45,0:02:27.65,Karaoke,,0,0,0,,{\c&HF6EDE0&}chikyuu no uragawa made boku o hakonde​
+Dialogue: 0,0:02:27.65,0:02:31.45,English - 2,,0,0,0,,{\c&HF6EDE0&}and let's go on a search for the most beautiful flower​​
+Dialogue: 0,0:02:27.65,0:02:27.85,Karaoke,,0,0,0,,{\c&HF6EDE0&}i{\c&HEDD095&}chiban kireina hana o sagashi ni iku nda​
+Dialogue: 0,0:02:27.85,0:02:28.05,Karaoke,,0,0,0,,{\c&HF6EDE0&}ichi{\c&HEDD095&}ban kireina hana o sagashi ni iku nda​
+Dialogue: 0,0:02:28.05,0:02:28.25,Karaoke,,0,0,0,,{\c&HF6EDE0&}ichiba{\c&HEDD095&}n kireina hana o sagashi ni iku nda​
+Dialogue: 0,0:02:28.25,0:02:28.35,Karaoke,,0,0,0,,{\c&HF6EDE0&}ichiban {\c&HEDD095&}kireina hana o sagashi ni iku nda​
+Dialogue: 0,0:02:28.35,0:02:28.65,Karaoke,,0,0,0,,{\c&HF6EDE0&}ichiban ki{\c&HEDD095&}reina hana o sagashi ni iku nda​
+Dialogue: 0,0:02:28.65,0:02:28.85,Karaoke,,0,0,0,,{\c&HF6EDE0&}ichiban kire{\c&HEDD095&}ina hana o sagashi ni iku nda​
+Dialogue: 0,0:02:28.85,0:02:29.05,Karaoke,,0,0,0,,{\c&HF6EDE0&}ichiban kirei{\c&HEDD095&}na hana o sagashi ni iku nda​
+Dialogue: 0,0:02:29.05,0:02:29.25,Karaoke,,0,0,0,,{\c&HF6EDE0&}ichiban kireina {\c&HEDD095&}hana o sagashi ni iku nda​
+Dialogue: 0,0:02:29.25,0:02:29.39,Karaoke,,0,0,0,,{\c&HF6EDE0&}ichiban kireina ha{\c&HEDD095&}na o sagashi ni iku nda​
+Dialogue: 0,0:02:29.39,0:02:29.45,Karaoke,,0,0,0,,{\c&HF6EDE0&}ichiban kireina hana {\c&HEDD095&}o sagashi ni iku nda​
+Dialogue: 0,0:02:29.45,0:02:29.55,Karaoke,,0,0,0,,{\c&HF6EDE0&}ichiban kireina hana o {\c&HEDD095&}sagashi ni iku nda​
+Dialogue: 0,0:02:29.55,0:02:29.65,Karaoke,,0,0,0,,{\c&HF6EDE0&}ichiban kireina hana o sa{\c&HEDD095&}gashi ni iku nda​
+Dialogue: 0,0:02:29.65,0:02:29.79,Karaoke,,0,0,0,,{\c&HF6EDE0&}ichiban kireina hana o saga{\c&HEDD095&}shi ni iku nda​
+Dialogue: 0,0:02:29.79,0:02:30.25,Karaoke,,0,0,0,,{\c&HF6EDE0&}ichiban kireina hana o sagashi {\c&HEDD095&}ni iku nda​
+Dialogue: 0,0:02:30.25,0:02:30.35,Karaoke,,0,0,0,,{\c&HF6EDE0&}ichiban kireina hana o sagashi ni {\c&HEDD095&}iku nda​
+Dialogue: 0,0:02:30.35,0:02:30.45,Karaoke,,0,0,0,,{\c&HF6EDE0&}ichiban kireina hana o sagashi ni i{\c&HEDD095&}ku nda​
+Dialogue: 0,0:02:30.45,0:02:30.65,Karaoke,,0,0,0,,{\c&HF6EDE0&}ichiban kireina hana o sagashi ni iku {\c&HEDD095&}nda​a
+Dialogue: 0,0:02:30.65,0:02:30.82,Karaoke,,0,0,0,,{\c&HF6EDE0&}ichiban kireina hana o sagashi ni iku n{\c&HEDD095&}da​
+Dialogue: 0,0:02:30.82,0:02:31.45,Karaoke,,0,0,0,,{\c&HF6EDE0&}ichiban kireina hana o sagashi ni iku nda​
+Dialogue: 0,0:02:31.45,0:02:37.03,English - 2,,0,0,0,,{\c&HA66BEA&}Your burning passion turns into tears on your cheeks​
+Dialogue: 0,0:02:31.45,0:02:31.55,Karaoke,,0,0,0,,{\c&HA66BEA&}ma​{\c&HEDD095&}da kimi no atsui omoi wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:02:31.55,0:02:31.65,Karaoke,,0,0,0,,{\c&HA66BEA&}mada ​{\c&HEDD095&}kimi no atsui omoi wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:02:31.65,0:02:31.85,Karaoke,,0,0,0,,{\c&HA66BEA&}mada ki​{\c&HEDD095&}mi no atsui omoi wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:02:31.85,0:02:32.02,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi ​{\c&HEDD095&}no atsui omoi wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:02:32.02,0:02:32.12,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no ​{\c&HEDD095&}atsui omoi wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:02:32.12,0:02:32.25,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no a​{\c&HEDD095&}tsui omoi wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:02:32.25,0:02:32.35,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsu​{\c&HEDD095&}i omoi wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:02:32.35,0:02:32.49,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsui ​{\c&HEDD095&}omoi wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:02:32.49,0:02:32.66,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsui o​{\c&HEDD095&}moi wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:02:32.66,0:02:32.82,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsui omo​{\c&HEDD095&}i wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:02:32.82,0:02:33.06,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsui omoi ​{\c&HEDD095&}wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:02:33.06,0:02:33.22,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsui omoi wa ​{\c&HEDD095&}omoi wa hoho ni tsutau namida
+Dialogue: 0,0:02:33.22,0:02:33.46,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsui omoi wa o​{\c&HEDD095&}moi wa hoho ni tsutau namida
+Dialogue: 0,0:02:33.46,0:02:33.66,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsui omoi wa omo​{\c&HEDD095&}i wa hoho ni tsutau namida
+Dialogue: 0,0:02:33.66,0:02:33.82,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsui omoi wa omoi ​{\c&HEDD095&}wa hoho ni tsutau namida
+Dialogue: 0,0:02:33.82,0:02:35.06,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsui omoi wa omoi wa ​{\c&HEDD095&}hoho ni tsutau namida
+Dialogue: 0,0:02:35.06,0:02:35.26,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsui omoi wa omoi wa ho​{\c&HEDD095&}ho ni tsutau namida
+Dialogue: 0,0:02:35.26,0:02:35.46,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsui omoi wa omoi wa hoho ​{\c&HEDD095&}ni tsutau namida
+Dialogue: 0,0:02:35.46,0:02:35.66,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsui omoi wa omoi wa hoho ni ​{\c&HEDD095&}tsutau namida
+Dialogue: 0,0:02:35.66,0:02:35.86,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsui omoi wa omoi wa hoho ni tsu​{\c&HEDD095&}tau namida
+Dialogue: 0,0:02:35.86,0:02:36.03,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsui omoi wa omoi wa hoho ni tsuta​{\c&HEDD095&}u namida
+Dialogue: 0,0:02:36.03,0:02:36.26,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsui omoi wa omoi wa hoho ni tsutau ​{\c&HEDD095&}namida
+Dialogue: 0,0:02:36.26,0:02:36.56,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsui omoi wa omoi wa hoho ni tsutau na​{\c&HEDD095&}mida
+Dialogue: 0,0:02:36.56,0:02:36.66,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsui omoi wa omoi wa hoho ni tsutau nami​{\c&HEDD095&}da
+Dialogue: 0,0:02:36.66,0:02:37.03,Karaoke,,0,0,0,,{\c&HA66BEA&}mada kimi no atsui omoi wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:02:37.03,0:02:39.83,English - 2,,0,0,0,,{\c&H956EC2&}I will hold your tear drops in my bosom​
+Dialogue: 0,0:02:37.03,0:02:37.43,Karaoke,,0,0,0,,{\c&H956EC2&}shi​{\c&HEDD095&}zuku wa mune ni tsutsunde
+Dialogue: 0,0:02:37.43,0:02:37.56,Karaoke,,0,0,0,,{\c&H956EC2&}shizu​{\c&HEDD095&}ku wa mune ni tsutsunde
+Dialogue: 0,0:02:37.56,0:02:37.66,Karaoke,,0,0,0,,{\c&H956EC2&}shizuku ​{\c&HEDD095&}wa mune ni tsutsunde
+Dialogue: 0,0:02:37.66,0:02:38.23,Karaoke,,0,0,0,,{\c&H956EC2&}shizuku wa ​{\c&HEDD095&}mune ni tsutsunde
+Dialogue: 0,0:02:38.23,0:02:38.46,Karaoke,,0,0,0,,{\c&H956EC2&}shizuku wa mu​{\c&HEDD095&}ne ni tsutsunde
+Dialogue: 0,0:02:38.46,0:02:38.63,Karaoke,,0,0,0,,{\c&H956EC2&}shizuku wa mune ​{\c&HEDD095&}ni tsutsunde
+Dialogue: 0,0:02:38.63,0:02:38.83,Karaoke,,0,0,0,,{\c&H956EC2&}shizuku wa mune ni ​{\c&HEDD095&}tsutsunde
+Dialogue: 0,0:02:38.83,0:02:39.06,Karaoke,,0,0,0,,{\c&H956EC2&}shizuku wa mune ni tsu​{\c&HEDD095&}tsunde
+Dialogue: 0,0:02:39.06,0:02:39.26,Karaoke,,0,0,0,,{\c&H956EC2&}shizuku wa mune ni tsutsu​{\c&HEDD095&}nde
+Dialogue: 0,0:02:39.26,0:02:39.46,Karaoke,,0,0,0,,{\c&H956EC2&}shizuku wa mune ni tsutsun​{\c&HEDD095&}de
+Dialogue: 0,0:02:39.46,0:02:39.83,Karaoke,,0,0,0,,{\c&H956EC2&}shizuku wa mune ni tsutsunde
+Dialogue: 0,0:02:39.83,0:02:43.03,English - 2,,0,0,0,,{\c&H956EC2&}and send them into the sky​
+Dialogue: 0,0:02:39.83,0:02:40.03,Karaoke,,0,0,0,,{\c&H956EC2&}to​{\c&HEDD095&}dokeru yo sora ni
+Dialogue: 0,0:02:40.03,0:02:40.23,Karaoke,,0,0,0,,{\c&H956EC2&}todo​{\c&HEDD095&}keru yo sora ni
+Dialogue: 0,0:02:40.23,0:02:40.63,Karaoke,,0,0,0,,{\c&H956EC2&}todoke​{\c&HEDD095&}ru yo sora ni
+Dialogue: 0,0:02:40.63,0:02:40.83,Karaoke,,0,0,0,,{\c&H956EC2&}todokeru ​{\c&HEDD095&}yo sora ni
+Dialogue: 0,0:02:40.83,0:02:41.43,Karaoke,,0,0,0,,{\c&H956EC2&}todokeru yo ​{\c&HEDD095&}sora ni
+Dialogue: 0,0:02:41.43,0:02:41.63,Karaoke,,0,0,0,,{\c&H956EC2&}todokeru yo so​{\c&HEDD095&}ra ni
+Dialogue: 0,0:02:41.63,0:02:41.83,Karaoke,,0,0,0,,{\c&H956EC2&}todokeru yo sora ​{\c&HEDD095&}ni
+Dialogue: 0,0:02:41.83,0:02:43.03,Karaoke,,0,0,0,,{\c&H956EC2&}todokeru yo sora ni
+Dialogue: 0,0:02:43.03,0:02:43.66,English - 2,,0,0,0,,{\c&H9593EB&}Ahh
+Dialogue: 0,0:02:43.03,0:02:43.66,Karaoke,,0,0,0,,{\c&H9593EB&}Ahh
+Dialogue: 0,0:02:56.45,0:03:02.85,English - 2,,0,0,0,,{\c&HEBE093&}GojimajiP feat. Kasane Teto - Ochame Kinou\N(covered by hololive) (Subs edit by Keiclicks)
+Dialogue: 0,0:02:56.45,0:03:02.85,Karaoke,,0,0,0,,{\c&HEBE093&}Lyrics, Composition: GojimajiP\NArrange &amp; MIX: kijibato
+Dialogue: 0,0:03:21.47,0:03:24.64,English - 2,,0,0,0,,{\c&H93B8EB&}I love you always. Take me in your arms and kiss me​​
+Dialogue: 0,0:03:21.47,0:03:21.64,Karaoke,,0,0,0,,{\c&H93B8EB&}i​{\c&HEDD095&}tsudemo I love you. kimi ni Take kiss me.
+Dialogue: 0,0:03:21.64,0:03:21.84,Karaoke,,0,0,0,,{\c&H93B8EB&}itsu​{\c&HEDD095&}demo I love you. kimi ni Take kiss me.
+Dialogue: 0,0:03:21.84,0:03:22.04,Karaoke,,0,0,0,,{\c&H93B8EB&}itsude​{\c&HEDD095&}mo I love you. kimi ni Take kiss me.
+Dialogue: 0,0:03:22.04,0:03:22.24,Karaoke,,0,0,0,,{\c&H93B8EB&}itsudemo ​{\c&HEDD095&}I love you. kimi ni Take kiss me.
+Dialogue: 0,0:03:22.24,0:03:22.44,Karaoke,,0,0,0,,{\c&H93B8EB&}itsudemo I​{\c&HEDD095&} love you. kimi ni Take kiss me.
+Dialogue: 0,0:03:22.44,0:03:22.64,Karaoke,,0,0,0,,{\c&H93B8EB&}itsudemo I ​{\c&HEDD095&}love you. kimi ni Take kiss me.
+Dialogue: 0,0:03:22.64,0:03:22.74,Karaoke,,0,0,0,,{\c&H93B8EB&}itsudemo I love ​{\c&HEDD095&}you. kimi ni Take kiss me.
+Dialogue: 0,0:03:22.74,0:03:23.04,Karaoke,,0,0,0,,{\c&H93B8EB&}itsudemo I love you. ​{\c&HEDD095&}kimi ni Take kiss me.
+Dialogue: 0,0:03:23.04,0:03:23.24,Karaoke,,0,0,0,,{\c&H93B8EB&}itsudemo I love you. ki​{\c&HEDD095&}mi ni Take kiss me.
+Dialogue: 0,0:03:23.24,0:03:23.44,Karaoke,,0,0,0,,{\c&H93B8EB&}itsudemo I love you. kimi ​{\c&HEDD095&}ni Take kiss me.
+Dialogue: 0,0:03:23.44,0:03:23.64,Karaoke,,0,0,0,,{\c&H93B8EB&}itsudemo I love you. kimi ni ​{\c&HEDD095&}Take kiss me.
+Dialogue: 0,0:03:23.64,0:03:23.84,Karaoke,,0,0,0,,{\c&H93B8EB&}itsudemo I love you. kimi ni Ta​{\c&HEDD095&}ke kiss me.
+Dialogue: 0,0:03:23.84,0:03:24.04,Karaoke,,0,0,0,,{\c&H93B8EB&}itsudemo I love you. kimi ni Take ​{\c&HEDD095&}kiss me.
+Dialogue: 0,0:03:24.04,0:03:24.27,Karaoke,,0,0,0,,{\c&H93B8EB&}itsudemo I love you. kimi ni Take ki​{\c&HEDD095&}ss me.
+Dialogue: 0,0:03:24.27,0:03:24.37,Karaoke,,0,0,0,,{\c&H93B8EB&}itsudemo I love you. kimi ni Take kiss ​{\c&HEDD095&}me.
+Dialogue: 0,0:03:24.37,0:03:24.64,Karaoke,,0,0,0,,{\c&H93B8EB&}itsudemo I love you. kimi ni Take kiss me.
+Dialogue: 0,0:03:24.64,0:03:28.41,English - 2,,0,0,0,,{\c&H93B8EB&}Will the stars grant my wishes for me?​
+Dialogue: 0,0:03:24.64,0:03:24.84,Karaoke,,0,0,0,,{\c&H93B8EB&}o​{\c&HEDD095&}hoshisama ni negaigoto kanaete kuremasu ka
+Dialogue: 0,0:03:24.84,0:03:25.04,Karaoke,,0,0,0,,{\c&H93B8EB&}oho​{\c&HEDD095&}shisama ni negaigoto kanaete kuremasu ka
+Dialogue: 0,0:03:25.04,0:03:25.24,Karaoke,,0,0,0,,{\c&H93B8EB&}ohoshi​{\c&HEDD095&}sama ni negaigoto kanaete kuremasu ka
+Dialogue: 0,0:03:25.24,0:03:25.44,Karaoke,,0,0,0,,{\c&H93B8EB&}ohoshisa​{\c&HEDD095&}ma ni negaigoto kanaete kuremasu ka
+Dialogue: 0,0:03:25.44,0:03:25.64,Karaoke,,0,0,0,,{\c&H93B8EB&}ohoshisama ​{\c&HEDD095&}ni negaigoto kanaete kuremasu ka
+Dialogue: 0,0:03:25.64,0:03:25.81,Karaoke,,0,0,0,,{\c&H93B8EB&}ohoshisama ni ​{\c&HEDD095&}negaigoto kanaete kuremasu ka
+Dialogue: 0,0:03:25.81,0:03:25.94,Karaoke,,0,0,0,,{\c&H93B8EB&}ohoshisama ni ne​{\c&HEDD095&}gaigoto kanaete kuremasu ka
+Dialogue: 0,0:03:25.94,0:03:26.24,Karaoke,,0,0,0,,{\c&H93B8EB&}ohoshisama ni nega​{\c&HEDD095&}igoto kanaete kuremasu ka
+Dialogue: 0,0:03:26.24,0:03:26.44,Karaoke,,0,0,0,,{\c&H93B8EB&}ohoshisama ni negai​{\c&HEDD095&}goto kanaete kuremasu ka
+Dialogue: 0,0:03:26.44,0:03:26.64,Karaoke,,0,0,0,,{\c&H93B8EB&}ohoshisama ni negaigo​{\c&HEDD095&}to kanaete kuremasu ka
+Dialogue: 0,0:03:26.64,0:03:26.81,Karaoke,,0,0,0,,{\c&H93B8EB&}ohoshisama ni negaigoto ​{\c&HEDD095&}kanaete kuremasu ka
+Dialogue: 0,0:03:26.81,0:03:27.04,Karaoke,,0,0,0,,{\c&H93B8EB&}ohoshisama ni negaigoto ka​{\c&HEDD095&}naete kuremasu ka
+Dialogue: 0,0:03:27.04,0:03:27.14,Karaoke,,0,0,0,,{\c&H93B8EB&}ohoshisama ni negaigoto kana​{\c&HEDD095&}ete kuremasu ka
+Dialogue: 0,0:03:27.14,0:03:27.24,Karaoke,,0,0,0,,{\c&H93B8EB&}ohoshisama ni negaigoto kanae​{\c&HEDD095&}te kuremasu ka
+Dialogue: 0,0:03:27.24,0:03:27.44,Karaoke,,0,0,0,,{\c&H93B8EB&}ohoshisama ni negaigoto kanaete ​{\c&HEDD095&}kuremasu ka
+Dialogue: 0,0:03:27.44,0:03:27.74,Karaoke,,0,0,0,,{\c&H93B8EB&}ohoshisama ni negaigoto kanaete ku​{\c&HEDD095&}remasu ka
+Dialogue: 0,0:03:27.74,0:03:27.81,Karaoke,,0,0,0,,{\c&H93B8EB&}ohoshisama ni negaigoto kanaete kure​{\c&HEDD095&}masu ka
+Dialogue: 0,0:03:27.81,0:03:27.94,Karaoke,,0,0,0,,{\c&H93B8EB&}ohoshisama ni negaigoto kanaete kurema​{\c&HEDD095&}su ka
+Dialogue: 0,0:03:27.94,0:03:28.04,Karaoke,,0,0,0,,{\c&H93B8EB&}ohoshisama ni negaigoto kanaete kuremasu ​{\c&HEDD095&}ka
+Dialogue: 0,0:03:28.04,0:03:28.41,Karaoke,,0,0,0,,{\c&H93B8EB&}ohoshisama ni negaigoto kanaete kuremasu ka
+Dialogue: 0,0:03:28.41,0:03:31.65,English - 2,,0,0,0,,{\c&HCD93EB&}Carry me to the other side of Earth,​
+Dialogue: 0,0:03:28.41,0:03:28.64,Karaoke,,0,0,0,,{\c&HCD93EB&}chi​{\c&HEDD095&}kyuu no uragawa made boku o hakonde
+Dialogue: 0,0:03:28.64,0:03:28.81,Karaoke,,0,0,0,,{\c&HCD93EB&}chikyuu ​{\c&HEDD095&}no uragawa made boku o hakonde
+Dialogue: 0,0:03:28.81,0:03:29.01,Karaoke,,0,0,0,,{\c&HCD93EB&}chikyuu no ​{\c&HEDD095&}uragawa made boku o hakonde
+Dialogue: 0,0:03:29.01,0:03:29.15,Karaoke,,0,0,0,,{\c&HCD93EB&}chikyuu no u​{\c&HEDD095&}ragawa made boku o hakonde
+Dialogue: 0,0:03:29.15,0:03:29.45,Karaoke,,0,0,0,,{\c&HCD93EB&}chikyuu no ura​{\c&HEDD095&}gawa made boku o hakonde
+Dialogue: 0,0:03:29.45,0:03:29.65,Karaoke,,0,0,0,,{\c&HCD93EB&}chikyuu no uraga​{\c&HEDD095&}wa made boku o hakonde
+Dialogue: 0,0:03:29.65,0:03:29.81,Karaoke,,0,0,0,,{\c&HCD93EB&}chikyuu no uragawa ​{\c&HEDD095&}made boku o hakonde
+Dialogue: 0,0:03:29.81,0:03:30.01,Karaoke,,0,0,0,,{\c&HCD93EB&}chikyuu no uragawa ma​{\c&HEDD095&}de boku o hakonde
+Dialogue: 0,0:03:30.01,0:03:30.25,Karaoke,,0,0,0,,{\c&HCD93EB&}chikyuu no uragawa made ​{\c&HEDD095&}boku o hakonde
+Dialogue: 0,0:03:30.25,0:03:30.45,Karaoke,,0,0,0,,{\c&HCD93EB&}chikyuu no uragawa made bo​{\c&HEDD095&}ku o hakonde
+Dialogue: 0,0:03:30.45,0:03:30.61,Karaoke,,0,0,0,,{\c&HCD93EB&}chikyuu no uragawa made boku ​{\c&HEDD095&}o hakonde
+Dialogue: 0,0:03:30.61,0:03:30.75,Karaoke,,0,0,0,,{\c&HCD93EB&}chikyuu no uragawa made boku o ​{\c&HEDD095&}hakonde
+Dialogue: 0,0:03:30.75,0:03:31.05,Karaoke,,0,0,0,,{\c&HCD93EB&}chikyuu no uragawa made boku o ha​{\c&HEDD095&}konde
+Dialogue: 0,0:03:31.05,0:03:31.21,Karaoke,,0,0,0,,{\c&HCD93EB&}chikyuu no uragawa made boku o hako​{\c&HEDD095&}nde
+Dialogue: 0,0:03:31.21,0:03:31.45,Karaoke,,0,0,0,,{\c&HCD93EB&}chikyuu no uragawa made boku o hakon​{\c&HEDD095&}de
+Dialogue: 0,0:03:31.45,0:03:31.65,Karaoke,,0,0,0,,{\c&HCD93EB&}chikyuu no uragawa made boku o hakonde
+Dialogue: 0,0:03:31.65,0:03:35.45,English - 2,,0,0,0,,{\c&HCD93EB&}and let's go on a search for the most beautiful flower​
+Dialogue: 0,0:03:31.65,0:03:31.85,Karaoke,,0,0,0,,{\c&HCD93EB&}i​{\c&HEDD095&}chiban kireina hana o sagashi ni iku nda
+Dialogue: 0,0:03:31.85,0:03:32.05,Karaoke,,0,0,0,,{\c&HCD93EB&}ichi​{\c&HEDD095&}ban kireina hana o sagashi ni iku nda
+Dialogue: 0,0:03:32.05,0:03:32.25,Karaoke,,0,0,0,,{\c&HCD93EB&}ichiba​{\c&HEDD095&}n kireina hana o sagashi ni iku nda
+Dialogue: 0,0:03:32.25,0:03:32.35,Karaoke,,0,0,0,,{\c&HCD93EB&}ichiban ​{\c&HEDD095&}kireina hana o sagashi ni iku nda
+Dialogue: 0,0:03:32.35,0:03:32.65,Karaoke,,0,0,0,,{\c&HCD93EB&}ichiban ki​{\c&HEDD095&}reina hana o sagashi ni iku nda
+Dialogue: 0,0:03:32.65,0:03:32.85,Karaoke,,0,0,0,,{\c&HCD93EB&}ichiban kire​{\c&HEDD095&}ina hana o sagashi ni iku nda
+Dialogue: 0,0:03:32.85,0:03:33.05,Karaoke,,0,0,0,,{\c&HCD93EB&}ichiban kirei​{\c&HEDD095&}na hana o sagashi ni iku nda
+Dialogue: 0,0:03:33.05,0:03:33.25,Karaoke,,0,0,0,,{\c&HCD93EB&}ichiban kireina ​{\c&HEDD095&}hana o sagashi ni iku nda
+Dialogue: 0,0:03:33.25,0:03:33.38,Karaoke,,0,0,0,,{\c&HCD93EB&}ichiban kireina ha​{\c&HEDD095&}na o sagashi ni iku nda
+Dialogue: 0,0:03:33.38,0:03:33.45,Karaoke,,0,0,0,,{\c&HCD93EB&}ichiban kireina hana ​{\c&HEDD095&}o sagashi ni iku nda
+Dialogue: 0,0:03:33.45,0:03:33.55,Karaoke,,0,0,0,,{\c&HCD93EB&}ichiban kireina hana o ​{\c&HEDD095&}sagashi ni iku nda
+Dialogue: 0,0:03:33.55,0:03:33.65,Karaoke,,0,0,0,,{\c&HCD93EB&}ichiban kireina hana o sa​{\c&HEDD095&}gashi ni iku nda
+Dialogue: 0,0:03:33.65,0:03:33.78,Karaoke,,0,0,0,,{\c&HCD93EB&}ichiban kireina hana o saga​{\c&HEDD095&}shi ni iku nda
+Dialogue: 0,0:03:33.78,0:03:34.25,Karaoke,,0,0,0,,{\c&HCD93EB&}ichiban kireina hana o sagashi ​{\c&HEDD095&}ni iku nda
+Dialogue: 0,0:03:34.25,0:03:34.35,Karaoke,,0,0,0,,{\c&HCD93EB&}ichiban kireina hana o sagashi ni ​{\c&HEDD095&}iku nda
+Dialogue: 0,0:03:34.35,0:03:34.45,Karaoke,,0,0,0,,{\c&HCD93EB&}ichiban kireina hana o sagashi ni i​{\c&HEDD095&}ku nda
+Dialogue: 0,0:03:34.45,0:03:34.65,Karaoke,,0,0,0,,{\c&HCD93EB&}ichiban kireina hana o sagashi ni iku ​{\c&HEDD095&}nda
+Dialogue: 0,0:03:34.65,0:03:34.85,Karaoke,,0,0,0,,{\c&HCD93EB&}ichiban kireina hana o sagashi ni iku n​{\c&HEDD095&}da
+Dialogue: 0,0:03:34.85,0:03:35.45,Karaoke,,0,0,0,,{\c&HCD93EB&}ichiban kireina hana o sagashi ni iku nda
+Dialogue: 0,0:03:35.45,0:03:41.06,English - 2,,0,0,0,,Your burning {\c&H93D5EB&}passion turns into tears on your cheeks​
+Dialogue: 0,0:03:35.45,0:03:35.55,Karaoke,,0,0,0,,{\c&H93D5EB&}ma​{\c&HEDD095&}da kimi no atsui omoi wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:03:35.55,0:03:35.65,Karaoke,,0,0,0,,{\c&H93D5EB&}mada ​{\c&HEDD095&}kimi no atsui omoi wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:03:35.65,0:03:35.85,Karaoke,,0,0,0,,{\c&H93D5EB&}mada ki​{\c&HEDD095&}mi no atsui omoi wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:03:35.85,0:03:36.05,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi ​{\c&HEDD095&}no atsui omoi wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:03:36.05,0:03:36.15,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no ​{\c&HEDD095&}atsui omoi wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:03:36.15,0:03:36.25,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no a​{\c&HEDD095&}tsui omoi wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:03:36.25,0:03:36.39,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsu​{\c&HEDD095&}i omoi wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:03:36.39,0:03:36.45,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui ​{\c&HEDD095&}omoi wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:03:36.45,0:03:36.69,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui o​{\c&HEDD095&}moi wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:03:36.69,0:03:36.85,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui omo​{\c&HEDD095&}i wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:03:36.85,0:03:37.05,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui omoi ​{\c&HEDD095&}wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:03:37.05,0:03:37.25,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui omoi wa ​{\c&HEDD095&}omoi wa hoho ni tsutau namida
+Dialogue: 0,0:03:37.25,0:03:37.45,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui omoi wa o​{\c&HEDD095&}moi wa hoho ni tsutau namida
+Dialogue: 0,0:03:37.45,0:03:37.69,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui omoi wa omo​{\c&HEDD095&}i wa hoho ni tsutau namida
+Dialogue: 0,0:03:37.69,0:03:37.85,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui omoi wa omoi ​{\c&HEDD095&}wa hoho ni tsutau namida
+Dialogue: 0,0:03:37.85,0:03:39.05,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui omoi wa omoi wa ​{\c&HEDD095&}hoho ni tsutau namida
+Dialogue: 0,0:03:39.05,0:03:39.26,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui omoi wa omoi wa ho​{\c&HEDD095&}ho ni tsutau namida
+Dialogue: 0,0:03:39.26,0:03:39.46,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui omoi wa omoi wa hoho ​{\c&HEDD095&}ni tsutau namida
+Dialogue: 0,0:03:39.46,0:03:39.66,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui omoi wa omoi wa hoho ni ​{\c&HEDD095&}tsutau namida
+Dialogue: 0,0:03:39.66,0:03:39.86,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui omoi wa omoi wa hoho ni tsu​{\c&HEDD095&}tau namida
+Dialogue: 0,0:03:39.86,0:03:40.06,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui omoi wa omoi wa hoho ni tsuta​{\c&HEDD095&}u namida
+Dialogue: 0,0:03:40.06,0:03:40.26,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui omoi wa omoi wa hoho ni tsutau ​{\c&HEDD095&}namida
+Dialogue: 0,0:03:40.26,0:03:40.56,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui omoi wa omoi wa hoho ni tsutau na​{\c&HEDD095&}mida
+Dialogue: 0,0:03:40.56,0:03:40.66,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui omoi wa omoi wa hoho ni tsutau nami​{\c&HEDD095&}da
+Dialogue: 0,0:03:40.66,0:03:41.06,Karaoke,,0,0,0,,{\c&H93D5EB&}mada kimi no atsui omoi wa omoi wa hoho ni tsutau namida
+Dialogue: 0,0:03:41.06,0:03:43.83,English - 2,,0,0,0,,{\c&HECEBDC&}I will hold your tear drops in my bosom​
+Dialogue: 0,0:03:41.06,0:03:41.46,Default,,0,0,0,,shi​{\c&HEDD095&}zuku wa mune ni tsutsunde
+Dialogue: 0,0:03:41.46,0:03:41.56,Default,,0,0,0,,shizu​{\c&HEDD095&}ku wa mune ni tsutsunde
+Dialogue: 0,0:03:41.56,0:03:41.66,Default,,0,0,0,,shizuku ​{\c&HEDD095&}wa mune ni tsutsunde
+Dialogue: 0,0:03:41.66,0:03:42.26,Default,,0,0,0,,shizuku wa ​{\c&HEDD095&}mune ni tsutsunde
+Dialogue: 0,0:03:42.26,0:03:42.46,Default,,0,0,0,,shizuku wa mu​{\c&HEDD095&}ne ni tsutsunde
+Dialogue: 0,0:03:42.46,0:03:42.63,Default,,0,0,0,,shizuku wa mune ​{\c&HEDD095&}ni tsutsunde
+Dialogue: 0,0:03:42.63,0:03:42.86,Default,,0,0,0,,shizuku wa mune ni ​{\c&HEDD095&}tsutsunde
+Dialogue: 0,0:03:42.86,0:03:43.06,Default,,0,0,0,,shizuku wa mune ni tsu​{\c&HEDD095&}tsunde
+Dialogue: 0,0:03:43.06,0:03:43.26,Default,,0,0,0,,shizuku wa mune ni tsutsu​{\c&HEDD095&}nde
+Dialogue: 0,0:03:43.26,0:03:43.46,Default,,0,0,0,,shizuku wa mune ni tsutsun​{\c&HEDD095&}de
 Dialogue: 0,0:03:43.46,0:03:43.83,Default,,0,0,0,,shizuku wa mune ni tsutsunde
 Dialogue: 0,0:03:43.83,0:03:47.03,Default,,0,0,0,,and send them into the sky​
-Dialogue: 0,0:03:43.83,0:03:44.03,Default,,0,0,0,,to​<c.colorFEFEFE>dokeru yo sora ni
-Dialogue: 0,0:03:44.03,0:03:44.23,Default,,0,0,0,,todo​<c.colorFEFEFE>keru yo sora ni
-Dialogue: 0,0:03:44.23,0:03:44.63,Default,,0,0,0,,todoke​<c.colorFEFEFE>ru yo sora ni
-Dialogue: 0,0:03:44.63,0:03:44.79,Default,,0,0,0,,todokeru ​<c.colorFEFEFE>yo sora ni
-Dialogue: 0,0:03:44.79,0:03:45.43,Default,,0,0,0,,todokeru yo ​<c.colorFEFEFE>sora ni
-Dialogue: 0,0:03:45.43,0:03:45.63,Default,,0,0,0,,todokeru yo so​<c.colorFEFEFE>ra ni
-Dialogue: 0,0:03:45.63,0:03:45.83,Default,,0,0,0,,todokeru yo sora ​<c.colorFEFEFE>ni
+Dialogue: 0,0:03:43.83,0:03:44.03,Default,,0,0,0,,to​{\c&HEDD095&}dokeru yo sora ni
+Dialogue: 0,0:03:44.03,0:03:44.23,Default,,0,0,0,,todo​{\c&HEDD095&}keru yo sora ni
+Dialogue: 0,0:03:44.23,0:03:44.63,Default,,0,0,0,,todoke​{\c&HEDD095&}ru yo sora ni
+Dialogue: 0,0:03:44.63,0:03:44.79,Default,,0,0,0,,todokeru ​{\c&HEDD095&}yo sora ni
+Dialogue: 0,0:03:44.79,0:03:45.43,Default,,0,0,0,,todokeru yo ​{\c&HEDD095&}sora ni
+Dialogue: 0,0:03:45.43,0:03:45.63,Default,,0,0,0,,todokeru yo so​{\c&HEDD095&}ra ni
+Dialogue: 0,0:03:45.63,0:03:45.83,Default,,0,0,0,,todokeru yo sora ​{\c&HEDD095&}ni
 Dialogue: 0,0:03:45.83,0:03:47.03,Default,,0,0,0,,todokeru yo sora ni
 Dialogue: 0,0:03:47.03,0:03:50.27,Default,,0,0,0,,I love you always. Take me in your arms and kiss me​​
 Dialogue: 0,0:03:47.03,0:03:47.23,Default,,0,0,0,,i​{\c&HEDD095&}tsudemo I love you. kimi ni Take kiss me.
