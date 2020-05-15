@@ -9,5 +9,5 @@
 - Kakushigoto Opening - Chiisanahibi - romaji - Synced
 - 【おちゃめ機能】ホロライブが吹っ切れた【24人で歌ってみた】 - Synced
 - ヨルシカ - だから僕は音楽を辞めた (Music Video) - Progress
-
+- 【SorAZ】 暁の車 歌ってみた AZKi & ときのそら - Synced
 
