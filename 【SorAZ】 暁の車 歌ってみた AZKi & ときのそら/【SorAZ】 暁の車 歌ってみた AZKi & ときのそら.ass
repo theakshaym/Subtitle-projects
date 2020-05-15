@@ -1,0 +1,70 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 【SorAZ】 暁の車 歌ってみた AZKi & ときのそら
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.81,0:00:19.26,Default,,0,0,0,,kazesasou kokage ni utsubusete naiteru​
+Dialogue: 0,0:00:09.81,0:00:19.26,Default,,0,0,0,,Shaded by the trees, calling out to the wind, I'm lying face-down crying
+Dialogue: 0,0:00:19.26,0:00:28.66,Default,,0,0,0,,mi mo shiranu watashi wo watashi ga miteita​
+Dialogue: 0,0:00:19.26,0:00:28.66,Default,,0,0,0,,I saw a version of myself I didn't even recognize
+Dialogue: 0,0:00:28.66,0:00:38.07,Default,,0,0,0,,yuku hito no shirabe wo kanaderu gitaara​
+Dialogue: 0,0:00:28.66,0:00:38.07,Default,,0,0,0,,On this guitar I'm playing the melody of someone who's passed on
+Dialogue: 0,0:00:38.07,0:00:46.35,Default,,0,0,0,,konu hito no nageki ni hoshi wa ochite​
+Dialogue: 0,0:00:38.07,0:00:46.35,Default,,0,0,0,,A star falls in the grief of someone who'll never be seen again
+Dialogue: 0,0:00:47.45,0:00:55.73,Default,,0,0,0,,yukanaide, donna ni sakende mo​
+Dialogue: 0,0:00:47.45,0:00:55.73,Default,,0,0,0,,Please don't go, no matter how much you scream,
+Dialogue: 0,0:00:55.73,0:01:06.30,Default,,0,0,0,,orenji no hanabira shizuka ni yureru dake​
+Dialogue: 0,0:00:55.73,0:01:06.30,Default,,0,0,0,,all it will do is quietly stir these orange petals
+Dialogue: 0,0:01:06.30,0:01:14.58,Default,,0,0,0,,yawarakana hitai ni nokosareta​
+Dialogue: 0,0:01:06.30,0:01:14.58,Default,,0,0,0,,Saved on my soft brow,
+Dialogue: 0,0:01:14.58,0:01:20.42,Default,,0,0,0,,te no hira no kioku haruka​
+Dialogue: 0,0:01:14.58,0:01:20.42,Default,,0,0,0,,I send the memories in my palm far away
+Dialogue: 0,0:01:20.42,0:01:32.36,Default,,0,0,0,,tokoshie no sayonara tsuma hiku​
+Dialogue: 0,0:01:20.42,0:01:32.36,Default,,0,0,0,,An eternal farewell as I keep strumming
+Dialogue: 0,0:01:34.06,0:01:35.26,Default,,0,0,0,,"The Wheel of Dawn" - FictionJunction YUUKA​
+Dialogue: 0,0:01:35.26,0:01:36.47,Default,,0,0,0,,Lyrics: Kajiura Yuki​
+Dialogue: 0,0:01:36.47,0:01:37.57,Default,,0,0,0,,Music: Kajiura Yuki​
+Dialogue: 0,0:01:37.57,0:01:38.67,Default,,0,0,0,,Covered by Tokino Sora​
+Dialogue: 0,0:01:38.67,0:01:39.77,Default,,0,0,0,,Covered by AZKi​
+Dialogue: 0,0:01:42.94,0:01:51.51,Default,,0,0,0,,yasashii te ni sugaru kodomo no kokoro wo​
+Dialogue: 0,0:01:42.94,0:01:51.51,Default,,0,0,0,,The heart of a child clinging to a gentle hand
+Dialogue: 0,0:01:51.51,0:02:00.32,Default,,0,0,0,,moesakaru kuruma wa furiharai susumu​
+Dialogue: 0,0:01:51.51,0:02:00.32,Default,,0,0,0,,The blazing wheels cast it off and continue on
+Dialogue: 0,0:02:00.32,0:02:09.07,Default,,0,0,0,,yuku hito no nageki wo kanadete gitaara​
+Dialogue: 0,0:02:00.32,0:02:09.07,Default,,0,0,0,,On this guitar I'm playing the grief of someone who's passed on
+Dialogue: 0,0:02:09.07,0:02:17.31,Default,,0,0,0,,mune no ito hageshiku kakinarashite​
+Dialogue: 0,0:02:09.07,0:02:17.31,Default,,0,0,0,,The strings in my heart being plucked at violently
+Dialogue: 0,0:02:17.31,0:02:25.48,Default,,0,0,0,,aa kanashimi ni somaranai shirosa de​
+Dialogue: 0,0:02:17.31,0:02:25.48,Default,,0,0,0,,In the pure white unstained by sorrow,
+Dialogue: 0,0:02:25.48,0:02:35.16,Default,,0,0,0,,orenji no hanabira yureteta natsu no kage ni​
+Dialogue: 0,0:02:25.48,0:02:35.16,Default,,0,0,0,,the orange petals stirred in a summer shadow
+Dialogue: 0,0:02:35.16,0:02:42.90,Default,,0,0,0,,yawarakana hitai wo nakushite mo​
+Dialogue: 0,0:02:35.16,0:02:42.90,Default,,0,0,0,,Even if my soft brow is lost,
+Dialogue: 0,0:02:42.90,0:02:51.24,Default,,0,0,0,,akaku someta suna haruka koete iku​
+Dialogue: 0,0:02:42.90,0:02:51.24,Default,,0,0,0,,I'll cross over the far off, red-stained sand
+Dialogue: 0,0:02:51.24,0:02:59.75,Default,,0,0,0,,sayonara no rizumu​
+Dialogue: 0,0:02:51.24,0:02:59.75,Default,,0,0,0,,The rhythm of farewell
+Dialogue: 0,0:03:05.75,0:03:14.56,Default,,0,0,0,,omoide wo yakitsukushite susumu daichi ni​
+Dialogue: 0,0:03:05.75,0:03:14.56,Default,,0,0,0,,Branded into my memories, on the ever-turning earth,
+Dialogue: 0,0:03:14.56,0:03:23.57,Default,,0,0,0,,natsukashiku me fuite iku mono ga aru no​
+Dialogue: 0,0:03:14.56,0:03:23.57,Default,,0,0,0,,there is something sprouting in remembrance
+Dialogue: 0,0:03:58.11,0:04:05.85,Default,,0,0,0,,akatsuki no kuruma wo miokutte​
+Dialogue: 0,0:03:58.11,0:04:05.85,Default,,0,0,0,,Sending off the dawn's carriage
+Dialogue: 0,0:04:05.85,0:04:15.62,Default,,0,0,0,,orenji no hanabira yureteru ima mo dokoka​
+Dialogue: 0,0:04:05.85,0:04:15.62,Default,,0,0,0,,Those orange petals are stirring somewhere even now
+Dialogue: 0,0:04:15.62,0:04:23.27,Default,,0,0,0,,itsuka mita yasurakana yoake wo​
+Dialogue: 0,0:04:15.62,0:04:23.27,Default,,0,0,0,,The peaceful daybreak I once saw
+Dialogue: 0,0:04:23.27,0:04:28.60,Default,,0,0,0,,mou ichido te ni suru made​
+Dialogue: 0,0:04:23.27,0:04:28.60,Default,,0,0,0,,Until it is placed in my hands once more,
+Dialogue: 0,0:04:28.60,0:04:36.05,Default,,0,0,0,,kesanaide tomoshibi​
+Dialogue: 0,0:04:28.60,0:04:36.05,Default,,0,0,0,,please don't let the light go out
+Dialogue: 0,0:04:36.05,0:04:44.55,Default,,0,0,0,,kuruma wa mawaru yo​
+Dialogue: 0,0:04:36.05,0:04:44.55,Default,,0,0,0,,The wheels are turning
