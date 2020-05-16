@@ -8,6 +8,5 @@
 - Tabako （たばこ）-  Koresawa　(コレサワ) - romaji & english translation - Synced
 - Kakushigoto Opening - Chiisanahibi - romaji - Synced
 - 【おちゃめ機能】ホロライブが吹っ切れた【24人で歌ってみた】 - Synced
-- ヨルシカ - だから僕は音楽を辞めた (Music Video) - Progress
 - 【SorAZ】 暁の車 歌ってみた AZKi & ときのそら - Synced
-
+- HUNGRY DAYS × BUMP OF CHICKEN 「記念撮影」フルバージョン - romaji - Synced

@@ -10,86 +10,148 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
+Last Style Storage: Kamakura bloody
 Audio File: ../../../Songs/HUNGRY DAYS × BUMP OF CHICKEN 「記念撮影」フルバージョン.mkv
 Video File: ../../../Songs/HUNGRY DAYS × BUMP OF CHICKEN 「記念撮影」フルバージョン.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
+Active Line: 1
+Video Position: 380
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Title,AR PL UMing HK,73,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Romaji,Cantarell,80,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,15,1
+Style: Title - 2,AR PL UMing HK,35,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,0,8,10,10,10,1
+Style: Romaji - Dark,Cantarell,80,&H00391B21,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,15,1
+Style: Romaji - Blue,Cantarell,80,&H00E1DCB3,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,15,1
+Style: Romaji - Skin,Cantarell,80,&H00DCE4EB,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,15,1
+Style: Romaji - YG,Cantarell,80,&H00BCE3D1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,15,1
+Style: Romaji - Aqua,Cantarell,80,&H00E1E7C3,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,15,1
+Style: Romaji - Pink,Cantarell,80,&H00E0BCF9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,15,1
+Style: Board,Chalkboard by Marta van Eck,25,&H84000000,&H000000FF,&HBA000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+Style: Title - Club ,AR PL UMing HK,30,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,0,8,10,10,10,1
+Style: Romaji - Dark Blue,Cantarell,80,&H00E8C4AD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,15,1
+Style: Romaji - Lime,Cantarell,80,&H00D1EBE7,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,15,1
+Style: Romaji - Dark - Credits,Cantarell,45,&H00F3D1D8,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,10,10,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,mokuteki ya riyuu no
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,zawameki kara hamidashita
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,nadzuke you no nai jikan no basho ni
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,kami hikouki mitai ni
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,furafura tobikonde
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,sora no iro ga kawaru no o miteita
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,tooku ni kikoeta
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,tooboe to bureeki
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ippon no koora o hasande suwatta
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,suki na dake shabette
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,suki na dake damatte
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,aimai na merodii issho ni nazotta
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,yaritai koto ga nai
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,wake janai
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,hazu datta to omou kedo
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,omoidasou to shitara egao to
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,tameiki no koto bakari
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,nee kitto
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,maigo no mama demo daijoubu
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,bokura wa doko e demo ikeru to omou
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,kimi wa shitteita
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,boku mo kidzuiteita
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,owaru mahou no naka ni ita koto
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,kinou to nita you na
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,kurikaeshi no futsuu ni
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,sukoshi zutsu kossori
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,jikan kezurareta
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,mabataki no mukou ni
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,iroiro ikutsumo
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,miotoshitari miotoshita furi shitari
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,are hodo chikakute
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,dakedo furenakatta
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,joudan to chinmoku no oku no nanika
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,poketto ni wa kagi to
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,marumeta reshiito to
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,mendou na honne o tsukkonde kakushiteita
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,katamatte matta shattaa
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,renzu no mae de narande
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,totemo tanoshikute
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,zurukute
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,amari ni mabushikatta
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,soshite ima
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,souzou janai mirai ni tatte
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,aikawarazu onaji kega o shita yo
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,tenohira no ue no
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ugokanai keshiki no
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,naka kara bokura ga boku o miteiru
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,mokuteki ya riyuu no
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,zawameki ni kakomarete
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,oboete narete besuto o tsukushite
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,kikoeta ki ga shita
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,tooboe to bureeki
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,aimai na merodii hitori de nazotta
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,kotoba ni naosenai
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,subete o kami hikouki mitai ni
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ano toki futari de
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,mitsumeta renzu no mukou no sekai e
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,nagetan da
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,souzou janai mirai ni tatte
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,boku dake no kinou ga tsumikasanattemo
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,sono kinou no shita no
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,kawaranai keshiki no
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,naka kara koko made tsunagatteiru
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,maigo no mama demo daijoubu
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,bokura wa doko e demo ikeru to omou
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,kimi wa waratteita
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,boku datte sou datta
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,owaru mahou no soto ni mukete
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ima boku ga iru mirai ni
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,mukete
-Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:14.16,0:00:15.80,Title,,0,0,0,,{\pos(966,690)}Kinen Satsuei
+Dialogue: 0,0:00:14.16,0:00:15.80,Romaji - Dark - Credits,,0,0,0,,Subs : Keiclicks
+Dialogue: 0,0:00:32.83,0:00:32.96,Title - 2,,0,0,0,,{\pos(886,348)}L\Nu\Nf\Nf\Ny\N
+Dialogue: 0,0:00:32.91,0:00:32.96,Title - 2,,0,0,0,,{\pos(1042,346)\fs30}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:00:33.41,0:00:34.21,Title - 2,,0,0,0,,{\pos(886,348)}L\Nu\Nf\Nf\Ny\N
+Dialogue: 0,0:00:33.46,0:00:34.21,Title - 2,,0,0,0,,{\pos(1042,346)\fs30}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:00:32.21,0:00:33.95,Romaji - Skin,,0,0,0,,mokuteki ya riyuu no
+Dialogue: 0,0:00:34.15,0:00:35.94,Romaji - Blue,,0,0,0,,zawameki kara hamidashita
+Dialogue: 0,0:00:36.21,0:00:39.81,Romaji - Pink,,0,0,0,,nadzuke you no nai jikan no basho ni
+Dialogue: 0,0:00:40.16,0:00:41.93,Romaji - Skin,,0,0,0,,kami hikouki mitai ni
+Dialogue: 0,0:00:41.94,0:00:43.94,Romaji - Aqua,,0,0,0,,furafura tobikonde
+Dialogue: 0,0:00:42.91,0:00:43.59,Title - 2,,0,0,0,,{\pos(886,348)}Z\No\Nr\No
+Dialogue: 0,0:00:42.91,0:00:43.59,Title - 2,,0,0,0,,{\pos(1042,346)\fs30}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:00:44.04,0:00:48.03,Romaji - Aqua,,0,0,0,,sora no iro ga kawaru no o miteita
+Dialogue: 0,0:00:56.16,0:00:57.00,Romaji - YG,,0,0,0,,tooku ni kikoeta
+Dialogue: 0,0:00:57.00,0:00:57.58,Title - 2,,0,0,0,,{\pos(886,348)}U\Ns\No\Np\Np\N
+Dialogue: 0,0:00:57.00,0:00:57.58,Title - 2,,0,0,0,,{\pos(1042,346)\fs30}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:00:57.00,0:00:58.06,Romaji,,0,0,0,,tooku ni kikoeta
+Dialogue: 0,0:00:58.16,0:00:58.70,Romaji,,0,0,0,,tooboe to bureeki
+Dialogue: 0,0:00:58.70,0:00:59.78,Romaji - Dark Blue,,0,0,0,,tooboe to bureeki
+Dialogue: 0,0:01:00.10,0:01:03.98,Romaji - YG,,0,0,0,,ippon no koora o hasande suwatta
+Dialogue: 0,0:01:04.12,0:01:06.08,Romaji - YG,,0,0,0,,suki na dake shabette
+Dialogue: 0,0:01:06.13,0:01:06.25,Romaji,,0,0,0,,suki na dake damatte
+Dialogue: 0,0:01:06.25,0:01:06.92,Romaji - Dark,,0,0,0,,suki na dake damatte
+Dialogue: 0,0:01:06.92,0:01:07.12,Romaji - Lime,,0,0,0,,suki na dake damatte
+Dialogue: 0,0:01:07.12,0:01:07.37,Romaji - Dark,,0,0,0,,suki na dake damatte
+Dialogue: 0,0:01:07.37,0:01:07.97,Romaji - Lime,,0,0,0,,suki na dake damatte
+Dialogue: 0,0:01:08.19,0:01:11.21,Romaji - Blue,,0,0,0,,aimai na merodii issho ni nazotta
+Dialogue: 0,0:01:11.65,0:01:13.91,Romaji - Pink,,0,0,0,,yaritai koto ga nai
+Dialogue: 0,0:01:11.95,0:01:12.71,Title - 2,,0,0,0,,{\pos(886,348)}N\Na\Nm\Ni
+Dialogue: 0,0:01:11.95,0:01:12.71,Title - 2,,0,0,0,,{\pos(1042,346)\fs30}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:01:13.95,0:01:15.39,Romaji - Blue,,0,0,0,,wake janai
+Dialogue: 0,0:01:15.39,0:01:17.94,Romaji - Aqua,,0,0,0,,hazu datta to omou kedo
+Dialogue: 0,0:01:19.70,0:01:23.19,Romaji - Aqua,,0,0,0,,omoidasou to shitara egao to
+Dialogue: 0,0:01:23.25,0:01:26.06,Romaji - Blue,,0,0,0,,tameiki no koto bakari
+Dialogue: 0,0:01:26.71,0:01:27.81,Romaji - Skin,,0,0,0,,nee kitto
+Dialogue: 0,0:01:27.81,0:01:30.83,Romaji - Dark,,0,0,0,,maigo no mama demo daijoubu
+Dialogue: 0,0:01:30.83,0:01:31.26,Romaji - Pink,,0,0,0,,maigo no mama demo daijoubu
+Dialogue: 0,0:01:31.44,0:01:32.87,Romaji - Dark,,0,0,0,,bokura wa doko e demo ikeru to omou
+Dialogue: 0,0:01:32.87,0:01:35.14,Romaji - Skin,,0,0,0,,bokura wa doko e demo ikeru to omou
+Dialogue: 0,0:01:35.40,0:01:37.17,Romaji - Skin,,0,0,0,,kimi wa shitteita
+Dialogue: 0,0:01:37.28,0:01:38.37,Romaji - Skin,,0,0,0,,boku mo kidzuiteita
+Dialogue: 0,0:01:38.37,0:01:39.21,Romaji - Dark,,0,0,0,,boku mo kidzuiteita
+Dialogue: 0,0:01:39.32,0:01:40.91,Romaji - Dark,,0,0,0,,owaru mahou no naka ni ita koto
+Dialogue: 0,0:01:40.91,0:01:43.24,Romaji - Skin,,0,0,0,,owaru mahou no naka ni ita koto
+Dialogue: 0,0:01:52.20,0:01:53.94,Romaji - Skin,,0,0,0,,kinou to nita you na
+Dialogue: 0,0:01:53.96,0:01:56.09,Romaji,,0,0,0,,kurikaeshi no futsuu ni
+Dialogue: 0,0:01:55.08,0:01:55.75,Title - 2,,0,0,0,,{\pos(886,348)}S\Na\Nn\Nj\Ni
+Dialogue: 0,0:01:55.08,0:01:55.75,Title - 2,,0,0,0,,{\pos(1042,346)\fs30}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:01:56.15,0:01:57.67,Romaji - Pink,,0,0,0,,sukoshi zutsu kossori
+Dialogue: 0,0:01:57.67,0:01:59.84,Romaji - Aqua,,0,0,0,,jikan kezurareta
+Dialogue: 0,0:02:00.07,0:02:02.08,Romaji - YG,,0,0,0,,mabataki no mukou ni
+Dialogue: 0,0:02:02.19,0:02:04.06,Romaji - Skin,,0,0,0,,iroiro ikutsumo
+Dialogue: 0,0:02:03.20,0:02:03.59,Title - 2,,0,0,0,,{\pos(886,348)}C\Nh\No\Np\Np\Ne\Nr
+Dialogue: 0,0:02:03.70,0:02:04.17,Title - 2,,0,0,0,,{\pos(886,348)}C\Nh\No\Np\Np\Ne\Nr
+Dialogue: 0,0:02:03.20,0:02:03.59,Title - 2,,0,0,0,,{\pos(1042,346)\fs30}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:02:03.70,0:02:04.17,Title - 2,,0,0,0,,{\pos(1042,346)\fs30}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:02:04.13,0:02:08.02,Romaji - Skin,,0,0,0,,miotoshitari miotoshita furi shitari
+Dialogue: 0,0:02:08.18,0:02:10.12,Romaji - Blue,,0,0,0,,are hodo chikakute
+Dialogue: 0,0:02:10.04,0:02:11.05,Title - 2,,0,0,0,,{\pos(886,348)}R\No\Nb\Ni\Nn
+Dialogue: 0,0:02:10.04,0:02:11.05,Title - 2,,0,0,0,,{\pos(1042,346)\fs30}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:02:10.12,0:02:12.06,Romaji - Pink,,0,0,0,,dakedo furenakatta
+Dialogue: 0,0:02:11.66,0:02:12.25,Board,,0,0,0,,{\pos(846,194)}R\No\Nb\Ni\Nn
+Dialogue: 0,0:02:11.66,0:02:12.25,Board,,0,0,0,,{\pos(1032,162)}T\Nr\Na\Nn\Ns\Nf\Ne\Nr\N
+Dialogue: 0,0:02:11.66,0:02:12.25,Board,,0,0,0,,{\pos(1076,172)}S\Nt\Nu\Nd\Ne\Nn\Nt
+Dialogue: 0,0:02:12.06,0:02:15.93,Romaji - YG,,0,0,0,,joudan to chinmoku no oku no nanika
+Dialogue: 0,0:02:16.34,0:02:18.13,Romaji - YG,,0,0,0,,poketto ni wa kagi to
+Dialogue: 0,0:02:18.13,0:02:19.95,Romaji - Aqua,,0,0,0,,marumeta reshiito to
+Dialogue: 0,0:02:18.13,0:02:18.71,Title - 2,,0,0,0,,{\pos(886,348)}F\Nr\Na\Nn\Nk\Ny
+Dialogue: 0,0:02:18.13,0:02:18.71,Title - 2,,0,0,0,,{\pos(1042,346)\fs30}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:02:20.11,0:02:23.21,Romaji - Blue,,0,0,0,,mendou na honne o tsukkonde kakushiteita
+Dialogue: 0,0:02:23.59,0:02:27.18,Romaji - YG,,0,0,0,,katamatte matta shattaa
+Dialogue: 0,0:02:25.29,0:02:26.13,Title - 2,,0,0,0,,{\pos(886,348)}B\Nr\No\No\Nk
+Dialogue: 0,0:02:25.29,0:02:26.13,Title - 2,,0,0,0,,{\pos(1042,346)\fs30}18  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:02:27.18,0:02:29.33,Romaji - Dark,,0,0,0,,renzu no mae de narande
+Dialogue: 0,0:02:27.95,0:02:28.01,Title - Club ,,0,0,0,,{\frz32.23\pos(238,478)}O\Nr\Nc\Nh\Ne\Ns\Nt\Nr\Na\N \Nc\Nl\Nu\Nb\N
+Dialogue: 0,0:02:28.02,0:02:28.09,Title - Club ,,0,0,0,,{\pos(308,406)\frz11.2}O\Nr\Nc\Nh\Ne\Ns\Nt\Nr\Na\N \Nc\Nl\Nu\Nb\N
+Dialogue: 0,0:02:28.12,0:02:28.17,Title - Club ,,0,0,0,,{\pos(378,352)\frz1.308}O\Nr\Nc\Nh\Ne\Ns\Nt\Nr\Na\N \Nc\Nl\Nu\Nb\N
+Dialogue: 0,0:02:28.20,0:02:28.26,Title - Club ,,0,0,0,,{\pos(386,342)\frz0.1935}O\Nr\Nc\Nh\Ne\Ns\Nt\Nr\Na\N \Nc\Nl\Nu\Nb\N
+Dialogue: 0,0:02:28.29,0:02:28.34,Title - Club ,,0,0,0,,{\pos(408,338)\frz357.7}O\Nr\Nc\Nh\Ne\Ns\Nt\Nr\Na\N \Nc\Nl\Nu\Nb\N
+Dialogue: 0,0:02:28.34,0:02:28.41,Title - Club ,,0,0,0,,{\frz356.4\pos(422,334)}O\Nr\Nc\Nh\Ne\Ns\Nt\Nr\Na\N \Nc\Nl\Nu\Nb\N
+Dialogue: 0,0:02:29.33,0:02:30.08,Romaji - Blue,,0,0,0,,renzu no mae de narande
+Dialogue: 0,0:02:31.69,0:02:33.83,Romaji - Aqua,,0,0,0,,totemo tanoshikute
+Dialogue: 0,0:02:34.14,0:02:35.37,Romaji - Skin,,0,0,0,,zurukute
+Dialogue: 0,0:02:35.41,0:02:38.08,Romaji - Aqua,,0,0,0,,amari ni mabushikatta
+Dialogue: 0,0:02:38.15,0:02:38.75,Romaji - Aqua,,0,0,0,,soshite ima
+Dialogue: 0,0:02:38.75,0:02:39.87,Romaji - Dark,,0,0,0,,soshite ima
+Dialogue: 0,0:02:39.87,0:02:40.00,Romaji - Dark,,0,0,0,,souzou janai mirai ni tatte
+Dialogue: 0,0:02:40.00,0:02:43.20,Romaji - Skin,,0,0,0,,souzou janai mirai ni tatte
+Dialogue: 0,0:02:43.38,0:02:47.22,Romaji - Aqua,,0,0,0,,aikawarazu onaji kega o shita yo
+Dialogue: 0,0:02:47.43,0:02:49.22,Romaji - Skin,,0,0,0,,tenohira no ue no
+Dialogue: 0,0:02:49.38,0:02:51.22,Romaji - Skin,,0,0,0,,ugokanai keshiki no
+Dialogue: 0,0:02:51.22,0:02:55.22,Romaji - Skin,,0,0,0,,naka kara bokura ga boku o miteiru
+Dialogue: 0,0:03:28.22,0:03:29.95,Romaji - Blue,,0,0,0,,mokuteki ya riyuu no
+Dialogue: 0,0:03:30.07,0:03:31.98,Romaji - Skin,,0,0,0,,zawameki ni kakomarete
+Dialogue: 0,0:03:32.19,0:03:35.79,Romaji - Aqua,,0,0,0,,oboete narete besuto o tsukushite
+Dialogue: 0,0:03:36.10,0:03:38.01,Romaji - Skin,,0,0,0,,kikoeta ki ga shita
+Dialogue: 0,0:03:38.17,0:03:40.19,Romaji - Blue,,0,0,0,,tooboe to bureeki
+Dialogue: 0,0:03:40.19,0:03:43.18,Romaji - Aqua,,0,0,0,,aimai na merodii hitori de nazotta
+Dialogue: 0,0:03:43.69,0:03:45.94,Romaji - Pink,,0,0,0,,kotoba ni naosenai
+Dialogue: 0,0:03:45.94,0:03:49.82,Romaji - Pink,,0,0,0,,subete o kami hikouki mitai ni
+Dialogue: 0,0:03:51.73,0:03:53.82,Romaji - Skin,,0,0,0,,ano toki futari de
+Dialogue: 0,0:03:54.18,0:03:58.09,Romaji - Pink,,0,0,0,,mitsumeta renzu no mukou no sekai e
+Dialogue: 0,0:04:00.68,0:04:01.82,Romaji - Blue,,0,0,0,,nagetan da
+Dialogue: 0,0:04:01.82,0:04:05.08,Romaji - Pink,,0,0,0,,souzou janai mirai ni tatte
+Dialogue: 0,0:04:05.40,0:04:09.30,Romaji - Skin,,0,0,0,,boku dake no kinou ga tsumikasanattemo
+Dialogue: 0,0:04:09.40,0:04:11.20,Romaji - Skin,,0,0,0,,sono kinou no shita no
+Dialogue: 0,0:04:11.38,0:04:12.97,Romaji - Skin,,0,0,0,,kawaranai keshiki no
+Dialogue: 0,0:04:13.14,0:04:17.01,Romaji - Skin,,0,0,0,,naka kara koko made tsunagatteiru
+Dialogue: 0,0:04:17.90,0:04:21.17,Romaji - Skin,,0,0,0,,maigo no mama demo daijoubu
+Dialogue: 0,0:04:21.33,0:04:25.10,Romaji - Skin,,0,0,0,,bokura wa doko e demo ikeru to omou
+Dialogue: 0,0:04:25.44,0:04:27.24,Romaji - Pink,,0,0,0,,kimi wa waratteita
+Dialogue: 0,0:04:27.42,0:04:29.39,Romaji - Skin,,0,0,0,,boku datte sou datta
+Dialogue: 0,0:04:29.39,0:04:33.07,Romaji - YG,,0,0,0,,owaru mahou no soto ni mukete
+Dialogue: 0,0:04:33.19,0:04:36.71,Romaji - Aqua,,0,0,0,,ima boku ga iru mirai ni
+Dialogue: 0,0:04:37.19,0:04:38.36,Romaji - Pink,,0,0,0,,mukete
