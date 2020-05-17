@@ -11,14 +11,13 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Kamakura bloody
-Audio File: ../../../Songs/HUNGRY DAYS × BUMP OF CHICKEN 「記念撮影」フルバージョン .mkv
-Video File: ../../../Songs/HUNGRY DAYS × BUMP OF CHICKEN 「記念撮影」フルバージョン .mkv
+Audio File: ../../../mnt/Files/Songs/HUNGRY DAYS × BUMP OF CHICKEN 「記念撮影」フルバージョン .mkv
+Video File: ../../../mnt/Files/Songs/HUNGRY DAYS × BUMP OF CHICKEN 「記念撮影」フルバージョン .mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 102
-Active Line: 113
-Video Position: 6711
+Active Line: 1
+Video Position: 340
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,20 +42,51 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:14.16,0:00:15.80,Title,,0,0,0,,{\pos(966,690)}Kinen Satsuei
 Dialogue: 0,0:00:14.16,0:00:15.80,Romaji - Dark - Credits,,0,0,0,,Subs : Keiclicks
 Dialogue: 0,0:00:32.83,0:00:32.96,Title - 2,,0,0,0,,{\pos(886,348)}L\Nu\Nf\Nf\Ny\N
+Dialogue: 0,0:00:33.14,0:00:33.22,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1020 594 l 1040 618 1062 642 1074 660 1056 690 1016 712 970 658 970 532)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
 Dialogue: 0,0:00:32.91,0:00:32.96,Title - 2,,0,0,0,,{\pos(1042,346)\fs30}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
 Dialogue: 0,0:00:33.41,0:00:34.21,Title - 2,,0,0,0,,{\pos(886,348)}L\Nu\Nf\Nf\Ny\N
 Dialogue: 0,0:00:33.46,0:00:34.21,Title - 2,,0,0,0,,{\pos(1042,346)\fs30}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:00:32.97,0:00:33.06,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 982 450 l 796 356 844 260 1022 292)}L\Nu\Nf\Nf\Ny
+Dialogue: 0,0:00:32.97,0:00:33.06,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1020 454 l 1046 496 1066 516 1074 534 1086 550 1076 302 1038 318 1006 328)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:00:33.39,0:00:33.47,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1012 544 l 1110 552 1106 322 1002 324)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
 Dialogue: 0,0:00:32.21,0:00:34.02,Romaji - Skin,,0,0,0,,mokuteki ya riyuu no
 Dialogue: 0,0:00:34.02,0:00:36.04,Romaji - Blue,,0,0,0,,zawameki kara hamidashita
 Dialogue: 0,0:00:36.04,0:00:39.81,Romaji - Pink,,0,0,0,,nadzuke you no nai jikan no basho ni
 Dialogue: 0,0:00:40.16,0:00:41.93,Romaji - Skin,,0,0,0,,kami hikouki mitai ni
 Dialogue: 0,0:00:41.94,0:00:43.94,Romaji - Aqua,,0,0,0,,furafura tobikonde
+Dialogue: 0,0:00:42.77,0:00:42.81,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1016 440 l 1030 438 1056 424 1066 414 1082 392 1082 458 1084 508 1090 576 1090 628 1108 658 1090 650 1076 644 1062 640 1046 636 1036 634 1026 628 1016 626)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:00:42.81,0:00:42.89,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 856 400 l 876 408 894 410 916 412 926 390 926 360 918 338 892 320 864 308 842 398)}Z\No\Nr\No
+Dialogue: 0,0:00:42.81,0:00:42.89,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1004 324 l 1050 326 1084 326 1086 500 1072 498 1052 490 1040 482 1026 472 1014 468)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
 Dialogue: 0,0:00:42.91,0:00:43.59,Title - 2,,0,0,0,,{\pos(886,348)}Z\No\Nr\No
 Dialogue: 0,0:00:42.91,0:00:43.59,Title - 2,,0,0,0,,{\pos(1042,346)\fs30}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
 Dialogue: 0,0:00:44.04,0:00:48.03,Romaji - Aqua,,0,0,0,,sora no iro ga kawaru no o miteita
 Dialogue: 0,0:00:56.16,0:00:57.00,Romaji - YG,,0,0,0,,tooku ni kikoeta
-Dialogue: 0,0:00:57.00,0:00:57.58,Title - 2,,0,0,0,,{\pos(886,348)}U\Ns\No\Np\Np\N
-Dialogue: 0,0:00:57.00,0:00:57.58,Title - 2,,0,0,0,,{\pos(1042,346)\fs30}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:00:57.00,0:00:57.60,Title - 2,,0,0,0,,{\pos(886,348)}U\Ns\No\Np\Np\N
+Dialogue: 0,0:00:57.00,0:00:57.60,Title - 2,,0,0,0,,{\pos(1042,346)\fs30}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:00:57.60,0:00:57.68,Title - 2,,0,0,0,,{\pos(886,348)}U\Ns\No\Np\Np\N
+Dialogue: 0,0:00:57.68,0:00:57.77,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 864 384 l 876 382 888 382 914 382 922 396 924 436 924 472 910 486 900 494 894 508 886 522 886 534 880 546 864 548)}U\Ns\No\Np\Np\N
+Dialogue: 0,0:00:57.77,0:00:57.85,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 876 440 l 880 432 890 422 904 414 906 406 906 374 904 328 890 322 878 316 868 310)}U\Ns\No\Np\Np\N
+Dialogue: 0,0:00:57.77,0:00:57.85,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 890 454 l 882 464 874 480 868 500 864 520 876 540 892 550 906 554 916 552 930 546 934 536 944 522)}U\Ns\No\Np\Np\N
+Dialogue: 0,0:00:57.85,0:00:57.93,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 876 414 l 880 402 892 384 902 370 894 354 878 344 864 336 858 328)}U\Ns\No\Np\Np\N
+Dialogue: 0,0:00:57.85,0:00:57.93,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 898 400 l 882 418 874 438 872 454 870 474 870 498 866 524 868 554 886 570 898 574 920 570)}U\Ns\No\Np\Np\N
+Dialogue: 0,0:00:57.93,0:00:58.02,Title - 2,,0,0,0,,{\pos(886,348)}U\Ns\No\Np\Np\N
+Dialogue: 0,0:00:57.93,0:00:58.02,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1004 406 l 1016 396 1024 388 1036 378 1044 368 1056 360 1064 352 1080 388 1094 416 1112 476 1134 530 1146 554 1134 566 1126 576 1118 584 1108 594 1096 602 1090 608 1082 608 1072 618 1062 618 1046 628 1028 632 1018 634)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:00:58.02,0:00:58.10,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 864 508 l 876 504 894 496 912 492 920 436 912 370 896 314 850 328)}U\Ns\No\Np\Np\N
+Dialogue: 0,0:00:58.02,0:00:58.10,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1026 444 l 1040 440 1052 436 1068 426 1082 384 1066 342 1050 324 1032 322 1012 326)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:00:58.02,0:00:58.10,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1024 464 l 1044 460 1058 452 1068 444 1078 488 1080 520 1062 520 1042 528 1026 532 1010 538)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:00:58.02,0:00:58.10,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1018 554 l 1032 554 1042 550 1058 542 1076 582 1078 654 1054 690 1036 692 1024 692)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:00:58.10,0:00:58.60,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 864 470 l 878 472 894 472 906 470 908 336 866 334)}U\Ns\No\Np\Np\N
+Dialogue: 0,0:00:58.10,0:00:58.60,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 866 486 l 892 488 904 494 906 518 890 568 862 568)}U\Ns\No\Np\Np\N
+Dialogue: 0,0:00:58.10,0:00:58.60,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1028 466 l 1042 466 1056 468 1082 412 1068 318 1058 304 1004 312)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:00:58.10,0:00:58.60,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1018 490 l 1040 484 1062 486 1078 536 1100 622 1076 696 1030 706 996 686)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:00:58.60,0:00:58.68,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 864 482 l 878 488 888 490 904 490 930 438 918 366 898 314 846 312)}U\Ns\No\Np\Np\N
+Dialogue: 0,0:00:58.60,0:00:58.68,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 862 494 l 892 494 922 502 920 524 894 560 866 580)}U\Ns\No\Np\Np\N
+Dialogue: 0,0:00:58.60,0:00:58.68,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1028 488 l 1046 488 1062 488 1072 364 1042 278 1014 282)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:00:58.60,0:00:58.68,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1030 492 l 1046 492 1058 494 1080 516 1084 574 1078 648 1050 682 1022 706 990 706)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:00:57.85,0:00:57.93,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1014 490 l 1028 502 1042 516 1058 530 1070 554 1084 580 1086 610 1068 600 1056 604 1048 608 1034 616 1034 628 1016 632)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:00:57.77,0:00:57.85,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1024 394 l 1034 404 1040 406 1048 406 1060 416 1072 432 1080 446 1080 464 1072 482 1054 462 1036 442 1028 434 1018 426)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:00:57.68,0:00:57.77,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1026 438 l 1046 454 1060 466 1074 482 1082 494 1082 524 1060 510 1044 504 1030 496 1022 486)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:00:57.60,0:00:57.68,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1030 468 l 1042 474 1056 480 1068 470 1078 408 1072 366 1058 328 1028 328 1018 326 1014 468)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
 Dialogue: 0,0:00:57.00,0:00:58.09,Romaji,,0,0,0,,tooku ni kikoeta
 Dialogue: 0,0:00:58.09,0:00:58.70,Romaji,,0,0,0,,tooboe to bureeki
 Dialogue: 0,0:00:58.70,0:00:59.78,Romaji - Dark Blue,,0,0,0,,tooboe to bureeki
@@ -87,24 +117,75 @@ Dialogue: 0,0:01:39.25,0:01:40.91,Romaji - Dark,,0,0,0,,owaru mahou no naka ni i
 Dialogue: 0,0:01:40.91,0:01:43.24,Romaji - Skin,,0,0,0,,owaru mahou no naka ni ita koto
 Dialogue: 0,0:01:52.20,0:01:53.95,Romaji - Skin,,0,0,0,,kinou to nita you na
 Dialogue: 0,0:01:53.95,0:01:56.09,Romaji,,0,0,0,,kurikaeshi no futsuu ni
-Dialogue: 0,0:01:55.08,0:01:55.75,Title - 2,,0,0,0,,{\pos(886,348)}S\Na\Nn\Nj\Ni
-Dialogue: 0,0:01:55.08,0:01:55.75,Title - 2,,0,0,0,,{\pos(1042,346)\fs30}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:01:54.56,0:01:54.64,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 856 458 l 874 476 886 490 910 502 918 484 922 468 924 454)\c&H000000&\1a&H9E&}S\Na\Nn\Nj\Ni
+Dialogue: 0,0:01:54.64,0:01:54.72,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 858 452 l 878 440 902 428 918 420 918 480 920 500 904 514 880 526 864 534)\c&H000000&\1a&H6D&}S\Na\Nn\Nj\Ni
+Dialogue: 0,0:01:54.64,0:01:54.72,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 986 520 l 1090 518 1092 568 1092 570 1084 580 1044 602 1050 600 1006 614 986 624)\c&H000000&\1a&H91&}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:01:54.81,0:01:54.89,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1004 586 l 1060 572 1086 580 1088 602 1088 626 1076 640 1062 646 1038 650 1010 648)\c&H000000&\1a&H78&}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:01:54.81,0:01:54.89,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\c&H000000&\1a&H89&\clip(m 1018 344 l 1046 364 1056 374 1072 364 1074 334 1046 330)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:01:54.89,0:01:54.97,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 846 430 l 920 386 922 348 894 338 848 342)\c&H000000&\1a&H6F&}S\Na\Nn\Nj\Ni
+Dialogue: 0,0:01:54.97,0:01:55.06,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 874 384 l 894 386 916 370 916 318 856 322)\c&H000000&\1a&H43&}S\Na\Nn\Nj\Ni
+Dialogue: 0,0:01:54.97,0:01:55.06,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1014 534 l 1056 526 1058 504 1044 518 1032 518)\c&H000000&\1a&H6C&}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:01:54.97,0:01:55.06,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 988 620 l 1018 610 1044 596 1066 588 1082 602 1076 624 1056 640 1050 650 1036 664)\c&H000000&\1a&H71&}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:01:55.08,0:01:55.77,Title - 2,,0,0,0,,{\pos(886,348)}S\Na\Nn\Nj\Ni
+Dialogue: 0,0:01:55.08,0:01:55.77,Title - 2,,0,0,0,,{\pos(1042,346)\fs30}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
 Dialogue: 0,0:01:56.10,0:01:57.67,Romaji - Pink,,0,0,0,,sukoshi zutsu kossori
 Dialogue: 0,0:01:57.67,0:01:59.84,Romaji - Aqua,,0,0,0,,jikan kezurareta
 Dialogue: 0,0:02:00.07,0:02:02.11,Romaji - YG,,0,0,0,,mabataki no mukou ni
 Dialogue: 0,0:02:02.11,0:02:04.06,Romaji - Skin,,0,0,0,,iroiro ikutsumo
+Dialogue: 0,0:02:02.60,0:02:02.68,Title - 2,,0,0,0,,{\pos(886,348)}C\Nh\No\Np\Np\Ne\Nr
+Dialogue: 0,0:02:02.77,0:02:02.85,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 856 532 l 908 508 912 590 906 614 884 620 860 618)}C\Nh\No\Np\Np\Ne\Nr
+Dialogue: 0,0:02:02.77,0:02:02.85,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1034 486 l 1050 490 1068 498 1074 536 1080 606 1068 678 1046 702 1024 702 1014 674)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:02:02.85,0:02:02.93,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1036 556 l 1046 576 1054 600 1086 576 1100 492 1100 428 1096 366 1080 336 1044 310 992 308)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:02:02.93,0:02:03.02,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 890 342 l 890 370 888 408 894 444 910 454 928 410 932 350 932 340)}C\Nh\No\Np\Np\Ne\Nr
+Dialogue: 0,0:02:02.93,0:02:03.02,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1028 380 l 1038 376 1050 372 1060 370 1070 354 1062 322 1038 314 1008 314)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:02:02.93,0:02:03.02,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1030 456 l 1040 462 1052 464 1068 472 1076 538 1082 618 1078 644 1074 674 1042 678 1016 662 1002 578 1008 450)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:02:03.02,0:02:03.10,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 886 340 l 888 356 892 372 918 372 920 342 912 330)}C\Nh\No\Np\Np\Ne\Nr
+Dialogue: 0,0:02:03.02,0:02:03.10,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1026 476 l 1044 470 1058 466 1074 434 1078 334 1050 290 996 296)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:02:03.02,0:02:03.10,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1042 560 l 1040 570 1038 582 1036 596 1032 610 1030 632 1026 652 1032 676 1052 680 1082 688 1106 602 1098 552)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:02:03.10,0:02:03.18,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 870 518 l 888 534 902 556 926 498 926 388 932 306 842 306)}C\Nh\No\Np\Np\Ne\Nr
+Dialogue: 0,0:02:03.10,0:02:03.18,Title - 2,,0,0,0,,{\pos(1042,346)\fs30}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
 Dialogue: 0,0:02:03.20,0:02:03.59,Title - 2,,0,0,0,,{\pos(886,348)}C\Nh\No\Np\Np\Ne\Nr
-Dialogue: 0,0:02:03.70,0:02:04.17,Title - 2,,0,0,0,,{\pos(886,348)}C\Nh\No\Np\Np\Ne\Nr
+Dialogue: 0,0:02:03.60,0:02:03.68,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 868 502 l 886 512 910 518 902 428 912 334 862 322)}C\Nh\No\Np\Np\Ne\Nr
+Dialogue: 0,0:02:03.68,0:02:03.77,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 862 432 l 880 424 900 408 916 396 920 562 916 636 862 634)}C\Nh\No\Np\Np\Ne\Nr
+Dialogue: 0,0:02:03.77,0:02:04.02,Title - 2,,0,0,0,,{\pos(886,348)}C\Nh\No\Np\Np\Ne\Nr
+Dialogue: 0,0:02:03.60,0:02:03.68,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1028 620 l 1040 632 1064 666 1096 560 1092 414 1082 324 1028 332 1012 336)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
 Dialogue: 0,0:02:03.20,0:02:03.59,Title - 2,,0,0,0,,{\pos(1042,346)\fs30}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
-Dialogue: 0,0:02:03.70,0:02:04.17,Title - 2,,0,0,0,,{\pos(1042,346)\fs30}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:02:03.70,0:02:04.02,Title - 2,,0,0,0,,{\pos(1042,346)\fs30}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:02:04.02,0:02:04.10,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 876 576 l 890 570 904 556 914 434 914 340 864 342)}C\Nh\No\Np\Np\Ne\Nr
+Dialogue: 0,0:02:04.02,0:02:04.10,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1018 520 l 1034 522 1054 528 1068 538 1078 424 1080 312 1048 302 1000 304)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:02:04.10,0:02:04.18,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 870 562 l 878 552 894 562 906 568 914 488 916 336 832 350)}C\Nh\No\Np\Np\Ne\Nr
+Dialogue: 0,0:02:04.10,0:02:04.18,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1026 418 l 1046 418 1060 418 1060 456 1062 506 1066 550 1064 606 1062 654 1058 682 1038 680 1004 680)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
 Dialogue: 0,0:02:04.08,0:02:08.08,Romaji - Skin,,0,0,0,,miotoshitari miotoshita furi shitari
 Dialogue: 0,0:02:08.08,0:02:10.12,Romaji - Blue,,0,0,0,,are hodo chikakute
 Dialogue: 0,0:02:10.04,0:02:11.05,Title - 2,,0,0,0,,{\pos(886,348)}R\No\Nb\Ni\Nn
 Dialogue: 0,0:02:10.04,0:02:11.05,Title - 2,,0,0,0,,{\pos(1042,346)\fs30}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
+Dialogue: 0,0:02:11.06,0:02:11.14,Title - 2,,0,0,0,,{\pos(886,348)\clip(m 868 362 l 892 378 902 386 914 372 914 328 862 306)}R\No\Nb\Ni\Nn
+Dialogue: 0,0:02:11.06,0:02:11.14,Title - 2,,0,0,0,,{\pos(1042,346)\fs30\clip(m 1028 466 l 1038 474 1052 484 1066 494 1082 446 1080 330 1068 306 1040 306 1008 304)}17  \N\NY\Ne\Na\Nr\Ns \N\No\Nl\Nd
 Dialogue: 0,0:02:10.12,0:02:12.06,Romaji - Pink,,0,0,0,,dakedo furenakatta
-Dialogue: 0,0:02:11.66,0:02:12.25,Board,,0,0,0,,{\pos(846,194)}R\No\Nb\Ni\Nn
-Dialogue: 0,0:02:11.66,0:02:12.25,Board,,0,0,0,,{\pos(1032,162)}T\Nr\Na\Nn\Ns\Nf\Ne\Nr\N
-Dialogue: 0,0:02:11.66,0:02:12.25,Board,,0,0,0,,{\pos(1076,172)}S\Nt\Nu\Nd\Ne\Nn\Nt
+Dialogue: 0,0:02:11.56,0:02:11.64,Board,,0,0,0,,{\pos(846,194)\clip(m 834 310 l 848 300 860 284 864 174 826 178)}R\No\Nb\Ni\Nn
+Dialogue: 0,0:02:11.66,0:02:12.35,Board,,0,0,0,,{\pos(846,194)}R\No\Nb\Ni\Nn
+Dialogue: 0,0:02:11.66,0:02:12.27,Board,,0,0,0,,{\pos(1032,162)}T\Nr\Na\Nn\Ns\Nf\Ne\Nr\N
+Dialogue: 0,0:02:11.66,0:02:12.27,Board,,0,0,0,,{\pos(1076,172)}S\Nt\Nu\Nd\Ne\Nn\Nt
+Dialogue: 0,0:02:12.27,0:02:12.35,Board,,0,0,0,,{\pos(1032,162)\clip(m 1016 216 l 1030 214 1046 218 1062 222 1074 184 1068 146 1038 138 1004 144)}T\Nr\Na\Nn\Ns\Nf\Ne\Nr\N
+Dialogue: 0,0:02:12.27,0:02:12.35,Board,,0,0,0,,{\pos(1076,172)\clip(m 1068 222 l 1084 226 1094 226 1106 188 1098 136 1068 130 1060 144)}S\Nt\Nu\Nd\Ne\Nn\Nt
+Dialogue: 0,0:02:12.35,0:02:12.43,Board,,0,0,0,,{\pos(846,194)\clip(m 840 230 l 854 234 866 238 872 182 846 170 824 170)}R\No\Nb\Ni\Nn
+Dialogue: 0,0:02:12.35,0:02:12.43,Board,,0,0,0,,{\pos(1032,162)\clip(m 1018 216 l 1030 220 1046 224 1058 200 1058 158 1040 148 1004 138)}T\Nr\Na\Nn\Ns\Nf\Ne\Nr\N
+Dialogue: 0,0:02:12.35,0:02:12.43,Board,,0,0,0,,{\pos(1076,172)\clip(m 1066 228 l 1080 232 1096 236 1112 168 1100 146 1046 130)}S\Nt\Nu\Nd\Ne\Nn\Nt
+Dialogue: 0,0:02:12.43,0:02:12.52,Board,,0,0,0,,{\pos(846,194)\clip(m 830 230 l 854 238 866 244 872 182 846 170 824 170)}R\No\Nb\Ni\Nn
+Dialogue: 0,0:02:12.43,0:02:12.52,Board,,0,0,0,,{\pos(1032,162)\clip(m 1008 254 l 1032 252 1056 250 1058 200 1058 158 1040 148 1004 138)}T\Nr\Na\Nn\Ns\Nf\Ne\Nr\N
+Dialogue: 0,0:02:12.43,0:02:12.52,Board,,0,0,0,,{\pos(1076,172)\clip(m 1062 254 l 1080 252 1100 254 1096 170 1100 146 1046 130)}S\Nt\Nu\Nd\Ne\Nn\Nt
+Dialogue: 0,0:02:12.52,0:02:12.60,Board,,0,0,0,,{\pos(846,194)\clip(m 828 224 l 850 230 862 236 872 182 846 170 824 170)}R\No\Nb\Ni\Nn
+Dialogue: 0,0:02:12.52,0:02:12.60,Board,,0,0,0,,{\pos(1032,162)\clip(m 1006 272 l 1030 272 1056 272 1058 200 1058 158 1040 148 1004 138)}T\Nr\Na\Nn\Ns\Nf\Ne\Nr\N
+Dialogue: 0,0:02:12.52,0:02:12.60,Board,,0,0,0,,{\pos(1076,172)\clip(m 1060 260 l 1082 258 1100 254 1096 170 1100 146 1046 130)}S\Nt\Nu\Nd\Ne\Nn\Nt
+Dialogue: 0,0:02:12.60,0:02:12.68,Board,,0,0,0,,{\pos(846,194)\clip(m 824 254 l 848 264 868 270 872 182 846 170 824 170)}R\No\Nb\Ni\Nn
+Dialogue: 0,0:02:12.60,0:02:12.68,Board,,0,0,0,,{\pos(1032,162)\clip(m 1006 310 l 1032 308 1048 308 1058 200 1058 158 1040 148 1004 138)}T\Nr\Na\Nn\Ns\Nf\Ne\Nr\N
+Dialogue: 0,0:02:12.60,0:02:12.68,Board,,0,0,0,,{\pos(1076,172)\clip(m 1058 310 l 1086 314 1108 312 1096 170 1100 146 1046 130)}S\Nt\Nu\Nd\Ne\Nn\Nt
+Dialogue: 0,0:02:12.68,0:02:12.77,Board,,0,0,0,,{\pos(846,194)\clip(m 826 274 l 842 278 860 282 872 182 846 170 824 170)}R\No\Nb\Ni\Nn
+Dialogue: 0,0:02:12.68,0:02:12.77,Board,,0,0,0,,{\pos(1032,162)\clip(m 1014 334 l 1032 336 1052 334 1058 200 1058 158 1040 148 1004 138)}T\Nr\Na\Nn\Ns\Nf\Ne\Nr\N
+Dialogue: 0,0:02:12.68,0:02:12.77,Board,,0,0,0,,{\pos(1076,172)\clip(m 1060 334 l 1082 338 1092 324 1096 170 1100 146 1046 130)}S\Nt\Nu\Nd\Ne\Nn\Nt
+Dialogue: 0,0:02:12.77,0:02:12.93,Board,,0,0,0,,{\pos(846,194)}R\No\Nb\Ni\Nn
+Dialogue: 0,0:02:12.77,0:02:12.93,Board,,0,0,0,,{\pos(1032,162)}T\Nr\Na\Nn\Ns\Nf\Ne\Nr\N
+Dialogue: 0,0:02:12.77,0:02:12.93,Board,,0,0,0,,{\pos(1076,172)}S\Nt\Nu\Nd\Ne\Nn\Nt
 Dialogue: 0,0:02:12.06,0:02:15.93,Romaji - YG,,0,0,0,,joudan to chinmoku no oku no nanika
 Dialogue: 0,0:02:16.34,0:02:18.13,Romaji - YG,,0,0,0,,poketto ni wa kagi to
 Dialogue: 0,0:02:18.13,0:02:19.95,Romaji - Aqua,,0,0,0,,marumeta reshiito to
@@ -121,6 +202,15 @@ Dialogue: 0,0:02:28.12,0:02:28.17,Title - Club,,0,0,0,,{\pos(378,352)\frz1.308}O
 Dialogue: 0,0:02:28.20,0:02:28.26,Title - Club,,0,0,0,,{\pos(386,342)\frz0.1935}O\Nr\Nc\Nh\Ne\Ns\Nt\Nr\Na\N \Nc\Nl\Nu\Nb\N
 Dialogue: 0,0:02:28.29,0:02:28.34,Title - Club,,0,0,0,,{\pos(408,338)\frz357.7}O\Nr\Nc\Nh\Ne\Ns\Nt\Nr\Na\N \Nc\Nl\Nu\Nb\N
 Dialogue: 0,0:02:28.34,0:02:28.41,Title - Club,,0,0,0,,{\frz356.4\pos(422,334)}O\Nr\Nc\Nh\Ne\Ns\Nt\Nr\Na\N \Nc\Nl\Nu\Nb\N
+Dialogue: 0,0:02:28.39,0:02:28.43,Title - Club,,0,0,0,,{\frz356.4\pos(422,334)}O\Nr\Nc\Nh\Ne\Ns\Nt\Nr\Na\N \Nc\Nl\Nu\Nb\N
+Dialogue: 0,0:02:28.43,0:02:28.47,Title - Club,,0,0,0,,{\pos(438,328)\frz355.8}O\Nr\Nc\Nh\Ne\Ns\Nt\Nr\Na\N \Nc\Nl\Nu\Nb\N
+Dialogue: 0,0:02:28.47,0:02:28.52,Title - Club,,0,0,0,,{\pos(438,328)\frz355.8}O\Nr\Nc\Nh\Ne\Ns\Nt\Nr\Na\N \Nc\Nl\Nu\Nb\N{\c&HFFFFFF&\1a&H72&}
+Dialogue: 0,0:02:28.52,0:02:28.60,Title - Club,,0,0,0,,{\pos(450,326)\frz355.8}O\Nr\Nc\Nh\Ne\Ns\Nt\Nr\Na\N \Nc\Nl\Nu\Nb\N{\c&HFFFFFF&\1a&H72&}
+Dialogue: 0,0:02:28.60,0:02:28.68,Title - Club,,0,0,0,,{\pos(470,330)\frz352}O\Nr\Nc\Nh\Ne\Ns\Nt\Nr\Na\N \Nc\Nl\Nu\Nb\N{\c&HFFFFFF&\1a&H72&}
+Dialogue: 0,0:02:28.68,0:02:28.77,Title - Club,,0,0,0,,{\pos(466,342)\frz354.3\org(466,330)\frx358\fry0}O\Nr\Nc\Nh\Ne\Ns\Nt\Nr\Na\N \Nc\Nl\Nu\Nb\N
+Dialogue: 0,0:02:28.77,0:02:28.85,Title - Club,,0,0,0,,{\org(466,330)\pos(462,342)\frz353.8\frx356\fry4}O\Nr\Nc\Nh\Ne\Ns\Nt\Nr\Na\N \Nc\Nl\Nu\Nb\N
+Dialogue: 0,0:02:28.85,0:02:28.93,Title - Club,,0,0,0,,{\org(466,330)\fs25\frx356\fry346\frz351.9\pos(432,222)}O\Nr\Nc\Nh\Ne\Ns\Nt\Nr\Na\N \Nc\Nl\Nu\Nb\N
+Dialogue: 0,0:02:28.93,0:02:29.02,Title - Club,,0,0,0,,{\org(466,330)\fs22\frx356\fry346\pos(218,138)\frz349}O\Nr\Nc\Nh\Ne\Ns\Nt\Nr\Na\N \Nc\Nl\Nu\Nb\N
 Dialogue: 0,0:02:29.33,0:02:30.08,Romaji - Blue,,0,0,0,,renzu no mae de narande
 Dialogue: 0,0:02:31.69,0:02:33.96,Romaji - Aqua,,0,0,0,,totemo tanoshikute
 Dialogue: 0,0:02:33.96,0:02:35.37,Romaji - Skin,,0,0,0,,zurukute
@@ -156,3 +246,4 @@ Dialogue: 0,0:04:27.30,0:04:29.39,Romaji - Skin,,0,0,0,,boku datte sou datta
 Dialogue: 0,0:04:29.39,0:04:33.12,Romaji - YG,,0,0,0,,owaru mahou no soto ni mukete
 Dialogue: 0,0:04:33.12,0:04:36.71,Romaji - Aqua,,0,0,0,,ima boku ga iru mirai ni
 Dialogue: 0,0:04:37.19,0:04:38.36,Romaji - Pink,,0,0,0,,mukete
+Dialogue: 0,0:04:51.22,0:04:54.22,Title,,0,0,0,,{\fs36\pos(954,574)}Kinen Satsuei
