@@ -17,7 +17,7 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
 Scroll Position: 8803
-Active Line: 8815
+Active Line: 8840
 Video Position: 916
 
 [V4+ Styles]
@@ -8845,7 +8845,7 @@ Dialogue: 1,0:02:48.17,0:02:49.69,1.,,0,0,0,fx,{\fscx20\fscy30\c&HFFFFFF&\3c&HFF
 Dialogue: 0,0:00:03.86,0:00:06.76,1. Eng,,0,0,0,,{\fade(100,100)}What if the world ends tomorrow
 Dialogue: 0,0:00:07.94,0:00:10.45,1. Eng,,0,0,0,,{\fade(100,100)}What is it gonna be? Hell or Wonderland
 Dialogue: 0,0:00:11.72,0:00:14.02,1. Eng,,0,0,0,,{\fade(100,100)}Nobody knows
-Dialogue: 0,0:00:15.38,0:00:17.73,1. Eng,,0,0,0,,{\fade(100,100)}But who is to say that it’s not even worth thinking
+Dialogue: 0,0:00:15.38,0:00:17.73,1. Eng,,0,0,0,,{\fade(100,100)}But who is to say that it is not even worth thinking
 Dialogue: 0,0:00:18.47,0:00:23.12,1. Eng,,0,0,0,,{\fade(100,100)}The big question here is what you will have for last supper
 Dialogue: 0,0:00:24.62,0:00:27.00,1. Eng,,0,0,0,,{\fade(100,100)}Even an optimist cannot laugh, you know
 Dialogue: 0,0:00:28.26,0:00:30.61,1. Eng,,0,0,0,,{\fade(100,100)}Can we? Without not losing our mind?
@@ -8876,4 +8876,3 @@ Dialogue: 0,0:02:28.32,0:02:34.29,1. Eng,,0,0,0,,{\fade(100,100)}Though you do n
 Dialogue: 0,0:02:35.62,0:02:38.10,1. Eng,,0,0,0,,{\fade(100,100)}No need to worry
 Dialogue: 0,0:02:39.43,0:02:41.80,1. Eng,,0,0,0,,{\fade(100,100)}just be there for me
 Dialogue: 0,0:02:43.12,0:02:49.19,1. Eng,,0,0,0,,{\fade(100,100)}I will easily find you like I found you in this world
-Dialogue: 0,0:02:49.69,0:02:51.69,1.,,0,0,0,,
