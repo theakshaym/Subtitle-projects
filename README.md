@@ -10,3 +10,4 @@
 - 【おちゃめ機能】ホロライブが吹っ切れた【24人で歌ってみた】 - Synced
 - 【SorAZ】 暁の車 歌ってみた AZKi & ときのそら - Synced
 - HUNGRY DAYS × BUMP OF CHICKEN 「記念撮影」フルバージョン - romaji - Synced
+- シャルイース - Aki Rosenthal【ホロライブ_民族調オリジナル】 - Synced
