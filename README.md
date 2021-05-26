@@ -1,5 +1,5 @@
 # Subtitle-projects
-* Archive of Subtitle projects
+## Archive of Subtitle projects
 
 - Milet - Drown (Music Video) Synced.
 - 世界の果て - RADWIMPS (Music Video) - Synced with karaoke
