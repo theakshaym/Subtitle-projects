@@ -11,3 +11,4 @@
 - 【SorAZ】 暁の車 歌ってみた AZKi & ときのそら - Synced
 - HUNGRY DAYS × BUMP OF CHICKEN 「記念撮影」フルバージョン - romaji - Synced
 - シャルイース - Aki Rosenthal【ホロライブ_民族調オリジナル】 - Synced
+- 第三の心臓 - はるまきごはん feat.初音ミク アニメ - Synced
